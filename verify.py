@@ -32,7 +32,8 @@ def main():
         java = ['java', '-cp', classes]
         print(run(*java, 'Tests'), end='')
         prefix = temp / 'fizzbuzz'
-        print(run(*java, 'Assembler', ROOT / 'fizzbuzz.asm', prefix).replace(str(temp), '<temp>'), end='')
+        message = run(*java, 'Assembler', ROOT / 'fizzbuzz.asm', prefix)
+        print(message.replace(str(temp), '<temp>'), end='')
         raw = prefix.with_suffix('.mhc-bin').read_bytes()
         print('Binary image: %d bytes (20 header + 180 text + 10 data)' % len(raw))
         print('SHA-256: ' + hashlib.sha256(raw).hexdigest())
@@ -47,7 +48,8 @@ def main():
             rebuilt = temp / (kind + '-rebuilt')
             run(*java, 'Assembler', asm, rebuilt)
             for suffix in ('.mhc-bin', '.mhc-ascii'):
-                assert rebuilt.with_suffix(suffix).read_bytes() == prefix.with_suffix(suffix).read_bytes()
+                actual = rebuilt.with_suffix(suffix).read_bytes()
+                assert actual == prefix.with_suffix(suffix).read_bytes()
             print('PASS ' + kind + ': reconstructed source and BOTH reassembled files match')
             sources.append(asm)
         # Verify CLI failure status as well as error text, independently of unit tests.
@@ -63,7 +65,7 @@ def main():
             for asm in sources:
                 # nc: no banner; sm: start at main; no db: delay slots disabled.
                 output = run('java', '-jar', mars, 'nc', 'sm', 'ae1', 'se1', '100000', asm)
-                assert output.strip().splitlines() == expected, 'FizzBuzz differs: ' + str(asm)
+                assert output.strip().splitlines() == expected, ('FizzBuzz differs: ' + str(asm))
                 print('PASS MARS: ' + asm.name + ' prints all 100 expected lines')
             print('Expected output sample: ' + ', '.join(expected[:15]))
         else:

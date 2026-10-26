@@ -1,0 +1,2907 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Outlines 2 0 R
+/PageMode /UseNone
+/Pages 23 0 R
+/Type /Catalog
+/Names 98 0 R
+>>
+endobj
+2 0 obj
+<<
+/Count 17
+/First 3 0 R
+/Last 19 0 R
+/Type /Outlines
+>>
+endobj
+3 0 obj
+<<
+/Next 4 0 R
+/Dest [ 20 0 R /Fit ]
+/Parent 2 0 R
+/Title (From assembly to bytes and back)
+>>
+endobj
+4 0 obj
+<<
+/Next 5 0 R
+/Prev 3 0 R
+/Dest [ 24 0 R /Fit ]
+/Parent 2 0 R
+/Title (Part 1 \057 Assemble by hand)
+>>
+endobj
+5 0 obj
+<<
+/Next 6 0 R
+/Dest [ 30 0 R /Fit ]
+/Parent 2 0 R
+/Prev 4 0 R
+/Title (Part 2 \057 Digits versus raw bytes)
+>>
+endobj
+6 0 obj
+<<
+/Next 7 0 R
+/Dest [ 32 0 R /Fit ]
+/Parent 2 0 R
+/Prev 5 0 R
+/Title (README \057 Run the project)
+>>
+endobj
+7 0 obj
+<<
+/Next 8 0 R
+/Dest [ 34 0 R /Fit ]
+/Parent 2 0 R
+/Prev 6 0 R
+/Title (README \057 Supported subset and layout)
+>>
+endobj
+8 0 obj
+<<
+/Next 9 0 R
+/Dest [ 36 0 R /Fit ]
+/Parent 2 0 R
+/Prev 7 0 R
+/Title (Verification and acknowledgments)
+>>
+endobj
+9 0 obj
+<<
+/Next 10 0 R
+/Dest [ 43 0 R /Fit ]
+/Parent 2 0 R
+/Prev 8 0 R
+/Title (Original FizzBuzz source)
+>>
+endobj
+10 0 obj
+<<
+/Next 11 0 R
+/Dest [ 45 0 R /Fit ]
+/Parent 2 0 R
+/Prev 9 0 R
+/Title (Assembler source)
+>>
+endobj
+11 0 obj
+<<
+/Next 12 0 R
+/Dest [ 63 0 R /Fit ]
+/Parent 2 0 R
+/Prev 10 0 R
+/Title (Image format helper)
+>>
+endobj
+12 0 obj
+<<
+/Next 13 0 R
+/Dest [ 67 0 R /Fit ]
+/Parent 2 0 R
+/Prev 11 0 R
+/Title (Disassembler source)
+>>
+endobj
+13 0 obj
+<<
+/Next 14 0 R
+/Dest [ 71 0 R /Fit ]
+/Parent 2 0 R
+/Prev 12 0 R
+/Title (Reconstructed assembly)
+>>
+endobj
+14 0 obj
+<<
+/Next 15 0 R
+/Dest [ 75 0 R /Fit ]
+/Parent 2 0 R
+/Prev 13 0 R
+/Title (ASCII machine\055code file)
+>>
+endobj
+15 0 obj
+<<
+/Next 16 0 R
+/Dest [ 77 0 R /Fit ]
+/Parent 2 0 R
+/Prev 14 0 R
+/Title (Binary machine\055code file)
+>>
+endobj
+16 0 obj
+<<
+/Next 17 0 R
+/Dest [ 79 0 R /Fit ]
+/Parent 2 0 R
+/Prev 15 0 R
+/Title (Java test source)
+>>
+endobj
+17 0 obj
+<<
+/Next 18 0 R
+/Dest [ 85 0 R /Fit ]
+/Parent 2 0 R
+/Prev 16 0 R
+/Title (Verification script)
+>>
+endobj
+18 0 obj
+<<
+/Next 19 0 R
+/Dest [ 89 0 R /Fit ]
+/Parent 2 0 R
+/Prev 17 0 R
+/Title (Captured test evidence)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 93 0 R /Fit ]
+/Parent 2 0 R
+/Prev 18 0 R
+/Title (Captured FizzBuzz output)
+>>
+endobj
+20 0 obj
+<<
+/Annots [ 21 0 R ]
+/Contents 22 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057tenth\055package0\057mips\055assembler\055disassembler)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 44 571.4125 338.7963 586.4125 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1789
+>>
+stream
+Gatm;gN)"=&:O:SoV4>Q6?f6<@2gS1fk\X4]?c*dTLj60bm7Zk5CU478-fH_8l^hni6h1=cT.mV=CC.3dXS##i+`FZ>72u$<ZA8J_hHV]bZ>U8kuc6\!Q,?Kdg<k[gsEF%g0WiR3LpB4UQ+A%`F8As_Jj>H!/<k1D7$UHY%Q.*mD+I,c4:A6Ilsl;qaas.VOdmj$ngujDZ75:K*O(2Qn=Zrql@@)'?pHgJXaWa>PJY.?X`W$$$.#pNWk/3IaPD@RTAYH*8;fc[b]DmX["t^XbmOSPWW0JYFl5)^FCjejY<i>oW@TOr'`1C23=[IS93tMNPe!5Ne,9oP\3*[9SjsKs'YgMU_<J=DT1Ab<W2UqAQ<OsQJo0*8/5oHJaJHd::B&<l/.E5#MVRSEU>kF<i6&?25V(OQ@Wa03e!-a^RW,0UjTgeP/f.:(]qMd$[Gk,'G[R"_u8S7#pP_9W[#*<KUOIDYPP6"b;'h-s81OgYY'.eT1`=j1Ee%f,4[.a@jE7.H-K7FGuV_<NuZ!I:^JaEM9,K0=#gVmXLN)o`%=hPpaUAje5aG<G)[pFc4u`]E?,@u"X)b2peJckKc<1"^Yile*VM8c/qK%.pCMT/rNT\,,(`TWIBM1Ds0"O_6WAA\cr,//qgljt+qpeFq/J1C$C0+V"-K!"6n0(@W,B'*js1V:*-[@%qt.UTi]'?\s#IJiiF%`X3TXQk,Y:^HF39FW,/@3@CDe:0KbUPc?4FCnT(B<sZ$t&;--]'7:eEZ+Nr\jp?W>#6.IG'#nMoY9+nSHM!09(J-sat`VEaMPIn#tn,CCm^Qmma3U\H+!/Ec7NQ]#Ql\bs]&Z([CJA_3oE6V;@Ri.j-ch6pQ%.<Ap6#ArE0*Vod]oZ<?S"5f\n"rQR/!R_0Qq`&PEmPrNWG8dUo4DgPn_6q\K]a)g&<QAd9loO)q27p?B`n1b?T/<R]SYk8p3crY/%))Too6jciKlP.2&N9la.Z,4+UU.Es<"W_HI!Vt,rcGnrdBBYc5X0)[r6EIXNf3H21Jca`D/RFq'CP7#bNm-ABndgEeLOTfNW5paCW<UUcMWPlFd$65>a:,LPd?@dKW9:OFGGIPXR>@.06p:t_#<V6M$_G%RP&]:l.5X'&mGc-L#2p;O@M_MNfT!N#q>Q[#oqFj.*'("P&tlK:l"R:_Y06gpU,5oSSeDYp$bIP@?n,TI5]0BGj^IjH/WI2rNp!6$UQdD8GERNGpG.u%7OQDWV\M7c"B!0F,5aQDCQc+MeA?`P,#1S@Z/("9dd8,`p+l7=?7I<EQkK'74L'tDq>3K27$)6Nipl#93eN]d:!M&i;eSFMl)PoF]j*[n?f!Hr>%<VPCAm1n?er&6Aos89EO%W!"g_]>oeglqdP%K*E'#=45'9F::+L(/.FCoM:6F<nXt0kUNYGUp_#rCHX#M]ARn@h7M8:!D0s09;RaNG8&LO-R:Aqkh9pfWor^pJ"@o*LF?b@T)bstl_:iX)%st7JP%t(90]-jYZJU$1';!Z@aRV\[V=Sf``$9@G'c92+YL_N4?nL8"!Gj:aT*+el.X!pe39QiaoLO2^X=@)G]Fd8_i\::""ZEE;A\=QU3).*:\/TYbXP\R-J/)n/kV0\>NP4Oi8#d=?4eKCFF=*J+G,Ii\87tMh7iHn-Ku4F&$r=iEU2P>IN1[QUpr\c+$J%>YA1%c4e]>o\H]9TUDIa%ncOR3i#?0(Z!dkMa$bm`GIDXj"pu?:i-W9l(_Xb`SK[,&,Z^ZQF^G&>"KI1[<q:[l8bWXi<4O7oiqRb\FIl7??%0~>
+endstream
+endobj
+23 0 obj
+<<
+/Count 32
+/Kids [ 20 0 R 24 0 R 30 0 R 32 0 R 34 0 R 36 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R 85 0 R 87 0 R 89 0 R 91 0 R 93 0 R ]
+/Type /Pages
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1281
+>>
+stream
+Gatm:968iG&AII3llcT[,JsXLn.AG,G3u[)fM-+[dt=1n,siA/&ucM*PB?Z]]*gk2,tI6r(,[=-94/k!mXA7J&Uq7eSh'jo7WA3a!uEY[!fpImUDp]]oiNKM9I6o&cQ\bZ;fNibBHMRYSkRTA&j4'ABJiK@oU$?&!LT\-!`+Y0<h-T[!s17+T<ffA7k"t?`%e&[_IruKg\7&Lhct^63!D8`%^0b'DQ`Ecr7=TO]H1qnY@7&NN8Ae<dk$e)Qls"S=QC(?PE'&`O_#,SgG$sDi=A@m;0!$,`otBdY$q53Ajp!K9cX_+6gc(U=S>Hf8a];EEAF[Jgg5IIK!$Iq=k/RF!1t`&"'nT40Wju[">agWeY#,[kLHB6o.M+Srp"XVWYG&\ZGT6&:"j*COrl=@&X1LQ73;3loODI6DTuC1os\fXp]7igoHSZ'?4YtZNDPk%Li5[$7<oGa0+o\mOdC's%=ppX,WQBUgrh`5rJ$s3\BlZ@f9Z"jpYL7X.D>$ap4j1WCR@$IU9JR,_/A=^BU5"eI@kn?J"S[nb,s6ueRG5qWj)>k-Qa5=CK`./Z5VXjW!q=H#1K[-M08o/"U/>6NNMK_<_^is]eb2C<G!7)6:q6L_6Pe\Xe,/d9*V1jVP(`EU+DhucW8Yo0#9HA]kW*GY(TulCphZuop0dJgu#o@0qPfNG.jn<EqN$:;sFV%-jCg/U]'8IVGIl'`&ECrJkH.&6RhNj#+1Fu*>M1,'cp:9ip)f[mf1PLq0l&C#TX6X06VnJ)9t[_c^(FEUWldTD8&;?*>.ZuQS1chcD(8No3J`.chD3IdXu6)".HZc+r9`_9QBekRA);3C1bF/Lo.5!@df.4!WsQ*:eK%>otVBnj.8PgW!jBG@>ZWd\S1JmW+ohseV#1P<^qG*`79h!M+#?&7i?pUd-#trcbQX%47D5!Sp:+a$mNTK7pb/V0F04=q%68'VTIe[7S)A#;$q$j>Egn*TtGS@A6n&6V00r;A%Q*?MKXpU/"=$mkNbHaVWl(h$Qfa&*A?;9TG8Cd'7L)GM"$<RHO`9t:'9Z@nFQVJMcB(rT<E=Oq$-gM9j8S^E:Eb-.8)G$T!C-6Am`[r%TtVV?q(?<:hZ0+V7pm%;R_1h';dE&Q!->u3#NPl@\$?L)#QZU,+YcL*#jbq4;IH&;9-1ldKA,"bI/j$6mnBI'[$AD,b?l<-C)Y^?s+BsKUub#b]+i@q[&%*@b)A3mY]"+Eu=oN"FP10(V-1.C%+9>?](`_QeS-^gil14Osq^.a$aPVo_o#*YRQZ~>
+endstream
+endobj
+26 0 obj
+<<
+/F1 27 0 R
+/F2 28 0 R
+/F3 29 0 R
+>>
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+29 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1762
+>>
+stream
+Gatm;gN)%,&:O:Slt#\FA8%DS8;cc'*BT6:ELTG_oHc.%#t[[5;$kUXr:SkL0;@f0):)D'?&%.X_4KHbOF`1*B"udri,Sk]*uQaS(+WdD)o1G@>VAiWO#&u[i!)d>nH@W$83A!Zogt"3ZWR\KqQKs7$*3eJ0)*`n>Y`:&HMOliA7TQkp^gC%`/V@tGa3DBJcKC+LID6A[sq`_rT+qaJ9-7!q>C*_o#p\b\G5(kY&<C>Km0cr!K6\(bZPp)#-LaI0sR?q/;ZiQI?-/\_9We$fI$SIC'-Y3]i&WW1u-2V2]?FN&'LN+HCXO#8f8n_P+EWm1h2cW))'P:9U;(Zj_nNb&rK:#ctZjdPtFJZCgKpV[&If._+N83N*uR-1("q?+3DH:8'4-)Z+tu'96'+74`:Y)(V!%)Y4NZ'rbQO=NXm/7<IjbOdG[OQ_WY)Y]K1&AmiguAQ0m,"Q&Y8_Vs_FMhNZaD9kmX-NX@["B&">nJ#o(Wij5I:caY#pGMr'a5!1XpXC[HY+%MfR>pPPD$Jl]IJ[^]GXrQBKQj5"b@ii=6^0(EUg](\uH5/d]S.%%TnsRQ:5r:ZVaTe-k1sEf#.89F<-M*85*24"g`58%c)$*P,0G1/MF;6YHnHn=8dm7FfPcP#ur;rinm\;I&).FCX=C[,lc;lks`5\@NTOu'Y[OHQ`P'*#L0AE747o8WK0KWi#q#5i1r+4d7RbnS4ZX)QegHr*/nR@]R$(WP'V,otDrDKggU%+>V1CA!..aR2l7S"Xs(FYk*PtOZKdKijIC.j\G-!n-LJ%3%?F<bO_)H:epY!opQD66E_P3S%f<TmJ&]a'RW,K^GUfT[DDp<,Ma?'l!9^jW7,C9Kft8ssD+!Cf8?&J,382[[H(C"dBIA73Bp!Vqi>9r?&jkcICP[RbF=8m()QrmgG8U9DC8^r(`.V(/D<ij7=]pu9*tpqiIV,)64-N[m7cX%]tpE1o//SaW5Q#ILU(^9'EN/$jedHk;]><Il=^7,I8f)O86,`PYJAZ,^.[0p#E!>?7UkAG9TWfUJ!k^*/O(<LG;[Nd,c@2q>TaX/gWd03%V+ZmgcZe@T0mjj-I[/@GMpd5Y%hO,/tM@S:6m3,Dhilo2Mf't_*k=kB_`oq@qGN/g51AMFaSg>e8E7D8$_RG0?:Cl@_Z_R=2`@aPulf#S74;hMm1S[K2`J/hR6etP5Ym#OQ%O"?E+JaB1,+mfu@RnBNa**O-7gt(!dR2T_Z9I+)e>c7]U"B'riGAqp#FUk^i;fu)<-tkH?aVrf"Y<>m7dSA=?ClU6s[VJ`S.dU)=73RV])EFG)hT/u#^8`pB#*63m,`+eoE2Pb'!d=J*"7+'39#N#m?]7(cEg[4Yg6$1j`(k<3N)@XM8e4>V8[fRV9Vkp2%!^s:mAk-5]5Fp:]&HP$/W*:)d(76>jh'*X6]%.k3)fph-9d3lfN&hUpUVfs[Fnq4lH2T@PSSMM^eq2<gCZ-@S(>6;j#/.TkBQAaa-FWI33MQ:nZmFfKFQK_#S.7:IS-Rj_XHq5m%->CmVsS>3t0R]n#B.;#K=Od"?NWXC=NJ')XH\h-*X/T0,dU1#&EbIe:iBC:<cW.<\6iE/7$oZI\3$=<-MVFb:RabX9blWK?>ttU'4Z9LYQ`"^c$,bBZL:1,>m]L6lL72`(@^5;]1]^)q^O5IY*V"n]VC$(k7a"iM55<hsnO7[^cAFI/&N^:Ccu'5JnLi>4n*Q@?jgR*'T9BJNktZ5<j[P&U2.>n(kurD)h>5$lfk`~>
+endstream
+endobj
+32 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1796
+>>
+stream
+Gau0C9lo&I&A@sBm%FYC,=)Gs,gnj/OjlG"PLNXe@g=2$#mn?JJ<o;(hZZPJ<,=&+N'!K%,S8UVfR<W4T]"a`g1QoV>V0>?Va+NiXFU/cLW'_H(2(SUW&O6speg7"&Wjeh*#I]4/B=$>8I/g26[b%9<c?9>kMcUeSses).X0kWe4d=]>R6>fLl<;E3(b,8^(6FCK1-"-[i_K>DIsF[MuYL!mq9+22mYTUHp<>LomJpk.kEm%i_9l'')EXQiYoSqfSpjhNB</+a*;e+QQ=Q%3kh(h:2ae/orcG'D`Eueprm7(olPM8'I"J^LP.=,)Fq35\O\`:]WC`*MFunfXDg]>JE;W1/W2)SL0BHI*k2n7&Ml"r*9&0cE/s3kqKg`ci4G@R*'5/Sg(Jp*A7@7Gr&_j'p]H0Jr/Q9/K]F#s[CUm4dm#R:KnP\)/kI"X<KX/t<oiQ^)m!S4flp#mc-q7j4P@af'!rMA6LG,l0Amjt@/I'rVd_*C'O1Z+538<p3W]\r;j:nc/3T#IMD743\S#>#ppecl*;2o.Ag^?'iTGP]nK9)cPJZ5]RKa7\>tS@k`QnfRL.e@f[S5)8q%)'p>P%^S<%)qfEl"#Ap1FW^2s-ZNa8Eb7''/:k=Znn[VR#(/6.?'^K]$5\gVh"+a>%XROXi#a=C\""R[s)$H=iluY2O64Z1/?6A1AASfL7rH)QWl_=:^,rM!M<p_qkuCS'1fQFH<0'XRp8mmRXnS.pY@FI]dcU^UJ:q]4Q',98t5$Wi0IPXjH,[j&TnsI]0A<Le>cjifV#@6>qlT#=?=/$B:>E4ABZ))lqjON>s<k%uI%dr$tI[!.WK\=/N(n\8""JZ<`BX_!FoHNIoXUlq45,%`unY`B<t@W_i;u<?B42Kn`OJ=gCE8B^N?*oJO@[Tfd+Ua$T6AN_TN12X._]?"&EL(mcb3$S;+.4U;`NXMW`8]DFcaGa"b!o+R@U2HgNu9Ig)"!+e\BPe'tjX9uloH-2Q7OG`rDb-n6;^?1G"n-NGJI)W*b6cLnq9uXN^L9cY/Gfk1lfl(Qf&F)8tJe5A0Nq/d^)q-9#bicC>^V.0AoSk%^MC$FHCc<Qp!!7G]KJk19YW>'.+d8AWJ=U7'=U%JSBo%ebR)fMZ#`a%E4-bnpGE#;6D:Lt'I/>!hKGW"LieQJH_t_-JA9p&[`Meu[?8:u_,=riCbe7NeneeT+J#H:j7r@V)2Ga"',KdT-kLCtr-)_=+TG,1e_rEDMVQCPJ@Dp?.Dcu#j,G9C$+=l$ejP1$!a:hm#I,l2WA^,9KnYjf4p7+1h&D:tIWT;V;*\NQC[3VK6[#gBO%2PPU7FDs&"_,u[mO_h89Do&hVH@KN0ksZrpo69S4^jrR7ikb*E.]o]WX?1.JbgS5'#X^k,3=-%,llNgW_.h8M2IO;V,35"&"#2"]`[D^M3Bq$JhDp[2'Jq0`\q)RUCXS<,-B)Z:)@$l$)25[C"e[m#Y(Bf-2UHPX#Hd"9Uo/YWpP0\WGSI&.U-BRfjY3'.A]Uod1cY'$j(oh=deg]G)?u_dEV_6e3%!Oe6$b$L0I6'U3Q4W!cm:`J<`\Re>B(uO,3j40&XbG]mrnhW_*pRX3[o0>o9r^BlbZ*Q8Tu!VR>I3?Y1^q_ON5fm&AW1YkU%U)OCQI$X7MTRlT!*2XrXPo=>Oo`_8J"K;Jn)k5`uec!5//]1pjr;7B&IVL(M-MpMjea9N>QS0/7147XiWna:kHCTD0p5%JmF%F'qJm_=7N4*b[cU\`PfrUCr4Ng@p7\GbG>m?-817tSP40Cq93i9W\#gN-9~>
+endstream
+endobj
+34 0 obj
+<<
+/Contents 35 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+35 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1977
+>>
+stream
+Gatm;b?!@g&Dcpm[?uZi3'pDF-7]@4L,gq2f\*NDbAG^%96/Mp@(q)-[:EDe[Q->q4ChTpW`u[p]'YW<?dE&BPj!K]-XT",I%&:$$_<A+f5s#5EnnG<L&j<n.!C4T3DhbVI4?"&))R,dQj1q-67O8*59)\7%fp\P(A=H`&&ZIuE=:]'bk=QPTJ;M*?K4TodP)#AP#Cc2lc&Va98\O#LsF$#bFA+hb<%c^pOY$#`pJCgRQT$Z6ga"i%Khb3T5anuO'HT[kQ(K4,Q$G;?n\t(GF)qY2jZcM=3G/]P]B6jRMo=laC_6e.^-uIlJZD>)VJr<::q6_0WJ!rZmM'_o-+pGatq29S,p1EOjms)c`0B:r0^7LRABC>)8bu8R<5"qERZl5%oH@ilQEbQK[,Yk]nlXGXMD;qIGCGZ,Xi(6c]gk`Y^bfbU=sd)e9`HQ1Y&tdb'qtNDNVXsjTXN*$C@0,UAJ9mbb6VQ.:lrUO8G0e+7R]lh5@7MJP.?eoS>__-]\FqTCMcg^CI_c<[JD^44LdGM55?2A2VPS3iUdA!P&%6p'[;:ZRR&Y>>f/bB1eDO4]Ea5A<nlmRD2Q%nueSF:'@JZ04gcGR4*XH/9F)+bpS;+#a6\0\r"=mY"Ir#Wq[%<>Et/%DI(B%/cKgR]8kDFn(e=\+<t6ZBIEG6buD0X[`o@j?Jr4,;lR<dKeu7;LTJ'_1?18LkX4$j6F1j;[.3e6$]u_GOKFK&\r1$K[Ib'?\"Dn\$La&EO0REU:\7bc9@K9*7W,4ui!g^IGA+&n)8iQA<4b3!p/*VEieANjZ3:JPnfMtXYR#9-GOk)(^Fdc8EPQ2"*,PMi$*8Xjglk8g_(&[Y''Cf0$!g+-#q)F=`QH]aNOWKQ[5D(>cE+e7"]La=D8WL[8`t]+!e`d+M&^3"59h&pQ!K$D`/DpGX.YQeQPb%67D<(.Fb94]/8VLhLAch*:S^V*;_H>>g"j/l/ZPmOBsW85(UN?rf6gH!YNOI%C[L[J2i:[4*HM\<+pRaVFKeO>E;4=AGVo6Kl6H4Vo],U\)?p%+c=k"nr#,)ifdO)m[K>_d?Mf$[s.[3R4_P@9o9\g_Dr]M+(VOtj*GbZ/BNf3;6-U*OD@+/6d5A]n*V'KVm.rc8@m"oAes2.TK'1eMb\fEoE'&Y1It.0*Y,%XtS!^4p8"!f)BD9FeA_1\"SIH&jlO?@DBm6bQ)jtZ[NuOc3Yu&Qa';cR,rKP/,$=aDF69F&Y!4KPrp*T>?,I'2ra]NIbTa><@9ne_-jM&-Akjm&+Hp;;oir/YSbTZmbaPq!'/]riInm[r_qeJ?f;:MOira#h5R035dbQVTq)ntLHhP'EDlSe>=HdQ&c"6ckG7;mg.-h^s(5lUa`Ch8^MrV3MEeRn=!;QP,thckE176e!hejA3ooN'%&hnX]X@)Dl$-efCirO-2PGJ.@Q[c(og[/HHXPoZW@othA;fE!tnTa<a[#22n!LF*RIp^AamP/*j!]HgG<"i%L^0Xhg`2_[/nhZr=HC6b`@PNrMa16Te]FQbJ1M\YR-pk:/R).8d@3HWM6b&S.fi#EW&eO'lc'AtZil=EsF$^GOQ0gBLu62ae5oZ;`53LQm@!)tI>M8h.rKj<=Ka(9i"f7Pr+&;<Xt[Olkbrd8kMd.^3idPc;ZMS:FI)k+ph7"K`]Z@n9HI@S3D0u@=`D3B9[G'j#a>o\c<$/PnZ.at@dLsg=,T@2AiL!1)i#J.(OA[[=h!,kUj24LnIS=%/ToJo^Xd[aWnOtBK2D/7a:e4c=T;JKKM+'IRR@P3Wp_1fGZDejR_L4M.G/fP!r;_X?9lkVpe1,oaj%i\oA-+^Ch1!?mki1b/p@O&1'il4LdguJ*M=?ilqE)p3X,.0D#,E<0i6tb`6gNkl"&G[QtKm;fNEK&4@ki$W2pD7KFb(m_GA0^4U:#ku/^]tDJrhpm9=1;ZZ"9&m.!ZsNhGAfXl+E4'r?`QU9.6@;I7g4:;~>
+endstream
+endobj
+36 0 obj
+<<
+/Annots [ 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R ]
+/Contents 42 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057student\056cs\056uwaterloo\056ca\057\176isg\057res\057mips\057opcodes)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 44 346.44 253.0968 357 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057dpetersanderson\056github\056io\057Help\057MarsHelpSettings\056html)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 44 310.44 283.6592 321 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057dpetersanderson\056github\056io\057Help\057SyscallHelp\056html)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 44 274.44 260.1808 285 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057dpetersanderson\056github\056io\057Help\057MarsHelpCommand\056html)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 44 238.44 292.4504 249 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057dpetersanderson\057MARS\057releases\057tag\057v\0564\0565\0561)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 44 202.44 289.0536 213 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1847
+>>
+stream
+Gau0Chc&Pn&:WfGfLNFPg%(3VVGH0kol>b,-+S2r_i&=]M)a71,rkuIqR:YpRp;TtH8BXuPM"/QhsRtchoZX\r)!,ne,UjPn30aC!R0[k,8.iZ!mYG*`"-RLKKu7_otq2/*+aR!C9cCKas9PeKPP6(MSoA0*XMp*!"rJq!*9=q'N8f8!!5^YrYZR_gZ)3nGS3H,`$*?>fY>'[qg*5l0n9K_SkdTb:G0qr@JoF/S5#lM#6urpL"V7<bp898$7)jc#TRA=bskpQJT$['k[e.j3oJo+&p$o(,@gnX.=i5k)S*"q\Ysd`oJY^s81A)08Y;e3,*&rMERL)ajnR@Ci-2it*->D-)K/be?nNo=KreLUKU0lk$\.P\D\sae8:7k8$G+?+(m2bJi6q%Wd((*"BD6%D)\$SC3E9>eCLNNJKjK3lqZUZmLq+L4:E^o:JT4[UO9'8,=c-g2#jA72(NZQjAr]on&uDAqcn/8qQ5;/I@rWOlg2ED1]Hkk!(NRJ0QmJ&`lkIsNku\+)WChRE\RJ:<"?E)iDXdY6X'78O/_jX4GumW!Y@W]:YT3DK#Mlei</+Tn=LGs[NAddeH3_hp#-HmRX4?.7BNtZ_>E5p'^1NXi%6%I2<cY&6^`Es*e'lDAn(Q'KX`XMrT-l(G'EA#/L."TZ(8=*\X>@E*Ua]Wk+Za^G,EW/M_ICSlX(9lups`3#<,lP;I31Y1LPM)]i;kFUTXAH<Z8""*^>\G?NEsL/>KbYd'nL.<;d/A74aOC7FIlW7`R^-G_jD?>ZN]eh`8!EU\$0+$)Ul0,IW'$s.!Iu8'O.?lpo%T&knNR3=4W)B)HE&-CPUHPL`pJb[Afe]jXpE:+XKE-?0M_0')R2g5l-d1fa?s\!pVjC[i>(pb&B2=S:2@u"nCgOFjhHQ9]LZcI\)gMaeOg?dkiZ!dOu4t9(F0<@2c@qjR[nVji@sq36t`p;&Y4=&B&QJJ"iL;8c0^%ru)5?V(=s)SG,AcfIRe/4j0[B.=4dpU*0B=qF?EeeUN?Kl^GI!=9dg"o^L8Q5)jFim*EoW\Rd9\@"MBjFc*6;?FeFaOG`dlbjYB`q;)HkkEf7Fch_*;WNlJQQS'^*j#Z8u&i;B!9oZk?pmk:+[0t\\eFeTP*:4$\ohVaU(!$/fN`]Fn\SKQ.`BCjhkgmO`A!F'&N^^WImR<Q`L:rJuBiTIA_58XV*FSJI*!ka2g^TF'GBN+9\GUG@#D#@l'Det2Oas_O2J]69)o:=F3=W@qU?"?-`l57IlGr>Zq(k[;iQKopSa%#goZ+75?d8S4:])=B7sM@pI8%:U1qh&dM0'/UhOd@79uH3.2$,QSTprVhONiM)KXk)@O?S`E?u%H7YX\4R)Cq7W>]:J2EbTVsD3<j?FK8(fIbj+nd!#ETVBLhD)P4qe>Ig_=lWq#V;rWg4YEO[\VTG/RVO:L3<:!q7VXHt,gA48sk#a-7(N9#^2?G8#(?QZN./\WYW(P4%"6ZWUoMnV9rM;6N55%*U3ihnKd%jkV4-5&>Ig`roFmISPeQrchG;A)hn&Bl@Q/Ie?BfmFX99)EmOlO^pNue*>""[Xr.nV%?pl/E]?l*rG&^pQpX4FmNq61[a!KJ^*?1!M*8Ab+\o3UIA`@f-)MQjsUqH"^?4galVrOs!qIE.GI4efW=45)B6f4a[[N+]rsa<!sXUn%_g&(s)4@GVL?VsbAWeJqpV"Nmj);t12j9l?>`m[.Kqp'3*lL^be[*k#]9]E(BHL+U%QZ,_+cr'6L$EKEUSd_q3q'S!HFi`jk(chQL4B6OJ9`1tgg<%ratF_Krr+20tLpHC*8*dks>NB_SS]lF`(Kd;\2a(;"t/(j_(kJ\cu~>
+endstream
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1740
+>>
+stream
+GauI9?#SIU(kqGM.pfR`qLOUaV^,kU8`O\+ihVCD]A1K9P,RtB-JN6Mm)P0O.+&7)0#`j;!)?phL[QC3pe[7ZEVD!KfC=g`Ce2Sg"URc<3tdur)I?<[Gegg%.TOEoc+('tN4)thFal)h/^lPO`3g2GWe0Zq+##"s#Dai/@Hgt;<#ad\??[M@oD4b!6/K:*67#f6C(q+ioX96trqg8f%+-fWl!Vm(T3_/.kk+/1c7]CX)t.J8R>11"1=JoI5tq-(?,tB6@?[gR-20PqrHuX0X#n%ub564N:[)B"fpo0')d4lFe[X9"l2(qofm3c]bF\)MYt\#<Y(Ml&JE=rlrC,1U\LQe:mP>7&Ge6%QUt*bX9m"MkpG]5OY9uS.Vaj5Q8J!PE!C[<qk9+9oR7TpPF,c@$e4#6:(h#i^$^7W_&PeNboelEVY,Zl^.OK7=/S;A9-tp/?I%6MjS^Z]+R#Rt37DIq[3M#p@fBhV:s"\pj1L$1iYm*;Gf@3$u)4]'LR-*:rWDSr,`t*WN-fm+-mNt0I@o^fU9@n4W:bC8m%rTX2\5TM4ZecDIBrB-$q'nm9XY`[dFcEN7e+Mre+d]l^=`3Gg:\uZL$*!kUk;kD$':l;`5.4/[m0[aJOe<"tJi1s?Z;pF;Ks$lrr,V'O[d$VSh+ni^.F%F(%^+Vibo-k"d+Y7t0DYfWFf(S.eLe5p:7'b^[%tU)383KSJ#_A8!jm=)9JjQFf^_,_Y'fKVkAUMpZRc7qfWFN%@e#7Y0qi-Q!\4Ei_GSsHq.Fo;qrC%iYps@!$X*]>$7oJXn;`4'ilbmns+.N?b?QG1TI@%ONPaO@5+.)rmO,kL"Y'j1DPOF[0q&o\#o@-E$a^G<!Z2*,\5BbB;sjotiijA:k:5Ce@(@51]-sG`,AgGrUVLn/$F_Hde)BlfW-S1f6i4r(!2dPp3!t!Sb:ds>j[Z+bh`;jgn'E[b't>]t5`W_<79.Q:OB'qr'\Yt'be(e[\Wr-YF>.+L#)m@OPHfq(_JrBEZ`kmY`=[NC.)pc3M]&lB/H]!!(=uE.#M8sL&oBqVJ5hA:FVO75+25Wb)*f[VKT<oh2<irIFL@^"M@+2ka?W^]7<K=$=\npN"IB.j&khR>]J]]P($-><Zq;mUUN!o@MEc=YVsXt6^47<F<@.fZ,o5B83*Oc1O/5e[j=2_(U[[]*hAgsH<Cnue$4HE*G%^='))3>.<acjeL$Pp#p3Ri[>-qXHA'l<NT0&U=&*HQA5Zrf[G8.3T;#/3uf.KLbXMWsY$?rBpGR/s.5ZLoa8)a1=]dN57J1dIP!)nTJF;1n$cfm--jko%CXjW(,<.uW@'X"W3^FdM%FG_\7'*4X2bN((a\(&Q""@d,WI%tY)2FXNE-D>H2G$EXJ-<;$+i2Ep1NPaG,*T=11Uuh]:)GAj6]Z7r?hVLK:E]+9n0<pZF*,7$;UMtQRL'LcK5XUOMC_Y_9/c$67j?1dc@kepVIJL4g;piPWE.t_C/.X_i=O'CprM<P*4Q'%G3?*\HQ<KFAJ4"tNC_Ya?"c,pV89e&q(:C:2:28a'?JBuuK4Sm6DX7%jI<0`sItP2&Cga!R_DVbi0t,L7-5nFOU[\7l.r>*A()F>Uf\^=qa-GDp6\>PZ']+Zt#M3m2i1[u=[aY21eXe5i/1n+XjX/1+?`Sn%kiN]].':6M6o-Sik5Ujti8:1!c+`p'ZY]>qrl(c9*B2<M*`N*j&)7!=p;eM:)'dmJgB0eJIfh,K`jY~>
+endstream
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+46 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2034
+>>
+stream
+Gau12CN%rc'SaBc<ug:"R^id/P)+5]gr4%b`8(uO^jr:1jB,"03jp1\]km"a+%[K0G3-.]E23L+"k$%-]Y/4tK`eYGgm?W:!)KM3nf%fd@!Vo[71,n.0Ua%N9QHOlLm1K!1_=A4R"42i?tHN8Oq_AP%9HBeE-$C<8RYDF8@k"=]h0PBF*G4!5X=W,9baA8rK^qdP_):rR,5[,plDbr/k2K7:&p$4a_:VE@WVpo(M@]15&%cV"Ojh64g(9BUe5Z`KWE^*/.CPchPs[3=0ka#/*<h7GZ^:-h/&Jq:p08Fl[6=!Dj,/p^?8U_m]@Wj?doY#c/*+&+"S4>[928=ZduQp[OX1<(hJh'X:c<'f>P/6GJ+Vi&[ZN5cQCa4'&q",IN%`>h&l70?51H62j=8,hb$E`**0U?3/Lki`SG-3<8bimqeEBpL..5Q]!+?eo>>qO@2rH>`n)YQ8Qsp[bO_f_1X7o>,YCMue<.*`XmTMY8PVJs;FQGG;:1Q6\fHr?VNt%rqm+ad>)ZLkK@.`HZ?pu4-t?G<<jtHDa-:&iWGHDX/OcF-fN)ig<81VLg=DpDEdS;E&*q9*X=OTqZWQ@NB3CYK@=8(;"NpUER9,KX"pD\&#>0K'i:qtM>]ctiiS.mV=^0_,rG9$SL?k\tJRI74P(@<$(1g,Rn_+Qm/P.H$p*cuCZ8=Lu<ORS"We0L!n*0/9_oW15!VVX1`S<bgI#ot`(D!FOqaP`^g"C=*$tPk_h@#a;kgQ%[!49V-NE$UnR+$A/&9^FG.2MBY.c2808QFF8q=58*Nh2e;VPD>d08AN7`"!:Q;N_Z0Ra_+_&-b6,s2g2li;a@ob*DF`0=h,&^X)3>_O'h45`I6==uiM*#XPshXZTGAJLV108RErSC1"up9^"dQ7(;?d0d6n4TVVlF4_X(G9+P3Pd*dQ4*jk87PXu9%S2P'ai@q"*+"cNqG96UOLVDSh3+(P;ZH*N43L,^D-9,j7$,V_m1\H4#;Mi5?djC)UR'NuR7.1r!Tcsb\=`5=Cc<"RWgg=-@onn-0=)gC/Ji6(TZH^5l).L-YjTETdo-,h\nu8ERF6e?73X"DIU=t3mb!/o/]^I\bn&`,)^b?mE;aq=9\@*a=ePR/;pC7FFYY0rt!rURnqH59O`WSSs5CtS**S$WJ)*)RRV;)ISE!h.n5gX,%+PafL_6ZOXXZ\;`p'#<)#f7T12ZkX/e]3h_!mP#tVM65K_$Onu6M7gWfF-*Q"`7'A_@>(/lDCH\Z\"jp$:21gAg[Z)?.,U)<g^1tESV4i2A.jPSTlqo?*EGe][)fe2+RP0[(.:bn)f4=R!Kp>04Mni^Fdf%JfrhXD]dQLS/aq;ZsZJkm6Pu8B"M8`a?<?,NrCPCNBIR9ZAc-7PF?,lk?O;0k/Ac#ZWY#TYdoIZO)q[;8aGn4\DccA$<KaR<AeHfj^<F?WG`qN`mM+=D&<PqnFbg'KA8iN(5ATH9A5%1KYJ.Kg>G=]F[aI#i$E5\#f7T-2_QaZ+1nC@3$nu$Rj`l-#KNqtMpo_d.:Rt(boD^Z#:6GmpFBQgqk_XJj+3rL*C73=Ub*:u(nbR671em`foe3'.aY&L<g^1tJt]4qg:.]I4)+RI0CP5B]jl#9#-MX'5nMmI5-n$brpgf\K:6FQ7_X$`6Yf`0Sf`W0M;/1d:V*goe4,u%"8NGG%7<K`Zq_]r)p3Kh>oi<k*.Di/3-\O9oFQ4kb0\!?D)M[:*=(m"eeLst>.CHS#!obOis*lioW\sQb\A!KCs^7H:pqa@7I#$g.>'O]C%FV%mOKAuC!ajWD*A6B]eiq1bQjRp+1/nLNTI$_>`god"C]p&c,1jb];=Fd_^bZdppBCOe#T7E8*!<p)>&8M)^L%)O"`N-,P98u%#+gXRl4I+0(gKnOS[K(d)D?(lqZaJ2Dpj21i;GiFh=kA>;W^rbOmE%;;3JOpV<ZS4in43RP:;0p=1S:;n.5;*oqNpR"[WKEU)E5%fQBV)Pl9e*stk`g&@,[PPPm;',Wt6Fkc]"q_FJ"etT]k].;juIt#$Gd/~>
+endstream
+endobj
+47 0 obj
+<<
+/Contents 48 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+48 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2744
+>>
+stream
+GauI:CN%re(5BTu<u`(S_/3))V!bp,O\VJ#/<X_p\<mHZlp.i?6j$RI,WV4Ib^Wu_,":0VB=blU?.9ZZI`7Y/4FB]B%&j*Eo^dG6n6lY/`s`f?kn9@ZI$gMBAGUmSO*Qim`(sk-,sVMrTcC)u(PVd!'ZCX+mk>h5!R"OtLr\T`5Wj0EQf$eb+#%iK^&WpjkpI`5o("1b-1QD>!Y;.Y(nZ6Qq"8_1!Pe`OdJ<V!m)/)K$QT-9&O)eVG6_HkoQQ\:C5WtK^;kbCF^99$Skt`+]aJn]Y0?k-0?dmRiM3t"X/fK):m[Yd0')]gA^P&-7P+C;qfA)4&m^E[`6VaA9QmR.ISXl\G_A2[jgD7B6RaObJ&*DgM(e6BTc_ZY^.,[:3Xe3=M@a_A$MJmfn/ru;&i!h@KHc4C/;kAM\sPeSIoNc[&MZ$6Sl(Nb:);o#?"LKZ,>4OABb%&hrk"AgDQ:soai`TS1A@JspJ?Z-33'"N6(`E^)p_j)rVj$KTBX-=M(W.+EG]p:h_>&gTb3'a8=T5V3V@gK[_n3c3phUt:9Veq(MP$[qQ[H<9_2G\S+:q>[AGpdWD9sA.OuE>c_[&ojBpBn4rg+hcjau%,thgj__ktY0afK:Nja"a5&Odj@9rc"X#uk=h5$$X\Lk,kXO=2;NR+(dVU(/n8?;'&p(I@_*=SqQ7cc;=p"'M&Gr4%RHLZX+-g^mQL8`(8_U*X?9:1]=,Y0PFlfJE.ag3'2Tmu8;p],:@@\</@BS:0.'8E'u1<oCCGkAC=YJhI-j10f!G:cONZsFci7Cd-`S*'CT'$KY@EeL(<K?,FA[3+G_mtCShs1g79B_iPuG?EOId8c]-Od0IFjaqkTAW+b>)'#'lTDkf:f:lt`oEDoJ+DcUA#U.&R%k$0,hBkl'\h.s0a(F@Ko>gF$-C%+<7sV6kV4NZh29fIqA(Q;#)0UgTTu79+p=sRK\gj*)UfAubEo*V2,-;VF[@_7*FaEsi4?t^l4@:#!0#BU,B:;,UNFXj/BBT$Xj](=0qToDX`:h;96T,N/ff7sHR(`UMH"CJlkNQ4kB2pOqoOoQnjPo(X?tLIHH[d"%_e=kebWLM5&M>:giP+D,U>FsjS/(<*).#*Ic,OV@+2B#l%*M&KOQ;)l##A9?`$KV-ejrSR/)E4.8L*YmmXps2iOearc_+'eb>_5]X1(:BNE?dL&4Ff0MC+\>40kNaJ._-N]D\]bWO)U122B+.++"3I,$`E6_Rj)u:O;A3He\:r6>U_03`/\MYLJ(k#3a0Xj;AknE&#NBs(1DDX\(S_<E3E>\?nt22tPX84jPmF,8Q6BD25"%j5QJlI2_SqB3/4j6ne^\(b*IY0.1QVr;lMsRGWP2/;Y2kT-j;RYuV;P*oSBj`H@Uk<S*_*-lVh-0u-c1pUT7W(`0]Pn2$&+<7TIqoq3[0@dupsB;'#99[mfDV,GnF+nrM*TbnTQSFCUNmk[NTC]HPe)siE$H--G;/Ju+`N#QkqELFlS%oR5d%?SN<UsfVp(05n3n3i3C.Sa*rZ!!;If]d'jCUQ5g*qNiYL`sc,&LVC!^K];]]6@l+hL6MT^#"[WTn4*t2k7*pf_L^%IlTgk/3aY(?gpAq2dDrYZIVsd)VH"__W._hXObW`43Z?R]O/hKmAFO+.2G9iU_b^P#RN,03+6"tbHc`&0,EeEW$u^f-eEWhQ0)i?g`=Se.j8[qSND@CT,C*hE8dQ*`[n43bc%,kidqiP@6-@Je`VJ+ki=bf(t;BHGArc&g.fJ,Z&mG+>0^uhUV`E:mh8rfE5L2)R[[SfJsrU,'WR4AURTt?/A)&a'"okPAl'YeAIp5*?0aZ08MMk7@^3>s/_X]!B)gJXbg9"79.s&MbIp=hs"B%/?_l=<Gesl=,e.7BKX]EC04b"n@Om`;g[,!J_dd;O,f-;t-et?*%'^\l,A*l!_8R9>]XsE$Rc.OT/UGU5'l!Q8g<f%-L>UU-BWU2KNg8EXC@VXm6\HGjAL_toCpjc@lY8`@bOLB<>sJjJ0T$5r:3kH:s5@E<a2p*O'oTD7?111-J!Y:QZU30_b7/<2psd(hUU[\kP]s1$9j"FOf/MA\NNq8gCYg/5>\r93ILe/NRVFF$e;t-7\BO#uT8UAAM$lK)m-S(Ne$H<r$>FH;f)>X<n?=c65a48dN5I%r4ZVV0]85bkXTq<)YqV'Y6;Dg,r7utgO';BrD,P+.Ki)(VElq0]k"R-N?DZ_$=d:d=Q%JWHBJ3;H>TMUPd19>"e[<:-C?UFM>cr+i6T/Bh;aW=!i\HZq*j"]?2$h)J/fZl_>BVe+e%9/:cb]7VR[ne6cF[8`+Z3#7fuWGB*==Sc$^!+2bhca>@jmE)mE%2[O'Q:_>El)P5i;R)%FEZ'`.AW>"XU'_X.^0NVCH\TgGR^<\D8I_[eD@7%Ud^X/H.>.r,Kl3oL5?RL1.S#dj\dmQ6d;2(bU7sAQ?osKo3PEEPGQ/bj/GK(1dps-HDam9]V#$cSp-LJ'P8Lo=V_7mkeG`Z?"L,VhkQnL'oV/=h2#NJ*U="HV<E%DK9E?8Rd7)i;uY"Ct"&D/N7mUekK=*orhM>U[OH$*)DTU7s_#E]6DVn\[e`b*JCpASD&C]=<M%^5gfsCpYC8Y$G,Mo^NH.$gVkZ8<'9HTqYA6=$*gCWZi_S6BFr5T2=VQBiQKR42`kd;*EE`)Z$MVOq-X0#./pQF:@U6eT:L?nLBI=L])VO*cMm?45LoIC2"X<ME;R'BcjMN+#=R?GrV~>
+endstream
+endobj
+49 0 obj
+<<
+/Contents 50 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+50 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2501
+>>
+stream
+GauI:CNJ5g(5BTe=.JJIjMYJ_$ZBoG*Mlfk[.\+0f$8Hinmj-TQJ#038lEC!h>b1h8.Z+q[GI=h0H!NYTjI6-3B26`M?I2[O6F@%%D^^9]_RQfTeO(Z_As,mF-t7E3A)O-@,UN&FBJa,a!6p;Z$r"\D[&K5^AJK":^FRVq938HScB7!-WBgm)K:b9drba,6DYbaINpL1--_]o%Y;Z.[Xmtfqm1dC:Vd-X"#.9uS6iikTDf7_J"4@.]?Bo#,FJE:Z^:>r"sIU^*3._X%F`BEOh]L%F]HVLpGYc4h=.3k`Fb6i!m5ml/;7niR:fN_mDNbS[D-lV+O[se3alrBIai)Vq),mEiD3".;RWt;#.a)rr<=L-7U4Z*Hlff3Hk#]_kV-s*'u?Xp']`tJ@,O+-&tq[=6K'XHnA4i^I@5`ks$oj@#b36_X@IS4(RjA2046t=Z3h4("nsPCo!RhA9U&:%Z?::?5C)p:IKY-_4TnP:k]%tb/;CYM>@lGKWo=WJ"6WG3G_g<%[*$`U/uq<MBdFfM)6j"6]$5HL\+sV\Z>)SSOh45gk=:OpD_iK]O1rIhc+"G:VQ#Jh\lJ0e^;!B?+nN&jG%-84Ug+X'D2I1SC6cDse=hWQ1/IL87T'E>8[=V+G^hLk^GpKn5ih"UdSprREG`/,]f'e>k\?_sK.Guk-q*tP\iWthSD#"$Fk8,;\SDC[(2nj4A%>g.qU>8m4g$"li.1GDm]a\j7l>1L%u0bfo'L8QC3_>Pq07!=H2XB1ou@Tpbo?D"o\oZ.BRVd;fY*A.ZuPQn\o3iE\kh@?84uH]8t9GR:Z?@X<ZRq%hS_u8HfT"P9p9-n$.*=W^^+74I1gj5"Pb.p?hh-Zd44n`7FM_#>ufWDQBghgY%%/1c6fm>LUWJjWAM;O+$!p';5d=l-a6kdciq._!P$oqF:[(if?CVZ"k#+C^n?'h\;B3cP>se/g?Z8kkc$Ue?AC[MX\@<@S)qio(<$G.X5%?rTrW&cYNIS[f&<Vh@g9+R/m_]BY20+eH_AUP'Z9#]X5'2:2+3_Yc*hpt_3'RhQB:<M,0[h:_hBP?I+Vq3`C3f+>LL9V@@VXi`MR+jAHo(M/l5^4^;79N$F-[q4&L@D+(@?A#+-5[0NmM`L)A!0.F;SC6Y>P;iR3ce4uaLgP<hPsmkS#oG;=8c<l/HM<j3-u"MiD63uT6'!AhC+E-]JRpUM(NgGiEfkrIBac[D"P\0PR+LRnXY7h)CN>Yq]JT8p.P>(t&1I$^^>*N,*1]i2NedtadPWhb:kp's'[##Q3iU0-MpW2eSr^P>M<_]c($1b'WuCCN:#lO9&.8+lF?3,;AsLpDukU7Na[Z^4OA0cV!>XR`%;9;t2oNf,SlH*D'3e=[,g72)^aaE>,E!!gOJN`I%fC?66@7;uLhYf`u4[mb>8Fq=$3A@9`QHQ0d'PVj4S!u;jm/?H/!s4YTF2/M#)f/?@a6@(JT8,6nA$l$HCZ%*a;i4/8aPs9BsGB(2mRtTPYh?odE!ekQ#HUY*l"XV5&4[M*nRpb6mK[DYHbPS*,K==qMoakj%&H`af(FlNWrj8ti-+&^i^lD0o]l7H%J`DoG<UTCOG2_r(0Ogo+%sPUob$>?XjEW679QJKIV0<m?^lhj`Lu3DrWqN0&Wrl<28dlY`\85Q<]4TTqU4is4WV*m<]6XObkq=jk*o/Fl"t)N<S?U/.g"!]o\mBRRF3lFp9+5oe\BnZL]C&jXfl",-`I+bH8or<SFcc!RqL+Yn9&(5e&i]>5Xe6AD"o<?o,UJ\em5?UIYo7)"9d=*Ya2:=cX*hEqCmmT?G7O?;5c4GMA8eqci#JF60eh\I_N7dclN_PhM(j?SGEEN-!:af(a9>h^ca&g8-rr)HW`!b[aqMo`&gAHQR64_dZH@TdJA'C(^2\^^6Ul:hlh=Y:5oqW_=lmtBTOs?E!u!i.\8-?1_rW&Bgbgt1/SW@4"%,7)$sD\?'+NTrdsR:PP9$L&JK5gKG-(681[tH_Lhg,4a(6-hgcLu_/G$4j9%]Rc(].YFGp]3POSW;T+Jmn:%0u^=*+Y>H4]?]BmN=FsK^F[cY$i.hQXQud(TAl0F:Eou\.E,7HNrKhYnH9<O9D`F#ToBXXE+=pm,#(sr][kqV-.ki!@Hu]`\B)e(u;@PqNnn?c;RVtNJ-H*#asMVj3]To-A)jciK4-T*u@bTEn@NVFRXB4R?(?YV6qMme4gFZe5AFa5<9#C=L*rG`2sQe,/Z-!0#q)UY&A-l,W%7^'At'n<W4aRP=,U^!aL,Xaur`\/sf0#&\i4pOhm@a(LO97'C08tn;C8k-o,<Gi0$Y^h"BH%c';Dn/'2.rnG=i)+P&g#0t\>4nFQ!#18#9<Jk@QK5=KZ8rb+ta[j^lEgmU_uHA\a`H$L>F'02s9T,#k;WMaCE#m8ce6hqX?6:1JCHhHk:=8t5;q4W+u_WBZ>h%Te<1JG0I)(seEo+KoqO6XQQ2fS<)\,.D"^Yc`G+`@07Z<ukSg&D'A>dc-~>
+endstream
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+52 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2166
+>>
+stream
+Gb!$JgMYb8&;KZP'N6.\jM[qi`5AHP!2k!E(Ns$$b"X**TVZeJPTg9o;UX'CpF[mIQ_pS."bo@/^lg/:hu.aY1EU=n!n%$]olE/!GVt5>+"0qij#`pN&MUqPoC7B!39<=/8'$4"$'$M]@?A/e8G&Lf++U9`T`QtQGL$a=cL_@WiT5i_hM_3HV<,au!>ks9^3%"k?>l\59S<E'jY3:DnESW32j`^c!h97\?=0=3]t-=U%B$t2_:ceMZf)J8+(>(`4\\-PS:\Z$EV7+@&h:TG^l4L&1U2@9)H6g2k.-r<`[ZU'?"R$3a.K5#&LC(-CQJ13QP<u<MSoh0NonI/B[4Y;'uE,P;6Irc%g#YB8F6GSbG<MYUaLQLl"@c"5nsU?Zm*#]$jD&a*&r1<'oB`">=.:ha7mC@ghN;-GQ5QQF7>_]aF&nf9,BXM=]g>P31EWsPMto$Kpit_R2g\QpiV(V.p"^9p>t90C6Z?UDDN%,JSmj]-`E%"\4.Cu#N8O(iA*#l@,'VVnS9'EY)Po])iqTbMC6<XRj;>n(26gJ)9egK9oE\]?GHQ4_r<8Yl/C9)U9&a-=,H7N;)TKq`h'e[$?\K;#k$Iej^.(DWb,;VS)V`J-mR$gQ,;MQC`2MSX`CtpM_&%cKn<;Cbs9OK@PYSKZEj3=l>pqJ;,ZUqPc,h*2m<,;=MLiYnmBHmEWb:)g,6onh'ec*Lm#ElQ9*RF,[Ybb7"'Xp]6,l6)dc:"lG[F`a"Ie&0-"/b(V&THARg0DL$'ZlkS?:E@CW+@FSi!EY(!B2+Md)h7N$9UJt$?oi&5q_]MTL)1n7jqk@tds9hg2[e9d1S.U*^G<>[C>hWk@.L)C%tB!BE)A[L:8d!4t%q\_=`&E"a`<GkFd*DD2f^u4;[N]H^E!1lA[`t5s(6+Ou',@6TRG*'6#@$TJo[r,j]?/;8eKl\SiqW6W@SpXC<H;qRT+27&.[scJpa-gn!+VGSYXE&rBT]04!_G)(>g=&L5m30nEEl0OCQX?ibQ:RoVoKS2=#e3/<M2O,i\J&WJ)#E"fM8TQ1X1Ta5nT%hBb:Ut9r:2.1DfW@S3-s^@`^Lf@qri\-lV$fuAFa'X`+9.@,VCiTjh=JsKjY+X,VD>bj^.)oR6_jMM`QhQk%knk1a@!S`[Ynu^4'CAa_]!(C`bg#ZC3cj_5/$MCsl_Yl0Sp2?rT.-njQe`MhuoDcZM6U4X<'s2,Z,[$S,9RTgM@DK5p`ZAZ,>\MC-5iY/'9BCPlL&QVX^R7dNHY/R>;K+/QM+eq:#ReS(VRO6`fC2QlUH;)/$B)c4-0+h+u-C-l;2QT_Ej]Ceod%8_[:)IQq'k+2kb/jC1YkWGa,1=9YVm%kbBQe(Pl&_tBEQ+Mc3(EYtL%ZVZ7c>WAY\GhKE=QV&YTcGb!h:EO\,mLF*2;QFtME%Lk684"L&6='L:5/I'`G!KrN8W-<<ShY#;//XRif\spmM`+.B8-:@=$d?S:g@h@b$@*Z7?2</HJm"7h3aGpY_0E_a1mDM?f'Vg0?CDGGOoWI?G/:Iqhr@T)qD=:FaK.d>894%r"WY')Vh!q\7(Z7/(-GK/jm<9Du?9-C;#=%>:,,XIOcfSW50+(M^;DLLO4(pD;@GS/Pc&R(-XT`6ZKr^.ds4'0[JCe"WO5Kfh(>j8tktljq<;''GkJbnm6YL'?&f9`PiRm]Hc+Hfke2VgZVAt6>YNc`egB/MG#s1Gs;VTLnPfG90$$u1W_C0a3QJ4%,N[C]WoVkF,]j4N"KM!LZ&;p<ULd*!2g!;0H01]mdCV+;7"NQNK0ia2cn[)jmXNHqB-_,M'3gm9/]gr@k!QBB$i*NdgS^JF$\@ZbL1nXG%%oI@[4EW\hQ/o^\udpWHi+p-:qCVXb*j[p(CW&(g(4VY[Wm0ju_c'"+AtiN_t/k[rkN.e7N]_`oui(S(_)U:KF'6[47ug*eoS9<dBJVq:u;!j?:-9d]a;#AKe+e(D`Z;)Q7)S:h,bL=Wg9PkU\uu1fVA3WQ$FVAq;#;7o"mtE5Q\S`[^GuUca[^G8ofpdW=*'dVo`;jdnqd0Bj0A_^ldo=W68-Kl(1a%sW@E#<791g`Xti;G\:IlQ==I3(3Rl%^$V404MHjpDZhYYMDskf(Jh'ijW\_JY1,49MXO2Vsi@`Cp/sO*D2dV*aHR7K7<llRnt+~>
+endstream
+endobj
+53 0 obj
+<<
+/Contents 54 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+54 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2194
+>>
+stream
+GauI:?$"Ia'Sc)J.o(058\cbO-##dSSH,@;8_OYoY:pcM,6qfXKk(@Sdf800=\#M`E_'i'&0Bobf":hISiu8!CiNkF+#!Yd/c]4:iTN-(/mpdDXulmJ1H6EDGt`5r9(5fUR>erQ<Q##Nf6^/3A/K%ebV<?gQGDk7SgT6f!-lq@=I>jOW-iJI?8`ok>Q)VN.XCV8YBloWKYE-0!Y3NUI.d6e.JNm5!%/R!Vro_Y:>`n0+0XVQRu@,s6Q"^rpsHO>TiR>/-Z$Dl@1b48"c\6?ZRlR8h_<Yn_^B`$/2$*W#5P:?VMT#:\ls""AW^4T>J&c=LSu1]k3:aRJuI4gG8&lRn."MoDVDZ[``Hc6RLMa#Lm5.\"Y+&6fnX,Lb%X\h."X,=<:G[fK7q#jB0psXB.A;nK`M=-?Zo@=q*.>P6KhF5/:403]$T/o7Cnm,Cm$H@OVs!e1'7?#Eqmhq8,cr2I-!e^1I^W2<^omb;YOHG:KMu=C&;3e&(5Bq]Wg[F5hg3VVX1E]2FEbC%;C/n/)*p-BBa9G8K_;V+B_H@=39O]bqe0e`H7<HQKIl:q;`+dTq2p]k&H)j>*lWPY(MX,AeNkq&$UfKVCg+HEA(\FmF'maQn<g#56<RTWb5m?/)<\%DJS@GDII,$c<$X%lm/4#l/Z7NSpd8Uk"!SKekMhTWACI-RE*r^>HO)??=)a5fDr(]njMSse%2QEd8g0+h+U&MjC#A:@%I+enp'7acoS.kRrrfkk6^Lq='+Yc;edgK[=f5G&tj-WNIp#Bfi8<NBG&$/GJ1)`!G4_k"9M"""AZK:C=?1f2!I%BJK/(R98TI;BM$#h[gh$eRk>Ju<GJT)1#0e?_Na'T]bhr!$]/hrB]6fW[gec_I;KDC*_.Q$Hc`00St"eH`hge(^D`Z@n3i-fcm*;S>U!r3>1RZ8D:>&Xf5k>#XD`JjgYi.=bp6bRU;[V?gmRP?;e1V(a'[GTX_H('=VOK_g/r7-;f(?KbZe=M7t?IB;Mn7C.8K]qg!>gs];2u?dNe[BQ%.<,Jq!Q]Q:N_o/]B^2DP<I7oS#bg&h1huV&6,C]?gt*6D+Ag7p;3Eh>:8"pIE#&EEHf:])$51eU4C@;3Slu`kWD35s?k*3TY.'RTr3%Sk:+1q6V.&Pe0]]if`/T'F6rf/H@fmhDq:MCaB4YN_bQo:3h'/(][;G(Pje0/]Kd3[NQ$VZXUJY,';Tmg(h,G&WGEn'*p3S/\!e%^+t*Q9C)^ILVg]:G+<kVc%/D4!A0^!jW2;_gD5E*1_F"g0pM_@JNgH;(.]nU/ZC_kDVDWnDoo>G$jDed5YES%q1k,j$ufZh8Hj5Y'V)6BO#<?X`ts1[J7kK!R09m-ifq(6\<q]?-YKD<U.IV.-;Ji14RrO87WKc=J<j$%o)1;b](!@l6oKR"_%C,X>)71@h+5cQF8A/_*9ecBV&-&B3tMY41!)C18jLQJ:AMMQ\GNj(F[!8c(7.VTC:ZDpo(!+cLkpj3bCm5Rj-70lHC9.)%p#Aanjl<p,>PeiaYKQ6&p!&qOHrD,ndf#L"qW:HZoirOD):koBJl:@ai9kN9FgF`jCe!o1<1[E:X#la09se-;3p9'49fB#R_TL`nhKVOnjuBq-VeqWlKPj^CDUB(R\\.fP2B#%N<D[5$Ap"\KX>FQPhVsPG=].kFrMGHr:0nBjpr%"Os0[T[-6P7]34BQ4spYk:_V8DNDo98&^s+,i!c;+UkK_b]K<_85hCTBKURu<C7K<OL>Bf$FdZ\,jOYQ(YehW>OJ6G4`@6!Nc:j4b*)n872WkFNflf/so;CX>c(-/Vp%\W;,Jl<*g<m:7j-9H3k:BBQ2"/12(2F>/1l#(>$gop`HM[dI5ff%C1bB;"jgJ+Q?Sq>(<=W[c#^&4oDHm$US2Mntc*m&pCSQXVi7TnR;.fj1)=>bB5IZuUas^lmFh%r8W@C4Yd^2F'P^?"p7UAs%N"B_\/^ucA+'MOOL_*`H/[RM!*T>^r%?]U:%q(Yma>KEPCRfE(#j7iEK9/NX24>:rS9!4P:2_D8OCg=$c.'VBf?sZNicTq<'%*FH/_md5rKqhl/6:G*K4jmOcHDCD4J!lIo6Kq?e,/N9Xei^L"?[\[?Yd!/'^$CkrFTse;>.6p5LB,G*%nsT?]2YemN&RWdH>HI\hIdPDs],.7r\J)b9kOla4$)3cK`;l'*M_35A6lcc2~>
+endstream
+endobj
+55 0 obj
+<<
+/Contents 56 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+56 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2435
+>>
+stream
+GauI:CN%rc'SaBs=.BF_k;849Rr2Nd+`4nE6dcF#MZJaI6*Y,oSLf,Ngn\0Kha^;7kd^%l^sS[fZ=W>JcQW,TTd3PZlAmjLP6Jb.0cYU3JMJ(gJ-o)fp_63XHQM.1LE&Dg7teq@q'%-ob5&_;*>sSD"R6gRTTh-WGgGDDI/uI5^Wb2)//1:u?Z-9Z&8D*q$]MaP92/-6JC*I5?GPLcV\cO38)OIh!?>HON6\#cNm?VYjU6<QEma:,L[c<#5A[A<7Y4S.QnDGTb[Np!@&%+!FNI5C/so+&_8fP%(K\-uTj"VBM,`S4Q:7>ZCH:3%mF+p1Lmoq.0A9Q4&9!ir]h.+Yn/h/%;J")rJ>GldAq@55@\LYs!tg\]D8W4T9f!'P'Z"Fn.Hm,+",F[-=sEP$Ni)<V(BtERIT&rVe,PMD%\[MRRI?6od"SSl2M5Q0eNtmSjZ@CCerslP-%inShi^:2s8!kcO+DbkIsHG:CO5al3K25NrOl`+fn[>W]T'WV"2=86P66Q/K2-\R$i2SNZWop_\m<EL/Z5U-bUQaCKDVL8X"GU>AH*8._#^?uoQ@J>%<gAjG``<%j+cA=Dhn6$FpqW#Tnu(n`m?/ad".)nE]L2Z$(,%h'iTDTdjuAaXoIo1M@&[G9oqPVOIbsF+Ks3cWZY;[9ElilC40+4V)#5bd%oS"kg3obQc6VOetX&lJa/ATSd72`=gJHS'@A8t9#NQe<d?`g$X)[o0@OA_P<lH[>cBHh,;j#aF:b!p+WPM<#14"S-L;m'Um]2kS:nC4l'/Yu;Ta;k(6FO5X]-@-.o6/T:35g^q2M[np_L@MO$N2Cdt`Zp(J6@&CRpR3CuXWqO+kVK4sJL(39ACi9_9I\X56j?1sbn;@7Lt;O-sZjgh8b1mFIgZf;`6`kn$ArbnCGF2T9]'E!,Bi5LNiZ/SQ<Qd=VdZ#mhEAXR9[S;`RM&H&^\.e0[(>i%gBmhJS\V\m4)W+`H9acfI:6O3@?&]>EcT,$/oq/<lpB.]W/V[4F0XAVG0WogF;XK$eVh6Ospe^^DO"=QG_D_BGOm""g&$ifI+,V;@.M%cIPWE&qRSg/;frJJ28sEQU>c7n7Ot8G2MpEiQ"i5gQ!tRUlBZ7;ZC*c&:jJ?.b^SFYTkb6Tj_$,2BM:LPm*H=i\6+ZaXX#TrQR&Rktg[[^a_tXG6,Fg2*\S[^sarAlk/tD'A]?71jSC!hA0mL/Zrt]95H__;iSO'N`2!rO19qBjfgnS%&+?-4bDuqmjrT[T/3@)i!8RQVO&k+*JkqDBX\m6:e#5=kg`62Mt-D<nCHua_._&>:ehl;kl)cclT8Wprjof`C1?9r"3_dS@,^a0Xe8u1G/\kR#58e4")_)39:ZEV%'jfQHi&ckqcTLi.9nPn'hF]^]\9c@ONkI39=IOKeWri'Gk4>A^&k+Ag)og6B"k"*,Wr'Zh-lPal&mR9`dbpk[bkKAdO1N&rKVr"6lV[j]n*d5ZMPn##EqY.rVRdj0nJdNt-<*Kb'%K+&9@.pSC[9gXr)_Z-IF@@-4ihX$SC,ZU-7eR\8C==\gbBb]3p,jUA'"jc+-,k^eE2Jd90s&#\3<[IM&.TA^uMdD`2d:G"sg>_m@AgU=!Bd*r$4g:3fA&K!,F39>&EX2*0J</lOQqH@g'`i5Nu)=E1HPj_`.=1,]C:KsmN(Oji7W,-Fui1?3J0tBJoZX0`+:.s^5OB#+.eYW=B9D%LpN*;ZX\2<0/[lhtn2gQa6>1-fgUu@Pb0g.iT82+;1k`cZpb@54sJDkO";r0FH[qWRBSa#ANd=^\gLt]tCiD0AIq2RQ#3'=T./F2Sf9OH0%]?\oi$LPZ^-:goJ;u9F!pEZu)>#O:gUu7J]>U(sehkn1pd,`)&n..2B_UGDYeaa:+1K\%;`rusRgXcaVjqEXp*#Ci0nn1"!^AS!mX!!^$3%gOWAX(L:!!;'@5'h//_u^@f"W4/m>E<@6EX'SG%&^bgDYD),G/?L_$q`'gE*V1;b.TV7+Vm!r/oGdRLpa'6Z+.ViEPj5TloL6BRAA_o(6+,]%Z\^P:>$*a*J.U+/T50F>YVN*?&<eU^kF["r"27_@bF*+Z@u5k1J'IoFS?'sYG-1Y13UG>H@Q#NiSi4;e[<6<Q6in>%5QIcj;YLP%-ODS:G0Y^oA<mrT8bJI/>PHj39[-4MV.KS^uZ$']K,TOC/2GH^)Q]Up0(fVGRlmMR;Fj1L>MJ`[Nm&98]3(P2%rn(>Da!%']G9nh7rI1Rm2elNBS04hN$CSkmg<qM]i-<6_&0MNCIAM)Zl?a3b?7``j%r@JVtA9n42VWMgYJp.YqQW,Qa<(3oOuSVuW(D2sUl6;;W6(&_B8/!&"\9+%9o`$VDX's'G_g6g4ORpd(]_jDaYbT:/0?qEYR+NV`#&k6j8$+8)g2No98ZkF8g8B!V?eUSL!<cK/ZJpFecmQi@~>
+endstream
+endobj
+57 0 obj
+<<
+/Contents 58 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+58 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2325
+>>
+stream
+GauaBCK&tW'SaBo.o+.j6QfiV\ni!?6P?;nKsVLagCKn?#^\9uA]^3J+OfDdGBI&j/.A@28#]pYZ)r6Eh/dc6fp,!WkT=",SLsnKT>SK,$C&C&,uEP+3'Vuaq3FB-jZWo>aFJ49N[lA`ONk6IIAZH<i9><]J5!f@ZRpqgr;gk^q-g/H@_Qeqq=1Hb#!o4A*NtUWYL99p6@eNF3+'JHl-F94SrCJh2ukp!3uag+4rJj#U\A]cmI=?V_Ch@.K(EVt2>odZ$4\T0eHIa#W:W+S1K'O_`9)Yc:_eABkA"uKWsnQ@PtdMrJ!q]QPcWB9>M?tI.EJM(M%a\Vc',ihS58*d#[\^7Ea@69Hq8B)FUOEdP="#fT(%T7O+()].L^oC7;uBI$Mq7lE:BAI&qND/KYli2mt'Z4<Ah=Ks.Q8LpeDK5^-T?*$dBp-KZQu_D@7gF_Q:h.Mi+RWcLtpuZ9-`n^E;A$O)sCi8(PCZK'TI;L<eh\aNBT>YJMi\(-8c3iNH6bW*/M5+%DI9BJeCjM="4I-YRm*>bA-=f4Pi;etj%\A6t!f8+=VD:joh^UKE:oI(NAS'/N/mAR"7"Cr7<Y%5L1AE8gRd9/,.eBU-1]Of;fT-.\Pa5!(5@4(J>09U'%$jc/;HCR'm_YLn!LdnDR7\,s/-Xg4pQOaY4k8Ot^5<qUZVlea19oBIMo@hg>PW-MK5f1M)LG=Tp@g\=A&9&]9ZW/#-;.W6.ZB@/gko#;ueVa*5Cn`8_VC6e5rO0tap!J<%4@+0ILob?%:K_`jW,-RGKZ9nkQ[P&WSZqQ#)19L+Nb9R7%i@MRj"t;i^j-_NW$Sb-F;)'E,%g8<u4q-YbqTsbQLC6.D)1%?%NZNKd"ZJF$iSoerm^mb;hm!4Y*TmW*4BtRbb$B3u6,gB\+DEJM9%ql!,q\/3B09FjZ-)ee/OPRIjT]Zd>emVes)ZHuD@jn,73JYDQF"[*(Qo`CnSlUi.c30P7/;)4/3[-.UjIF@,M3".",_UJ0(Ntla=?q*[TOIh-eDcHbt9*To3mu=_WQYn4C#n2b(JiYB<i;>C5d&>mW#704B)&*0(cAgUAo;#@@!tbR7ZQ>H4V)>:bFO8j5WIb<PHpJblUO^YL`I>qAHk/_$noi\6*7+n+^Zl]n5:UV`CZqn,N1UkiCd6*,M'f^B8NRY'HPim@35P.+/gh0Uo+/].%@sM0rPRZH?r.;"*15G4Z?q"s;Y8@g6q#>f<niQLUh\0tl"qhQI\2.XRLoMm+&U:=ZY+dKJ&21C.QHH@/u_Z-(mq'j"Oa",XU?j#GUQ2a5CHX+a0Ic#5_R&8%<Na(6Hq4Oh$<:Gb2pj78:3*i.Wn1XtFE;G4'L=^.L9qXALh_^_"THuK'M.CFi,3plNPVO@l':bN)p8@-TQM)`q5_`2kE6fXTMi1c+V/WDBhkW18Z2Q#[)WS'MKd@d#4MDsdo*"=5Vc-(757j%H79+@j'\>3T!9t)dN<X2Qe$2Tr*(Xt-1JBK3=\OD"=K@P&O;.W0<?Ic[Ap&^D+EGocOLiI1n,/C#_X5'8EWi/Y:Y._@o']IA'S5DWj!A7e_jZ?:AVrJF2`$%H9WF:YaQRT"VIoTZZd"K<Snd=bp1=EUQ*hp]4:dYTk/hL2e^,*Ci=4sVuVqhe?TJ/qH<<Tg2@?nJ(^@iS-[R]H%`WWW\gl@u#/>*25!aGl5b5FSoLeZ8Ak#4Vq!A:'JjbG)SFH@>b`Y:%`(u9XgRe:3>Q.BikP'n0Te7UBg!$ZC``%%t0%(lLj)!m?ofO:$MX#h[5,pY*8=QTEmgLb6`@ks%m>k<C:VDH"(!>m$c/0liM=QL!?#MfS1L*e/u9j$LCZA]@4$5/[?>%PY+;G#*606(WQX'E+(k/EtgNa6;F\)1=I%5>?>J/A9J\,]p%f>`?t1.a-h=@kMgWs_gTs/tpOmFN_?&L8tR=QTO8g:,[PK'1ZC%A-b"m=4B)f`>eF4,2MpU`O4g#F@<,Y%a%[_-aC?Gc!6`WG+EB"qRaDdC&_KV)5VP+WE0J"ID-MZ8&r)<BrK\'pK"Ye91lSZCqOiE;@F%GB<_PD&6"q)oN9j(LF1`f@\oEB+$D.Xe-*W4fN7J6P*LeZ-&P1\%;t1#te_1++iE[NE,BWaH`m@]a2>6gsd.Pf+"YB@Mp[Z;6,'_/dL?6.2tG`"IG0QiP,?i-E=8QofMC<nI9"r4bDV_<%HaJ<t.Nj?C6e:d>M`jd`Iu;?G].._EZYH(\$u*'lX5H\3ZdK;G\:IL[WD*<(-Po!7qV$-S_.iq].N06h^nlH=f-"roFOui5bENR0,GIiD"MumP^[f*D5&7BX`&ueiuXE]IN~>
+endstream
+endobj
+59 0 obj
+<<
+/Contents 60 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+60 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2442
+>>
+stream
+Gau12?$"aY(5D;L.o%r`,GfQ4ie(TUOr:b!mWp8;h20tE7(H\RfOdd=/4nO:D#3$*+F+5aQ.'j;_"Lke/\]#Y!usE'.0dNcB)V17"7X2;/H="GEO`O_-9VYoDrBX;RHFr)+p"9/@UCD="Z#U.1j@8<I:X,3&F+%uKLWfF\'I1Qoc([[k07.<`?Q6SoCflu%^FDW]Ps+eBA$B#.3T$$gh^A<oq0i#]t&Xn?jUe$I=6,._jcRnE;o=XnG;^%3q42-IY!u,LMB;`'F[*Ab1-[e`+MZO;_[r?a]ol?R)OKikA@7X*t$O`>A]j'l120\m.,1tf"7c,fd29HDaiQAO-UP.#Gl^\U^no%L*CPY=a.H>.c!Y-"XX7GUpcVC1@dg2)YGuO_]ZKjKRfOgYcit;JC*U,&UWk8-j&?r+bX:N=&\tC?YF-SOZ*JI*0K+*Kd0r-g+&IKo/"JG--TGkB)Xr@BN4iopKuhW?fs&'?8DA8C&LcK:HRpE_p4Z;.D9tJR*[maPb3-_Nt-S>mY(5,_&`,]h+c$f]3FMQ)a\u>asEB$=8"6aXij<39.oDYjP6.n4l)'bL2gCXPOd0DBBX<sbb*cgVnG;\lYfZbk&7A>dr!L'_/5VWX2XG'ZJF)SeT>O8Wm/sqSUp%;1H9q\II+W55&JTWeKS?`?Tk<)KclML(gB:h[XqLCCk:KC4iGe/UPFBN_kcY+rfQj*=T=JkrfcnjrUX5q/M_RIYqfKGa*r8ST=<0IT-0\</'ThLGHGJj+"o9)#'Hq;M\`=upuK[>oYhB^,;%TAmf"WYWjQ#WBjIc[Xdd4Z*W7af%&66/X6co\8qE)@BHb>EA)/*SD4>R'869)@NQ1A9_Eg_G5W[l2FCLN+KS'Zn%8P(cP;6]dR6YfN[,bV[9e4girfD:1g+Md`%#/ZkmQFOWc;Wi9>qMpP[E`jnUCN/7&0Nqa5Zm-]P[/Wi.dsrqGkk7Pn+11jhm)pI[^\&%`QR"o:#14Qa4fo?W_2r?%HG4$*_nI&#S3F@*iq-*^iBb5[@W!Bb($`hod$p3g3g$\[r'Zp(>;C,:[kjC5DApt*:u'f_.2$ng3V8?@tCl#Bjnn/UZXR]gV"GupIY[te_$g_fS&n0C!ofU^L+OmP;3bA,b1/kXRa=,)K1BZp<-?K-R!Y0>,FR@Bn2M?a[8ec`'hD',WIAI=Cj=0>;\Il(d%Pt9p!8N+jg_?VseMbT:@m^W)@Z3%SfY;<dAV_BtBm=AbQ+Helh&7'HFYNcuOnArWD*iA*P!R6l2QV*/R)1&rBUP>W7]/QC#+lUM]7E800;$O^8/B]iaA`B<#XqNkIVsg7>jWk]9-.6&R?rH.UsBLCX3@.t]On?aI:q/ugQm3YA`@@[.H+M%Rq0,:6l[fHFq5_^^-r@])t1'QF6b5mnT3q(P8?89sH'0DkXbhekZcj-$a@_G<Hn!>AP`cNYT38CB7"l5gj50$3&T(qH&b+e&a@2R1DO*L")6Os+lP>3<'3cK[#!@YLVs$EO*TUW2\_i=']ndc-!][SH^bo4YY7qR+mhZ+#m>i/f\3%S;R!<nU%doGOBVUd^,3RBX+^@E8S7Q3jXuC#suLWJ;s16WS'IDJ)`p4mc=1l=6s%:9>P\Xup;%%?_JFXR[F&Vmo*j<ujB:`]FSFiu'P[[d`2NE&R(II+PAZD,PFmgqhI-7;!>?G8b_E&3D-hG$&<lQsi9D6lh9')5Lm;@bPW\Fg-:L9kI/Z<DH^A`-.eb&_(rcEd6LeE_'BpR$9%8.t%O/8IHA9q+/X_WC;$"4#Lj:4J]qs%1-[2QfCC.d7)Iq5!hh+$RJi!0Br,[i.^]4<g:LoY=<`r3;U0M=`$7l#Zon7B71Q\hs=`ME?B0HTZ%YHI"3`\'652=7jn[WTu8EBaUl1I:_M,AaeVU4>F,$i,loT^=QQHRA/HEKm'KW,S),S!8V+iEP"7i2,$#Qd7!INfO8W@IbG%gWBlW"bD)\K]/j>`E)=je4/LICF,DJWNP!qW/(09,-LgcuAes_m,7U=0*aolAWJ9LXqb,0lZ96dN&,0c@#,3CsMD5sI,$b4NL7:dTB0,%RGV-8,f2>;:g$<5\Ca8l$JUXlssE9-a9R7Il<!a;D(b.@si9Foil<BR5Q<F3/8`FZ$8s4bbV-VY9'Z&@\Z'-rHsQ7/gi-4g!lJCuW_[_2T:][kkhei7)U5I;fE;rA-@#YU7"6<\Q:b56)LqEgZ'W^kU0[oo;l%3?<i*6_3?-:1n)Yf_HOA#cZa#=<0O=%S"B&^mDn,eQXZ<UHdC[V;G[b_g7$gO7_lSER49eaYF'ldHlq?)6qVK:p3jZ:da3/sGdgp8d>k^-6PT^@?WI1&,0e`56nj"2$VaK/hGcM.A/l\,S-(k)e_<"$mcnK*&4Ur6m"_QTe?cLPb0Yo"We\KR]C#ROmF_T0Mb(pt`@g&s)k;AUBKK_R'7EA8HlY~>
+endstream
+endobj
+61 0 obj
+<<
+/Contents 62 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+62 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 889
+>>
+stream
+Gau0B>u03?&:Dg-QmW.^*PO2a\Nm2l6;'c$MPMn*?;b:K-uk@95c(ph]mGcL%#QHu/l%XPm(:r=*T)0'!rDEO2kC&j,OD%CE.QCO\7,f?F7_sC(.^';"B1ElA-Ac0'F<dOSW$Sf@hI--Y)k$@g?gRCBEFQCP6J'$7VV:f<riH*_iIo%_p_Ul1JnKK98mKH%_eH\47>N=q`o'Zljo-&q\SIE5/G@oYdpujd4Ii"9:EjMah`Xg97]MGn0i)V(4hApeG?u9<e5TdOj&8JP8qPhOiIdIO69Z6ArG`U*URF'*)W!?JD%?X_WY,ZG!!7,i&@NI6*[S,q4*Vt%N&ml.?YL$aoilIVIEBTTEHE)$YKWmSIZ>VX.6DQYH^DeAjV0EY%Xh3s$rq4%'**gCS4nAW/j%i(O:`l/'<5OQg$VBAb*/iG^[G9-V#[&eUg-&Jf8/IkDsQ<8hjQA2L]qTOF=F"MOBp8oujd0G$2Q&e,)_)TI;1!)Iln3DW=FR%nYV.i\V["lV$YC)XlUNDc_U47BFoTq:4.@Y;XI"amgRG?;b@WP@?6uEJ,lgG^=/\*Ue712=rN"bCBosl>2P`3j7[+`n`I%OcmB8J;1ta5;l6Alggq$LNIHQ'7L/940R)SrT\3\d5p9V8WK0K<r1Ud?:ilL)lP"#A1^K"(&!I=(:JTQg#VQRaY(Wi(iPJ>h:os#(<J_8oC(FY7lEHNjJ/3L#:\m/%H7i<[u-#G^@Wqj6!d.W?2:m*N7ZjM?g\BoZ^5Xu?9)@.Q;(<m*No+(hmR!J]+HE(W-\d0[s*'bI_sc1fC4>o'52/qV!a:ie;Fj?hc&r),Jhs%9JQHh6i(9H/X?MDB4$GDn:#DkkWT1mhm_oZ4!cps4D:&NG!aRO$di(ao`~>
+endstream
+endobj
+63 0 obj
+<<
+/Contents 64 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+64 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2440
+>>
+stream
+GauI:CN%rc'SaBs=.BFrF(rLI(Z!Z=K@>(9LSc),%i[D;Kl"r@2H_d\ASJF;^Q50=;0Lcu)ij1`[cCODq=9@)4LAW+Nr5[KH+j<hT"sHs'I\UU&uZoS-I6*[GsE?E\^,h_0Q;7B`"eu`TNF@ujH7.uJ1$DO!f@h\B+G8\ncM.eqCn+'0jhFiI9\_H+AhnXnVk,.Q^XKO!PZ`cZ@S4oQT%,m++al>#r!3WLUYm]LTb+TiWa9ij7\I2R/@GXZauWT+?0PA<4fGE(-4;E3Xml8[EQSJL2!;"*c7X:oT9rZW.K/^DW@JGaN)P&#kd+9,WOG4(Np]?^INcCn.*mBXHIBG5EX.GFW1]o((0:SoRu[Xo$u?ol]DuWWe&@CkgN<HH4D"DK-(YN@.ZTSj?]C#l7UNb0XMgI@\V!U#l@r/RV]EX;1Wa_P+7J;%c>LjD3a28j%gcY:\3NP''_@mY*2nqlQqa,Y2<:Mp"aX+([,1Y+SCT/EP8`jLV18N(-PdYK(uoKJSV+4h7#.H7n":sA6_RV+t=@(lhqIP)&"KtaW@t%c<B%PB?MQ[ag^gIhht2.on<!W]sP?U^&/FACNM(eY%4h0+4j,cq`uar@<"Y#lLGdbHEk%e06^EZP!Mr5Dt/eiJhZ"gLhig67Hpj'RhP?q&6bDg#Ih%AnE&=@gj]!^_E?/E.*:HM8suO8"jGi?/?dW$j`t#B(o/T+=V\."U'18mQmJek3*RY*7c<VG/P=$n=.eCbQN\;\mG0<fk-.Ob."upbPpOrLobY%IQ^a.4EEU'aK7&n`<4.0cPi-`SD"JFE^j./BKPZOpa)H;QC%ge)UuRI%;fG[\.4uuMiIa>/)\-b?Y?m8[^C6rCk29eYj,7tWgF4a3=CL<l2DgWYoBU<k`G_bt=@?/BmY5^[cRCIp[)/3$V;)c$MG""O=:Ms8pX>=sYr=`o"Og<ISD\?b^*tZN=CEnEC7USWH'4@Y]jRI/,35VI;d:lX_E1dt7&6)3k(X/Oi<"lE#$+jZp`$j"4u\asi?CT=N7h@;N[_lJlA]VX6C8Y'NTP_<f"!A;eh$c>lb+$N-A5[r_bA>^]1\kTc0%qMZWah#510NudPtH&WdCO3_!FckZ%kV!;mdJq%Tm0'4@lWh0:8?<?QG6odBhHB(H8,*Ms2[:VVo[_DMH=;<k'kB,MThFPZ?0G%<U(JG(3>SnRe(ZX-;MgPLnE=nZ_WB:8E7+c^:C3L.`+ZpjN1nn',5qf_<"!/u/<?bjY\O"VE8tj0oM*mB3nKK-uEl<+*3E@YGas79nX`RC!a/p&+Fbhi'\E^]MEM&1cO+l/i"&@)-`<UD:f8XNq;fE*U\m_O^8rB:^[4^.;34)cqa)7'S?'Ab+t'5#TV*FckS)Q+['-+2,C0YDsI?-(%01blbAW,.a,+]nRB9.dURF\^\Cua/'P%gc2@0H$u$TZ:mVbcBCY"bi8NUs7DI$"Doc&i'N88DHngc!i@@1$OZ"@Gq<=:<m``]9("oie,t,>:(9I->V`S$?0njLB8Kf#qN(<h'CAn>?!R$\O\l2e*1&jj0^Lsp=\>FU2U3*/`0>a,PeSQ[_*_V5.m6(AnjN;=>7Z;YE8jc13.^)kL_]@37B^bB2+YN&=i1Sr3*HW9#m.94JA]!CC,TC@jrmu#Tl8k63mE]D.l`i!keUaP2%7<@iPZ)t'fZt*""5-*:onWbFaY^$R#8(#@$+G?l*mhlEj^3]2XC1X/BNpLVroO_4[dGjL-u.si`P1>BNLhKatU8&chPGTQpu6`J(e%.j`Qhij]slI$hdIAhX:&Vo&KMQ^/QgMm30]VA!f[B_N#B!AMOV55_d(NQW=s0ZeT84[D2qX/)48Ze<fT\3*Ogq8J8B+*oM+@#8hLj1^I>)Z,-at"EacCQ3V,=Al7q6IC`7q0S7)o%kG<)2Lm@4`-U*8X]:BX<aWqWFO'(s&9Oh1@rOcmEf(TLS0gl8cH7MsOAc(BaM=A5VYhLVR>-_&#(]Dk<k+XhG?9)'O3>kWd%c/%n3Z&RM\U\j)5O,WbToVl2SfoqmhgduET+hCn!@j=P0Oar+$7N#T'L5C+^'T,ZQ`:+\uBn#Lo':aY&R=8OkoaOVe+X#s5HYQ#iOZ/W42FLTsIhelrD)S6sYHM.9p+YZ,29(9c$Pf=%?sCYG-,8XR7ud<jdX'H@kOKLB_[%>eI>YLRbBb;12M>U+%:T.u,G3=o&o(F.h\=fbEl+'%P0B1loaU%js@F%Fqtu\7C<f9k334V."EQ.P;!0iEj.bKEanN>fs=gn#'3O6d8%M=U!bW#ZNErHH7=>BE5ui-(@s0s(%4d;)Z`ZgGDrb;cV-hK?dH_A"j.#!>QE;J6Lb>Stc<f5H"Pppl69rnhh,G#4UoGqE9PD?k+,p]g-G10`LegHNYGf,n$bPqsEU&0jMTilF.h$qfi!]a2SPpFkX`VmRi'9rrA(9K(o~>
+endstream
+endobj
+65 0 obj
+<<
+/Contents 66 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+66 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1649
+>>
+stream
+GauHMCN%rc'`FV1E>r;9o,&^7PXqKB!P._u%rjACmT-DA!njFk't.pLEZSHYhfgNmU69(n!`3rga:bJiHgZg4Op_d!\]+U=!h_],URte1.1E*3El)7(#+`R?EL=oP"2Y0)YQ0L"",B3(gI^m0+XHi-O38\H0\tV0N8as_9M_O1(DY_Hp%2\o$<#mh`%U*>W`rZD3=(\^?idCd`Q>$a%X7tD!+EY"l*\huQOoa\^e)"B?.aeG2]1n"bS63r(C8RWikdNkgq^*F9HCf%jj,UHb$s>t,+9[9A\*\<\5r3d9$r=^1<JQeXX<]E^JE@5TQ$\ojKf6j6#ApY/\6es!TnBVlcamr&hU4=(3h[oa=ctmE-sd*@eCoPS0Akr<(FfR=Vr"NU^2W!mPC!p"HdAlmhI0q_(5H-5`db>lks?m=0PNuUsUb66_\I,FJ#TeUH$T@>U?`SHIs/(@0GZC[kILSbLh*1"GJ#5A!^O+>\AjA"iFB2j:EP7k:Ib3C"ak-4?kejVLR<3aZ8$"Rd\sA=TQF(&!Hc%ImoO<Q4>7)l6a'1WKaKY1fJXN"$46NHBdM?ju`DCp-B`dEI\.Q_nAF1_`d<?B:Od;2lL##<5<WPr+4W1b&uUkjtjX3=2:*cT]VYoG`#@GP=,dI<&2REMfh>RP/[+ha&/An%elD_=knB_*Q$u_=]W?2+Q_5>o!W3ph>(=#U3W-OedIc(S\).1jmb)l`gs`,)Wti:"na8_a"^sfD]JjuZ<HF%[t0K\MOdj2_mAZf$Fm'Oo`@lH]=IB72;J7N9eXrE1fNbB+$8FQkOPY1rOpZFML(F!\tLJ;;QG=TSYCaYSW"eaUV2^1>gtCR"C#aG.Hq.6g^SOCQ[Atl=A&F$/_O,\>M-(2D;=j=lff+kis>BFF%U?!BN8U.E/uPK%+)5T7kaL9ddE]5Fj<doiHYMko2mG6KO(uqJ0,NdLs/h)D"UnZDiUM-Sp!=T;2Lg.1.9dF2[9'-Q.V,>)FS9]O,n0XRc-LVV8uaf4+pm&@t5LK7ES6E+m`q]"'d,tMXFa*jm<<gbq[^Ho<9(qa+$2lYT>6[Q.eUX'f?3*:3R?4dBdrf_#H^P@AUOHG%HR4Iai88n7&F)ZV2r?F)7e-cKE#D47%1LiPE%bd?Ki6&/J1_kY40IV+qVG"crb6F`7,@AF%c\R;/:SWL4f^/<A6=YsU@9U^CCk2:8J7A>QXFFu>HaDQ6cX_+J,[lma%Yr/YYHMY,^ZcG\M?0)P]SkHD3dkfkYtC_QNc]X=f([]oG+73XUkNkbOJXna`?@6%Aa%h)J!DIgIudN1!*N3k*t%.FqiO/Ni-l+jNP?ZdpS4?5!YNO14(%.M%%XEnh;V!kA)6bW!\eZ[rbVabteUSXWGG*S3kIW[=3-9'=72LTh6eX:lj0TG6&13?;:SX@i'+\B;ob5aKPM-X;b*GJSE);qX]WQNh,ZAG9(7R(^CBc>f?A@u1'?VE,J6smiLFBEHhLJPM7[[^3Afli':9-kkN8h:'Lcfg^WYOOcWokFAhcuooZNMQc@G.!S9DBaRuUnq+SG"%JnIUo`pqRmIP.3),U49jS`-![&,f1(':J-C23e6h@bs6k/8hgKc?2k+'Uqb&#ki+N!\l_sS%>dLBs&MG90;r-TeV%r@p%3k=if)~>
+endstream
+endobj
+67 0 obj
+<<
+/Contents 68 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+68 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2612
+>>
+stream
+GauI:D/\/g(59Nt=5:o,G*4[TM_C6iVB*I?,dUW1m3$DR"4Ta_gU+(JQFmj$1mlL:?W*Uefl=VEi+a"BZ5i1lLR7"K7*u]2rC<p?aV*NJ#e`k<Peh;C<"K)J[r='L5s.nfT*#[&kj\q70-ZHC0n5>M1].+^!dtOn:e6ro^EB'20*'tnb=nPIqSK/mlW!ro6DGWb^rkt=WND!gd.]O/QZ.3Jrqs[g$h+1C!/'%\MsI^Y(H4$mG7Ne;\'5.J0YE%sEF$h<-o_CI9Y%`B(3q_D=p6_.Pg%)FJn\=%I%HRB=j#hcPm*EJ\sUQ^+l>1J+fZI,,N7KGK'7J'j=\0-i<dr.<(T""?d*X=gLWi<MhEu("etGhHJbnU;$B3=/IFZt6(m*O!=f.0@Ls0`-O9`!qP58'X.%JOd)$e!`!2Rs&afm`C9h++K`^;),WWD]J+7(o=";=ue*h5An+5KG&liKu>UPMKgInEgS38?I[[t`SJaPr4;YM8nl_W"bkN.+HmD'&FUgFicE31t.]2g8:\1"0t[jo\#EA@Eg4tb6R0k#ep>lu2#=eiUpCmLl[>j<,Q000Kj(MnWfV:",bjgS>Dn@a'H7akrBEP43?D(f[iUh!:9nKYUW58'd;OWg`e7MiD6TcgG:CP5pD7^mSh$o`4>:=<h_P;palA.keJZg/j[ML5^c;%&r>YQ+EV8Wg&?Q82CD8N-d4HYDs>FgZpP'nk/Ke&+'!#d;h>1mu-1agBSiWm/Br[et\n.B%SQ`MJ-F/Ek>^.SX"lE1\LV=N3oj3kSIHVP9-D+>2g<kQp(8cYXl(\:idn_/?8t`36o52Kr))-ud&Mg6*>4%S\3>.^QZh^^k@6FV,A6D'#UbJDc)hB2a^4It13V^f?iGH(5A%q0K"FMM=hqLY+3s[lL#=_L`HXF_S::%qRkiYGt:(4`J&/ZIN-@j^ReAEKWJqUUZg>aj9H;f>hmAr:s`BKU:;,@o.':JE#"3'5fbGT@h]g\E*^J$Q)XK?2^h#%O!+Jl^Ra,'Jc8?%P)iLF/eF4oqV7qFG(_f&TLGe'Gj-,E8,9$"ml2t2EZ,qG'$io63e8nDBXYldYecV>HA+%4;<X8c\"c2&5TBUo<Gh\.nt'>^6p,dL6nOM:?(*m(-WQfeMuNiGX%Kd/r:H`<]]e$eV!>,^Pc>g3.R?'gI/e<37UFKd,*D3$f&oLR3clG3Z+\]:j5ZhMaAB9AouHPX!S4FCg1s*nFY8\"L<Y*/:=mo42F?1-bLhhZ7&m2GNh]*I&nu`l)Ufh<*-oD/57H1*Holk"g\3IE666/mrSLTdFUMJ^^aumHl+J53T7,=X'j0"%)^%0-eq;$.C7gGE.Oku`iQ8^/7gM?Hu[$#NU?\8:$5_`]L=XtN+MiRM\QYe=.Jb<X.5S,$1eEgdu(]8f_X*V=P+EL&"07$L5RQWGiQ"RnS0@+%@[TPK,ZhmZVhP(M3?>6Nhm*B.84:k5O-S77@['f-K+>G0?ImlO_Ln+^$d(.o00K?_/VKS$#a!UQ5;SHlU1o5Nj3f.GHYfJPs9VNCd*=D#&)@PV[i"%E*O75aL9Pr/*,iS(t+!gioa6u"rrsiS8d5KMrC4e@</AlYMi[&2d)Tk-QP5g\Wc2Re]-S9ji]8c.d6"<%k`#b@G'858Y%q!Q'5lKX[o(+&n+Ne05t/-EPf<lSL#)nO*@5Sn%a=c",Dh=XPgV$ie6(SYdoHdC:T&YEf1Uf+.SsF9),B<E-TkF#ff@Q-eq]M=@=`GE*R-t_KuK3U?!,%de#ZHa([[I5K_4<<B!L=L"$_>a$gdl]Wp^mcGNbFq!O5+'_,oo5ZA237.R'][H8nt3P5.\o>S?5X22CX)PKqY?jL"XEPg&.?9XjD;UtPOhes@OZpDS`p4!uk6jG`5"kGXca)#:qEh,,%RV9TkB)U!DiqMEpZbc$_:A2(ko[*H+AIj>"2,8DJj+Hd3g?$s\P?_\!M]3-Q4:;i)QW0JogJo%ccPZC7b><.\`!Lpa7FHE3e'[,h@V2h!k\J1?o>N?%=lrk9&@c--KYMDKWp^V!qEEg/bS,C6Sie*-[Mkkb)IV($&0c)X`X-S"R@D:rInnfTca.:/E1+`Qmmd/#StFSt+@PCbAZX6#Vp`Ym:a9pnaU.F)XtJ4T!q4<n?MHV3^"XTfNaBP_j[%_SlX'U=ef);Ue'PGF,B.)6$#as*m-==.9.N1Y#!(YfWZHD-`GmVE,J0puY6P0.P(t)EQZAP58u@X\c]j/f[?167V:#oOccMRe-7L*mq`%<IRjY/bklfbULb+P\\<u<0^R@Ucj4q+"bX"b.1R(Cq?[Q*4El+;hE40[q\P<kReQOr?"h8H1]d,)2a5Cj,R8F`&m.#(@apC"gCF604W0^U!q4Df"QL2;nP>+^&HT>o;1to&%`?cr\g`C!uSm]<51R$q%<n$>(*T.(n,0Ml./i5TI^PWZF%\q*SNK;7UNUAT;GaE'fHI\TiP$6Yal.3(%:/lLR(:@bbWn+<7e$U7/X$mM(XDJ4f90#0g4uKou'5tt:cWbpQIErEk]oN;m+l*!1IbeHS_o!,b+>e"7\Gb="^^7dKo-.55OmB(*DP7=81(3#deMF7,NS<dZ7tc35Bj9nRi5L0H`^gSD~>
+endstream
+endobj
+69 0 obj
+<<
+/Contents 70 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+70 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2242
+>>
+stream
+GauI9Df=Ag&B<Vj;r!=K8D6ht5=oD>A4W23l]>pMirXX;TQ"`#;'8N',hF'&IJ8j:,q=qGB#A=8:cl&Wn/h/Aqb]6TUArX+s2b?#oahVj;P4GQ1SDSu0YDr-iLWP!jWOk)-qUoMcPMHmaQIoL^+p*C"Ss#d+HKq(CsV-8IfMTK50WY!//19*+0R_5+H=,+!\:HYWJs:O#^m3#"mfUqG4snS*.39(JCCR"o?5`%kO7C%f/#C5GL\Sk_!i+ocg!2O.6%KlR=9;!9G+:V:</<\Sse6f0pPbZB5oXYMJ."#6obt7.\B*iKLqJqEOq%)h$tMc8jQGZ8NaPk_a$BOd(:<J*lB!DEM:"6"+s8Ph!J&99F5Q6"X54CIL`D$WlYfGMh9:!K[?XA#)C!pk!OH:bCoYa-Zu59?Ua7\Ikf^u6I3q6hkD(pXXr*p*gNcgKu,@HX"r<#8,K'6QVS^mVg7fdVlFV:K'T9K2I?C&%U04B:7$LjL><,F#0V]:f"j,s?s@%q`lgLD4>%j,b&J:pT["FG765AH["NP/\;p.-!W:JYf&59`4La]2nY_0LZ_n\m*7o<`]\@Qa^5eB1pNSaDUS9H^YoW,(:bUKei&Y\.2thjWSN"a_`OHoT%k^%o8*%_,$YL*#IiqbM1ELsLO0*@Cqh))*<u9.)5Rk=?`XGlTO4D($\A>Vj]2qTbcKA&MDlLALo1'FioCAc6A`JQ_UU=BaCUY$rQ;*NVLJ^*d@i4U&5I@!1(+t@)+,?IpT3e)S?*JL1]mBUlXrUbFBOi'OnP%]DP6\;"3kW(?Af"4B&^_'URdYgnOnn,V80@HjF%ZQX/n-eKkWI"W4Bk/kXl3QK7.YD=Ra5&n-nWc[9VQ)9B;s`Ihe7J`ZfHmEU-Dj8!Q\;Q&PjW"UG!o-dG/!e%Igi+?Z=1@+YLAdiFXXf[oL^*E.k_Hj+K?@Sh9$:eMj+?$PO[9V)[F?-A$82#U(gH[)/3H&oL?jLs$?)G^"S*7[%X,eb*cb=174dk6`RN\+C9ldYAKR[sm]h>O)'nL6If7@)35lMlPRc#-.Xdm@EP9ZI;PNgQ&t?K]JFZ6<omt_HlX+ZtmgP/T0QNf5K$M1J=drqHfecd(P4i!_A,?2GUdJI?bT<4H64t+'fD*mC[-Pm2%]a?>ANF#LWJS2Tp+1VNJQI2^ZZDi=k0+M\-Sg:RlBj:Ps:":2[G6=k\WK_(5[Z>e"aiYjn*>M[7C$HWQn3&hl6[W]Lae<1A7FqM=F*b&1.c:sfr?1Q)nZQW'FDekqNH'Q3N&iuZ!)0P:,Iie!(%hJ/1Yc:n7@9ZBXZ5kda9V&P7a2bnV0\%m8nb\lG;BoMJC0M=&3(Q4gQ<gToJEZ0GAT;GiD.^j8DTnO>?91Ma%X)G-s[sl/_(ZG_TRq*:4,VK$TiD"7Q@9If:7Z/hJm!Du7cEXed5JfZ-Sd'/`1i_9W12VYQFcF+_H,qP=86cRD_V5:2k&`Zj3g1Yh6iU)r#<!`E+fUU[*//)`)m>Fqk\9cW5,?/4\^ZkBM=EaQ<p@Q8EE%pRi=kk"n>Si#L!*Xp\2tP[a)3N.Kcl(B=&-97coJMpU2Z79#reQeKUXQ?+C*3jjV*=U5#1l]a_V:gHG-!$!f=c?*@JM16$.#:=,4`ArmL.uU,jE\05jG\d!snPn#i^'_V\B)h>HOQYT@rl67oPm>T.Y"3snGu[]F6*/Q?<OG-'"D<I&8l+)/J/C$lmJ%ffPXdYku]+t*:2YD(5:+$6ZoU_[#G/dFDqYKWjtZ[!Si;:"EJ)VOq6XRp!56:`]2-sR7&_V7&Kp!ojU]tV`o]=p/p$q-.j**CCo\C8M_87?42=P7>E\OU_eFR9a"(6m`DMc8K&_hUKaB=5,9*h076RoIj9"+?KUQp>#>J0:.Q.)G!dVn?M"n"BLI0q-.+c\VfF8oW2".;rS6c!ElaRB=0WHXt__lIrA211CQG&mVkcaq#7Ap"f"kA/4R%j<!_tf:FFrTL9)=JiVotT"/c`.tPH>&Roa8&mUN=b$QU2gc&G8ZE?i=Z+a:bbJ'8k<Q&>V-+Es:Pd`;E].UKAIA5TRO%'B<gG+u31(YbAFQJb!%fcDXKktJ;I'%<7R):'C8;+p5&1+iBjcl635Wk.[Ym83:N_<!(DD*^PeY!Jm73SRV04r>Nn%6E"+n;DYcUq"`iVcR7kM>:T/m*WG8Fn$VX0;O+rR'NVZT<W[GJ@M$+oGeuH@?-d5JQG,:No?Wjlr5]>fO>W!djqI]o/*<~>
+endstream
+endobj
+71 0 obj
+<<
+/Contents 72 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+72 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1640
+>>
+stream
+Gau11>Ar:T&;B$?.gBZ.Os"<q6W+QOVd,`ML#!I5p+8P7[Ps5!>mIbrBas^TQ]st0[:?!]E+/q'KchD]bTZ.R?'p$8kAbjS+aU_ma"Nf^B^qBJ\k%_]g0a2,+#rnD>g.g2R9YX&$XK@k?'I/BI\<j6_iZQQo_.78$W7HW([Ah7cB:@<Y(r&?#Rscu]2%J2?IhYVUcnrcD!:lWX675>lr,*S9_@E0B`ISd_>\4ro':@Crpm#TGX.2][!4Qafafek3N;&)JL,Zgh9Ngqlc9_-*gh_&i7G#n%i8=%bE"%*eL<)RY#_%Pp%@`4?d=]]O7i*^\9"/m:ZG^JNoQF,)u>?@k?$F0MmIH^LD&e<QoR`u-+D[KhKS(f++kCnLf-Vi8bIYLc@eHR)f6E3hr-rCY+4!aBoJ;V8!*oH:AkWG#kqV'rJkbrqXEZ\9]qo,g$2'g?*0IFA`*%>o&A_9XiROZ0AP0+n9*ulkjfRJ?k[@fmW?!FU8*ar9bSp_UMdYBrnR&:G"')o<9A0M)\Lnj4^D.'F+7[Q3lqq=56_e+8N'k`?2_H*7kLu([A'7s;)_d)[f16YVTn]0!ZcXPpX?_?Yd$.C)Y=R(W;T8dU>BCTDRp(&GTVA46cYd=F;*pDB^DU#(\7.ho_]ribE(jn?-MLPL?N.f.q<X6\ukrD=8u6SO(B7N:OMcdi1'4r!US>;O7PX.kbacj=A7&Hc%#h45RPY*`WFeGWr_[UCRUIFBBU=E:hha$a!TRMGQp)L"Jm8O0l+Y8%ENJj,UaTL$XFE`P6ZmD%A&3hOg3CniOK+d#foO>BF[3S.N-E;'5e#i)%^jc<\bH--<q!>^0",&Y8"3qMG@ah$;JOgfS#_-E#?MW-o;*#@hTo1;(MY[F=2t%A@Q#-4NeY[i2'4)?O(($Cr/7uKVYc'](mC2s.^tt"j:?gSkTbU$=XQ8VI3PC_UX=?^Z]"^7hjk90.+>WJBgJLTda(^RrG\6%g*T$VI4+S_RgTee+Gsk-fILn.9IRZE,u!hJT@J_;m85>iTe5Cq'X-93rVDZP_(3c$+Jp30bAY.:^/J%9t1sgoCcJc1!9"6G>inkQG0]l>kS/9r#r=3119?^_Ol%CKME`^HrCrA?5%2d_#&QdXFq!aoU>9Ym5i,,`dicG$+JpS><]C!0jp\j_E2$nd*[2@-jD5>9t6H0hXDht68;k^CVoJuQaQA-fu/\AAmcoq^nTG6>O6;58C'oLLdeKRhnB]S_%#Tb""\t8=dqD?i[:q"N*$(LYUosf[1(D@+XDBqA]02QKNme^(.drd;dV)3:&+E;kg;=47(b92@UX)i2L43bYZGF+/<!;J>RIMr5:8dL45mjs1h,-S_C]pj&NG,+BZ.40KZsi!`_Q$]'ql5_AeT'e_stOU=+hnORn`[$;]="^i6G+9@+dZcg;JOY5A!>t_QqjJC[p$6p9#g!XR&V_.%>1^!6t_5XR&V_.%B^3:C#f@M"CO^(7*,jgjWGeC#H>W1L[h1_IF+fXNLS`Hd2uAKV`Y:[4</;fnZZ-9NVKXh;*oP1&/a$)a\u;Qe]rSeiK&A*17%XrDS.-[m'8T%Ads@?e0>khsVj%?[D0EVKR4Zo!]ii9YW,C/^$Y4-[-r4h$U"FfXK=I4S5G_IfTYFX0D~>
+endstream
+endobj
+73 0 obj
+<<
+/Contents 74 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+74 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1186
+>>
+stream
+Gau10:JVp$&B4*cME5_/NM<;^Wqp(?&D0]$80[C`7p^-Y+r_dH7uENATC/+f\!'os<[r`0ctMQAeZ86;$&o$k^>8;UAdNE7Kp07k3/$NdE,6AgQZ+ZB16rnK!lI$$b$[>EMm3&"FC4Hp0gR5^3/5s'5!D%`K]N7h<%l73(In,$?9T&g86%mD+S+WqP>7JgH@kAorj[8urm0[0G^pHXe&g\1lKn*$)G]1]_tiUi47O[l5K!-HfOdfN%Lgq"V(cNIEnDh"[T5lS?eD3KnFc_AiI:a8g>"g9Ddg(\c^4Ya^6UCol,UF5c2;aok3lr*O9[G@8UG6-4P!d)ehj`+'#)3ADI(D5!ec?Wo5;h>0lra=#EC^,@iUpSp;'j!_.2;XHeLdlJf.UPN8(ZP+&+5U#![4poD`d"+<"B@m88n;a^0G#QE@P<]m.-#:M\ala[;%qF^&e$:qd^74#lBc^c"^M$(0!4Qis<K5ne/0^Jq\7fYk%?e8;o+=8O(?U]'l+C6*mMZ`9$N\g'&jXoHeKqd4Akr.kO-D8$<Xs4:W02m^Ii]6QJ'W&F*eRr?0gH.I/qB/V!W6;VO5$WlLUYMbe<G417sNkIs=hOAI??9Rh,AE1\lPA]td\/ITD]tN190p^1k-24g&#kHp>nocP<gfG#6mn'`#Fa;_q&'S8(,Zp#:]^<R?qic?_HQp:8eE(N`rgC6%HNYV1@asLV(N06<VnOCl@asLV(HrgW]d:L(eE(N`DU,<'5%bKZ7U=koiIgZd'+#GL/oS@@1L<673Kdc)lLM@ks2nR=%0Us"FEtK`h7B6/".q^`(6^@h]<Jf[)&#6d"_\F_-tH#_aR-i]"6u#pKL3\SMqfq4\B&;N@:IZ=D&7*8lUSZV@:IZ=D&5B@jBE<D-=,2GiF]`KjHgehM+O&A?$K0+CTi7$$656^Fh@-d"fLXr:D!bj8XI"oG\712/'ncT$F0Y;lu$C(rT^(Ph?b4//p=kriBj0h#o0d!DS'k/?9Rq;S5:s+ijK4:/G'7>5V_TQ[L5%Sog@UsJR[3,D&;%BqW`oIS_u6gEjlEp=)b#XqO!i31$`kh$Qh!D0KGh9f#;JBDU/9LpPJ/S;_TY(T2I[]FtUW(ht;\;rU0iSi'XMo/7A&+06MdA!ZT2P^3]a,![mJLp1787=0GruB$%274r\.hD7H'LE:b/;,G&-~>
+endstream
+endobj
+75 0 obj
+<<
+/Contents 76 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+76 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1590
+>>
+stream
+Gau`VgMYb8&:O:Sb[VTbl^?F3P)DLa[bJBLdiq[S5d6M7Kq/pdd&2>?Qb,VFDRNeX-qf)tOMiq;SBEpg8:^M-jn7a:i;FWjIj-"iq.HAY!mEmEjo!&j-f95h+a)u^\/5i64T9Ws2/h0V*Ai$\$LkQYcgOW!kPPF$^AfqNXgeh&qOa)S$sepd>U/b6;j'9M!SZaGrW(h]s*!qQLJ*F'VZ:A9g#_o(&!rpHm,J7S>g:8!^5)Mk0Rm/JZgE>lE88LYJN4mMAh>]H+.:%G^snXbB=%31.sP1OgjT"0r8HemD'nr;I^pN`AV(&a*'eW%hEXf8J^2"nr-c=b<I"9t^HFc_1?&*MpB_W2@'8p`E;ds?_;0-O]6sO]Hj)O[dq\E_H@jnjC9bK[.<5dk!2LsKf];e8ltAsii#ERXpW9/]A]dC#9!13FH]lp@b8W<5/8XO"AAU_"U^6l>i3jM#OV!@'J($%^Yq5atTR;l/?D!V:nVP)Y&t<_UNOUAIU!bT5CLPI:"BTBagN"3PG8TOq8cnB?q;Bs>44nQlENrR"8;3qe'8M#dk1J(IdtmlfSdNI7[-!U,V"Sh=bA"m`R17#@:S,dC";Z"$Z!1F-,OQ<p>0dkIYH0b''O4YpcBOOPf"#'HD)@P0Ls.l%_/Y=&CcRKb06/7@:,23<aKNEW<EumW2$+/N,-b'*P`TWpforOr(gs1q#"#ki805&jSE*!bH;T$p[1N`se*acplXe\:<:D++AEtHSG\EQ*)N+(>b`nsd$7YF4n&a-OX8ugB,G]"bT-bsNp*09BlQd0h6_X4a,Q%$V08`Q6<^MAh\BliW1:9V=$GAtofm3r.hIH5WSi_q,_jFCo?8S9jc%H-?.R-RY,c!ISU//486@k2)I\HEYqJ>IE'R4!\Ocl0-r0ge6D!NDP=EP9m4>mu;V&+Ee-=Q3e'Y$p)kKJ33jfg'H=@Acuh1PijRA/LUS1%=-7J,9a9doM)9Tf:8?l%.&>;r7k_WCTbZ6r'lU<g8c6@hX)a"'Ab&Uh*1'+4YHq%^KlV"06aqJ>IE'UY\;Np"c;a!1@rlR!<jpKVHce-+r4^1@n)DsJ_a=Senb%drS\.7c>hE-b_I0u.ZE=kXo0'9lfK&UeT`-59R(81En!$hGMRB_[M'ekIQs3,ktZSG%n_o1XEBdJ((e6@j>/D"Z6[ji8X@mqpm6!l)R5+;3)r[VeE_hdB8'M<K:j2ke%-*u(597,Qb1#mELL.."-3E(;,KhUYCLnF6_e[j7[iCu'aG++I++,F!$#_uP-t85.B+&Ol>EXd`/F@F'_P@^r`u-P]HG5M3OR"b))Qni5DZ@I#6Sp^R(V;+*Y$\d8O(cr1VUdDgh`qSC`W..AR_*K?NG;DTPTkQb<NTtn_;.7u"_+)Kbd![#1TW'_0q@-]-Rpi'#sPA3r_5ME[T"b)*pCTp^BFV=kY>gGbK6X)1h;S=)B(=n.*'%)cKDF/n3-T%&oV*^B.nju56g:@Rof"B(64\k2;qguY,/]Os:mjSfjnEK-8[c%.G(jLS`FT(2?Aqt;CIe!DSY"/<alLu0d_QSlI(AY)IM0Ws!erNX$Nc<cij0'Rbq%*$.J*?~>
+endstream
+endobj
+77 0 obj
+<<
+/Contents 78 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+78 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1391
+>>
+stream
+Gau1/mn_^s(rtP*=+&DW>*rq"fM:G1:"oPNWF2j<S$X!EBR1K79cR,OD(40\hrf!"8T"]$-"B:$=SCe<j2Z>WB7f81$MW3dkYJHJ-BQ(9%-3YjoE_5VQI;(8At`Jt[EYBXQYV6>^UGi+AX7V;gkHfO9:YBd.;QEpPa0CG>FE\],h56e#%$ZZ.]ps:.Fk"LLFf]t0(JN-c1'&S&JAInkY3D!j8RHi"MI$S(`lG@JmD(M_/ul$1\8m)P`^F*A!:]Ndn[qQ9@(W6h_FrREIVt2>^sSqR%5l_bF`BJF/E,GPhhoP-R@b]"L[gpp6=]>:P5_0LPp1Qik2oUk2gEa/2$F+;1?O"-t]N@r,u@n`r!n%nH$UD`I=*DXtt?4ElZgXl8"q$1CN&nn2S>!+YaTRH<P\I;ACD:(#9OtPS?&Kdj-'_GDs:*VWuO_HOOP$A+e+"fhK!YE$G'a<ojcc?ZlY<F;GIbhILSM(e4&[!IG`*i`$uS1NB,?G%:C6S>t_=NU(@i=,4`Sm=oR$c@QLHJ^\Z.?@BjE!Li:Ti:tiQe8M?YZ/]Acb(>[,/ph)0a@Sp+bb"/N3Y-KCq4?Ym53kMMk:>R._RibFQd<KcS8>7m@hP-AYq,/fYckT2#/eMtG"Q.g(lpBm5l5\pI`;:qqfJ/HHQhfA`eNYP<jdFQET%kK!cJ76RJXl%l-UHF57[08"MU>g2U$f8V]N<l;,;?A^=nShGTB!"lsgft]s0*SY+>2V#]7bSD"(JJ;N7nSPkqH><pEt,p*=j^dL8;hHYZ^8'-Z>VSa(Nq2[b.V.JM_cO+dJ&g.8L%]i-9QR)`cVljA(XfP/TJ,l]I"Z1+<lYeg<+<;)"$GC4Ul.M\]<_Dd2Q5&1tIJ9b;P,@0JD!LOeX%cgrElS]RW0@'Wj<m-Zc.^6<`!VZY5*OrTYI*t%9%h/RJK$J2iGm<cVehW3DlEJjD^uka4'@CtGOp;3nO@XR#+?$m=[Jlo1_QGaIn@^O;S#B6;gNC$i&brTN"5D-*Df%)A.'Bjk%1@Q5'>>RZY#]h/_s]]tjGg8V(r_b`X^Qc&Cr1)l]2X5QAj*[ml5T`-0)7R!SApK!44X@U(E8r^XhZ?fZtg*Yr(u<%[dQe3d:9:q/\3@5RVN=%FOoQ^<_4!,I^On>n%eUA82q%Q)6<?AZh<R>S<8KBOi7dPjnj'^0BZGBE[<>_3ul9NO7Tg27MJpG[>&%R`OriI^f<?"\UhKF=t+mCdhU@&G'1SHr2YKD#+<?4=;=^hn5;$;keNUgooP"\Zs(A!:^-UO_/6&qr=uW[S=XKPB&p2tl`H\262=2%hX`OI6lm_jb>FXjCWR409BH;>s$+PNoVBo7C>nsWm0*<2?$n-s+bq!WO1JhhjGJ'.b]LU.f_PrH-?Ya~>
+endstream
+endobj
+79 0 obj
+<<
+/Contents 80 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+80 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2431
+>>
+stream
+Gb!$J?$"c1'o)2K.o%t4n2a_i?^/XuUbd1'DnQgnRFn':<5"qMaJL2E?4`"SVYT[D+<c@&<OU2siHCKC7*4Kt]E$5;O%;kCa+'h/?>KU:Y2JM;J<4`X!hl$:X1*%ooo*l:e5QIt=is_K/C>?%@'?2fGiWt8_?>o3)Q\M?iA7>VmJorVSL#='V`GE=pSIrtWRoJK,fo#D,4n9=QmN0C2K3X*[l8edHO:(p&]!qujlsb+gXGn9r7<msk5;O^i&eH[Kr`,"S't=e!DN?5Z!j&?O\L-29C?#MH@NgVD&WC&s-SEp[=c'Eg4ee#nCu4kABi28QL8TuP-llHTm4h"I67I[F]#cF]Z*+7'rZRk=X#Y]G-Zsrnd3$*S(=';f+QUVOacN5e&G\0KJb!H19kKU-\C;CP=a2E;1-9k.[[LqV.u(\FOI-(S%Hg(nBP0><:&\^R?R#QAaBq'+6BEr82SMY2C5Jh:A;#[`D(5cj4L3Ob@PRXYM8e/\ML?j]8RH+ZVL8"ZW47gljTNM]dV.&9q.U&9;fDRbIcQcOB[k$-T#WpTs`>5p8r.:Z"D&-jq%**Jr.7%ed8I@SM"J\GuLNCY>a/hG.L2!L[`;C@lHj@'D2E#\Ytg]YfC_G"5Jp1f]:ZHqc.2d\JkW?5N_!1ZZ&?52Kbg-E-Oc591c!`>:3?Ik>Ctk4("c=<Dhmo=KM,*L8Jk)B5/rrB!Q,+UUAP7!^?$gnM,4lC7"g#/4t]h=4_%U(I&6"8E7$gU91,Zek[[[rLa1$=8B_KlPm2*!2&4[<T)$SQEu4sGMm@TF^N&NVhM\Q$h4Js6LAjB7Ym^+Kcj%Ad6r\O/SJ90$Mt,9$`f\LKqFO]_54K0m)j]c`aP=i^\iD,#brlZegco*6-BR3(rE'<`59YA%k"2?.2T@M&;><lg3iDL"h=f964"I8C_2;E(+p\DB/ZjF3edsEFDID1d6%93"=&0=/AqR$8>lLsJsI7JYd[)n^UOV.?I6PV-VW/qSZ,GO"`:r6_N/c*2*Z!eCM!hCW`kn)K^-Gl6:T^s\jkhu4@YmMFK.[T(:5n0Km0e"XC-5@VlIq[:mu_j`Y;g/69_fcZEo2/.<X/(W=%0\dUGNW*[5@kUg5R8[d"*#b)RfhG63<'l:9f?7uXAF\uY_ql(]kE<]7_LR*lEU2-Pa'/8:#j'])9<ZOc]a=#-"L8R(5M0_?DM`]*LsYq-DiZ\*G("pf9!6]%,9[6G#mXaN?pNR#_.q&3=KnGE:\Gn'Sdo;>`O#&l2*W8<[Q$_m.9obU`kDK1<nr-Z19fD59q?>k7j7D'\;<cJu_6IHK7'^j:a=-*m'2XVb'-:Da[W(NBm-"`a9A&e"_2u4uC!s:YV=t5BGr;kOY[t*A0mP+$s,oFDF?T+_W4*XP4i!Ds_.T*][hUGi'b!65i(-SD]+PiWr_kLhl,KNc+1_G9M'J4W!iQ(.:c^3gaB!(rOgYgCuO(&%GbWl-X][Zg,AFOXO8rMN%$<f!;_RgY!/l/]u><!UTBYPT2n<F8QTkIj\$4k6^8rCCnMAAaWE'ItoX--VL0AC1Y?p95L31sqF,78oF@5ZX=L;ka_7:66e$Qi7@s,:#7'*/.K/R:d'5;lii<!3h1["o<Js0-_oV]qdeVIbu?4;;,D8a&,cVsIq!l#OWC=D1lIl%CKIX*H,mR[,FtYTMnErNf:&)pAAqZTAFn\\5.q%uc[/n*Z@3-&sCdMhQ-/C@j-f%eocq<qdnJl>q.'?I-?hm'7[lTt/8>rL`>f8ffBIe)Eq5mcV6-.d4RF[qc3a?L9m?6u>ll^_W@S>,!]5HAqFVZ@M+uO5]oLNNL3nB!X7?.(Tp&r,>'kQLfV@R[-sJn7/p\)SbK0Ne:slcrn&Qj-CSgbDm)uAg6790/P8i7,bl/GRkh=EUh&Xph_FoRiPVnbU5?"c'/Hhd'Rm-L&3b?820.o*K7X_chnGOJ''dll"mdageRc*(Hb@#jR'BLP>o[XjSl&>J4)^s-rIMCIoTWF])K,QT7Z$52\_X7j/"f_A`q.45!-N*ea,>Od6IO@S"ebaN#uNJ:O"r4[)B;7m6GN=T'IqX:I5FQ;>>-F4fdptDO3lbI.>$k^te&uI_2U\.t>0EF8sn[G&mluq80WBCTUE9i15N:UnVgX"nte_IAP)HOLD6;$$5\o4SMDds-n$h5Y2SD$g<f$10#%F;j-:>J`gb5X0IQ-d,.L+D;Sf=2VFOHR>Ym*F"/bA7H&/68HYNO_lOs4-_Z6o.,9%BeZ?qY$/RcU0m;LsU3qLPRq2VO&mDa/FJ%hYiV`'/lkDUTr%bYh?olO6#pls7e`f9F1f)l*7ajTtS;ka,9jKu,S1=P;%UeOc-Y\IAR2.!#pHSL]EqmiPY^p>JqMd@;rpQJIUqcR))VN]4Mt;.ZE!4Fh=cVG"0<b8l\Nc`Y`WY`?qo*,]GkPLP<kfL~>
+endstream
+endobj
+81 0 obj
+<<
+/Contents 82 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+82 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3057
+>>
+stream
+GauHOCNJ7?(&a_2EC\,em&eJ3i7f8r`m:bKFuQh"G,A,#:_[`p99BQPq6AWOms@?P"ALVM[f]*fa<W&Qn=4iFEBli)#l^ULHb9J@\:SoP'I\U7CS6^L^ss;B?bNb$9l8blb6\8[LL@Yf8/R/P<uIUoqZ1qd%Wt$U\Gl#`AMa5c=LS,__m>a!\5[pjC4JSmnO(Jun9C1t.rcQu>oTr4Y]]s:d>,&<DunerlsF'?T-'RD?blY*O5T6oZ9>E$=*JWV@ssboi7J_p-JQLo=\*5iFW+j[[`k9#L1sIAr/^&*Js$or'_tqN*8?PGXA#oW?Z]NL2G4BcV'<0r_:H9'DX@cM.]b_bk&6>."h&IS%.\2<]8_Ls$QZ#YHB(c`r9IFd=!;N"U4LKu)!K.P@"W)l;$\^6&-gaq!k^qIXY/!1s+JHOpm-f@4b2mG/M*jPn$DDr^0K9V?+K9'@F^0(b[,W(gg#8TbMurA>E^mpLLa9=((b$b8<uo_8>;9b4C;`Z80kj89OY@egP296_&(RJ*QP2/aeNJD[_U78*B]Vb@"!IJ"jCDYZYM^[BJnPu0+,F`VmmhJXkB"S`jTCQ2.L6aE=32gQONDRP"]<)B"f)*Am'2jF'[Pfm#sr^Crc5H?o$KF9)_qQOQ+KH"]Ph:Rh_S"mZLAOo&D+UO"29<I"=T`66;O^Jq/r?Y`7Bbpo:b58K\28[TsM:+auAq+31:jNd-Rer[i)Us)frupS&#aOGa;/[SgLg(B!bb&X_U"l\:b(=]on=]tN^3djf9\(?Z(,m#r"oJQ)`Z'Z)^X6jl+dV055HWlKJ41OA^4\6l60dhI]4C6]0pab!#3Ap7+0F^-8=<nHe?_:OUX!$SC%PTj7i=M<P+Yun,ZDcVK+\=:X-8-_;41,jP6Yng1S@JMBr!=O(@,eq342VES.0Z-tHS+pmGZ,d#jFlph=<u88I2DHe;moZr_+ttN9$f!E$It>]s9!VaTXPU7Y8+7kBK*?-Go6ZL)Ti:d#1!"^A+.Mq-%I=(7_3`5s9l!cfEm!qf^.4*8&u-N;kSS,A>?NE4X@LaT",r@F6`c.iPBjp7D]CRYf!1L&o$'3P%6VG7G^q^s_>lX'XZ+46[Oj:]i0\Mm[]N5fDq:InhuU9-r`R51="a%m/Fn`E\Tu2e*L=Be%*m't^<&<La>EAdk;sZs'[OC'6iPbmii.a/1mK-g)=`RRTpscY./@HqQj2uAeWYju?EDTg"HHbT1Q?]g)o8Nc>PTH"XO5J3"2hM(o6#Y$pY[GKU6b46n'&3qrW&k>kQWt72)7rne:[V+Go<.!<lW9@le"&`\&2NTZJj.\YsoiVfZHe]AhBGUmZMI#'`13b:PFM7;-J(9.lC-:9:TBpi<Cis@MtI$m0HW!a1%=Zo$+a$%K&!T18c)bFabS4,MX-$]r0<7X=\3q#FX1CXd!HWjfP%FqXDB5W`+DCTB)-DYMUQ"J$!cPMi%&eP2kWq(+1d"3:fhaA]e$WB)S/&DIaSmT'84.fqcEbs3e^-eMm*DpQ6l6^mO!K\1D$Ykt,N#^'P;V7MoXT+^6V_>j.$ABaJUQ]Mi4hP\K(=\QnYo+e$O4Eh,Dgfgp7+-CM2Gpb48FA<\6r1$,>8ZW9d&pQOQ'[c#b.FTH25k@s*sK%B0]<j>!b?IYg$_C.HAVMnP`f"l(Y^(*[!<LUks`q\/.Ghe"!)Hq&M2>X51U'>&KL';2fSHeM_ELP]RBd.I^h'>GBmJ@naWr!E;3!ELK`@kBnOQf]`O9/3W<\,rjnMG2lMTb'M-G+_GP2C>#S`UHXeO)E+b'F5'4e2cuY(rR[/,6l*QlmXNmjMHdm<'j"reW&8iT%l-B?G9!B$HhMhCO,ppQ)JT@VaQ&26au\bsa"a47mkheYUDVKkB//#4>"S59e/DBtiRnhD()=Pa@$qX*`#a.\b5(M>D%8*%`/1/6QZ;lY5:.$uatF!ZaCLQ[:opL/gB$;Ped)Ueqi2WH)[G=mMu:2hs;.EK^gl`+<$]p$b6VoZMAS_OSeJ.bcqC*/lA:(7OoG)RqH@!N(6l.j(PK?e*"M91kHU$dH7E%G\(;D'U3q4[s`sc]?Qqi!pf>R'XFF3Q-S#cP;m+EuK;0#/k4^?simakN(Mop9$T%-$XUu(kSuR.d%P8[<*=s0?AXR^gp7/P9M)l[e8[YAjT%a&oj/XgqX7>Dq9uE6pR##$dJN3%GY%EJeq\I@sgq``.B(fVZFtZR\ilG*=L-g4:ODhJojte'()f[Wi5_0o$B?Nob:E4DQeWIW92J/j9+pjGOk$]3HMl/q,='DR!-ibjFt36\Md((qE^+R+j/-o;`MEL4.3Od,NINL6nr;!0s-aA[/5q3p`?9lXK&3FE/68bPaJk0)S+T'?Mo2n1f'Sh$V#tUF/P.opVIMjI<'^UU=*5D[;U)Z`7sN\GhjW1rK0eM&Q5,2jg?Kklf'blo)biXc#5.W'^A7`DtR2>5gCO+*Fb'ogrTC*'VRqj1.obO5)n?r@J1IbIJJOEB17Y[c_chobC:V![rTcJ?1]C6H""[D7jYpeiVBF@M<3_'9A8qphN9>)Mk(Hs773f.'.%6BR7;)hQKU;%(K_ReAToOWCSWe-[f]YcRjXVG:O=jA(>=X.]uMa^[^"bVN#$k+7]:^//.X%=c'1]STN]SP^<X+^GRU_r;,#5\W<W+s)Da<GQ.n)p,O"'=NJ4*=/X/`mC*AF^qulZpJ\?@mLUE#8[H]F10M^..)llBO=s]0`V:muM*7I$47-4:1AQ0GL;H!b?nn^hQ.bd6PWdDe"]-bOu)%.B&7EsO7NSM!?Fc7CF3eH&9AiHoB4HS1\J0]!"!$`im%3&)3c$Ck!g_ZYj=^P1ACE/4?(Z]T`\c;3KQb(sJlWT+9_gL*.fQ\`Xeh_%$53"Qn.efFXNYZ.[gQEbJO),XkhMRcp<\<ePbHJ&/WHbn_r&rUc<?_QSA%8I?_pnhgGnJPhVACjt$>fN"5d1<^\3YXp6\j(i/q/sJ"-fik?jWtPaGglds7^FGK5^]$PLY<8q<@cLGR)dF,2^64h[d=d6s!kWZuG$PSAr,Q_lH!%n*"`-~>
+endstream
+endobj
+83 0 obj
+<<
+/Contents 84 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+84 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2089
+>>
+stream
+GauaACN%rc'SaBc<uh!6d^kB^d1&MLjPk%uP-q5/lpDd%MSqJhA]^.s>h\kcO-EAfEO=:;N`sJZ*Q<?(QS/mF8/;A!rQs\N49IPa_r5A<Pem,5W#u/]B.t1k&Vj<QF!)Y8*$,0$7HcERVgGu.e+Wt6e36hs.H1-V*oTe@!!q0uAnj!]$^^.>2[qGH[!kQYQ+YgC=%=G;pb%?l%//$)S6h]p^]c\#3#[b\kJq4fGB!2p.@^l<lO=(QrW(tkbJWrS_'oqmgJn]hd%R/Bd4fW`b=o9%9S95$hkSp3C0B(`'oOi5Wr9HKlSMtiA@&\I];,ur^$(QN[5BUB[Ph.q<TJdMo,l'%9!pGY%`L<pc,N):KgJoM4lJJoHM*cYRg9-qC>^if"5PO2%N]=^#RG:(_<&W0_"6@D&1R:eUR+"9A/-e:Ol"H=XiHdaHZusZG6J:S%K]l?CZTCDV>P\&Q?';23mD2(Wq;L$J!K.nq(OgZ=0I.bIHXttnpW4O=sbqaP!haqRiK)Z[P%ai<q\mcqeP:`nTA5j$fWfk0F-4H>'\R`Hm@[4PPs@J>i]n#j11:L,0O:7-Mo:-(VdacPRM3PFId.gEd7mk&%-d</lf:E>udU>F9iP+g2&g'ic`CH\ZJ5ZUBHhI1u@GQce.+(MR/aj(rQ$T<o,I\-FZVg._LAf-qb3dB14G\a-V,DHfn<*a$J&!Bi`j*/'%=o<ds'$aiIIde;.DmMEb.t:_:A3-r<'1jc8LG2\:YE/@`2*f#hjkp1IMV$E36gCiDWk&Z)S/%VsD`"edHA*j3nuo(Ub-d'ZBk6hO.7iF7eoh6l[Zj-<U\7AsNn%)d*&a=;C>KRt/'@CR:eQ+p4ME]TD0%@PG<ohCc!aLP_"NlsIaq>3gH;I+np4]B?0a)G:DZ-']0iA0(]MN;dF1`ViqXE)q3kAUMQ*#DSUEa/'nb:(X-jJ[jt`la'Q:P@LW$HH]lX8M@)GZ:!V6Ug!Drp]&rZJQ@*IoVQQd0\-M:(A<S<rB$f^^][M>hZI*D-7D@`[Vsf:52-D2(BhnC>=9d'if7Bp9BVSgs?SPV&ubN4UQKFFmaTe.dLS-_C,5U3m*Yb9MUiP9%F`f)#`"W8<\C_B+NqmJTd6iB8Q[*M2Z>!l>\PJB<mi(i,tmr^s$(r^kh$&O]?;BI.t^!#Bc6@?j<Yk/ll-:[bNP,O*P`36SXX[6p`=e1`+"i,V-^!+Y/+:<`XK-lFMAYpVE5J-@lP!<dEGTI[m98UeX]t=.(U2@fMh^lUtTc,/s7JR6`3OMb[<`c)Z;p0Bc\j<bo'gUP>Uds8&Op-XcoNZ>n:<\a6+O*G2NKi*r$QDR3[,Pf6p<mRW&5:/?dq:mOPLlLlWdj]l.*>s'Up%^9+'BV8&W6CCj12Z<m>W/bfG*&Pkp3K:>>Ek9UFIY2ua>P/*^@=VY34CAB(">4^tjgL]2?W0M/*1b9QC5R7V5kJ,`;4:S29O074o:ja.YJ]eGp+@?o!1t,M'=^/:Q(JHbC_*,Z'c3j.m\=:\+9IlJ4;,/KA<f)*(clmhe[0Cu#2E3^=)0bq2'?ZP-2ME).TPXs[A%*;'#b3L3^j9+W.?4F$V=CpaW0(:3cIh'!kGfHA<kp3R@f$?S5Fo1/hSJRjYj==Z%3B''^jWb,6goB!@AU!R&k=tj'@J7atgJ"lPmp'r0&Z>.(d"C`Z8f]ai.g<X8HMYpc7!B6>?eJ`?ce1g_TTYfMJ`Jn/hc@/>*3@>[2rfb"lKep>AjO4>&8U=QN&nha%[B0n@G/7b:\rFdbg'L;-25f.kA,iZaF`h@*h<LJT2f'qXCWi'+8X<B`uX&lh4dG,so)(Is`9Z^^a/<LS,P'o31:!02sF3*,j)Rr0kVF^pn&L5.lr*jWrgA\55%JL0Fqm.#&"a!u9ks&$hPMh_Zn<nSJikWtb3bXf";ah1<tR7+2Tjm3D%n/UR/:_WN!#NNX64G('=7aofrBSAI,TbS*)<ig<X;:3`Fki(KpLK/eFbQ6>)^&eUg`si+C)@B(=Gk\8Qo2Y#;$sYI4D_`/XqmP:`hL*P5e+EJ*m0F2q\J+`Lc@7q//?$fGEC3'`okoh.."T']!Tee;%f~>
+endstream
+endobj
+85 0 obj
+<<
+/Contents 86 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+86 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2811
+>>
+stream
+GauaBCN%re(5BTu=.J[E^eU@Qi^L<*h(4X_452BVC!h1gbIB5?M,)Rc@d&t5`W#WqUaX\`h9,dG].%."ZMfsTi??N78`gTB5AhRl'&`!UNdp0+"YA6?'iV>]"j[tq=<P/E94060!Z;(J<?)9X/g"'fc1sJR)1I>kBJce44^_1G#CoD;@=d;KEtr`eESH"oaQUZ\k2c%\G<Je1k+RGs$.H64ci3n.3J7CQ!2o#Ccd/2sHN"[TIsVCG?Cl'G*5LPs/058VS4?1l@)B:/%?!4(nSG+3&X\l<g>=TFCr=$R-=>qMdcGTTD;+'?DRYaHS)Y(7hut[cgW1oe)S%bcgp#$4r!/+lmIKNT5>YkQG2%mA&M#[PcdY(EiUbh_D?I'FMErXanG/,6?G_ZSfLLnh$3#l>r6fBsg)ffL&QoE]jp"iR&Y@=WW^$ID\8RksMnD+%eMV/\\uWE*59A](ZOeT%gZAX@M663`LC`;9(&TSm:8$'Qf0WAHd*t3BG*k#Ohk8hn"A4R2#)9qurCNp#c)SK8j*c+Ip)FbS)6-P(5UeT:R\YqY<];ZjFjiY)>],_%e^XPaMTp!"MRNOh?.]+WUqJ8K$gR-fAQCa+-D^&.<d3BL-#AaiF<6s=2u$`p,?P,(M*%IiZIO)GDu5Ge;l@3DW>u,MNaYS%=pJ8;kFg;cAt9af1Eh\l)[^%BgAe9-AR?\$K^EPKgXiRqgXiVFE+1VO3F/a\]N;/q!Gcd](Y<sn`RhU@l0;'/m-e$aZ$-Ns(#qYe$u!>6_N^U^%@P=PCUfS)lt@eQ605J=g'_P>%8C1]ViS&][EF1Me;9lpX,*:Se9YQ=5>:R\kV2].6HQ=25ME8C:6Xc?XQp''a=C2QgNSF7I`tR2Ho\!G/>]D@S@1D(@JIiLVa#;OMl,+i0\LPrUK;TqD>N5LnpoGrOKRYbg03ouNN7HoL)?74oMhZ0VTDc%9363qD)M()iug3NhJ,;Dmda7?DjhSceG3ml%*&_sKE&]()Z"F]UoVh3[d\Y&@:#DMJm7)fSZ#XO!oUEkYSF&%Ca<;ck-PQ$'rL?a>e6X^BT'G<2W^i1o#d%#omBfH+Y<h6R3-!7HJ?,=K4S]NkHWLuZ7h?DhUm%2/S\@\(cUoj9]1W<1R;S).WLc?e&g!7M8q!!d+rO1M8@D'\C/@YA7Ak4=2PoiY>ufnT/74-mn1*Y05+e2$QJO=&9(<K#jg$_da:4:VA-21$X-[%_T%]U[381IAmXqD#Y]*k^&bg\_Xq&<dI#DQ;'B1)(UT^jKl,O%\P:S[3pR._iG`\VSZTP[K]L!MG!V#p??jN@(Ml0YT3Na')^e-hZS`5TCVL+)N[XCraYtOIkbAarLB)pl/\J<Eb/`9g3UX6U>A/)L+_bhcjc*$I]"(s=2iV/,T2$`p<I-KlA3@^KJ>C0/5_24oXuQ2FLE_<c7D,kFr,T."kmq[Qa&,=C_2=n>'e_]'8W0B][999+Z"'02,84ffF5bJ5dP?du^>k'8+0tf.83kIT(eRuG).g:('slEBPpWn39nn_Sg*&Rnl_`.ad[k_nQUQ=RT7+ZE\n"hWHIF$]PTji3`s[sJN<r;"SQ.T(Gjk+"N@@%tP+ZA*00C.oj^^@<A'CXUKt0g.6ZraHb"a;UV,BqRJ4.hKNYhEgbd,!iQE9](T.g&eT?.l__&[kn>,^u.USea*IWDF8e?*.@`DeBA$Jf*!g6995DHYDRG^,#KrHNAN#Y!19Nu,NoY:]t!Y+$V,O^7@R4Yt))D'sflYPrOF.3*;^+-Mq*]WaUdo[3"jm*IHh3if\rRphg^R%]q+gs@U,,0<k%2k@[D]nqQUK+:IG1LBk%#Z%&S'bVMI-'%R1pc/HB%@0p)i'&q_aFVCIUVK4!Go8l5FNO)]!^B&GEFN>6m\/p%Lc]",Zm=^dmtTj"`T`KjB2;oe52BdPem9YIbdh7cqGW\eikg*s'JJV(!KEg",qhB,DX5#./cGXQG7gUQ[:89Wd?;s,45)Gk*'WF`AhH.&LmiUYZtZ*NQLL**H4qL>^k%H=,pY.VHbI8@eZZ,U-@&;kkd+1kNbT7[/pZD]Qg'c15Nlp;,C)$[>3h\Y8P+?57*&cK]7Ula]^W'_K<n;8m+e`lE,r6orQ^n"`TLN)BQMG#bWFSa$l[W[,t-[!8C:>$(VUoMd\GiCC+&L\R+R+K5)jjG?q8UBPS`3L[ZC?Yj__:jO`h!@9b]-cr1?eY"G%dA7>k>UGg@'hdsEFWYdlV[WR5Ec@4:sdPMIP'rA#4N",BL+QGL6'DB'RCdHC3aqA8sWjPHXRCZILr5`->[]^RM6?e[g(GTMkWTJnkA*;"ok2!'F89cEX@Wj%,:mB-Ia1J]4epq^UZ@$?nY7Tm7mQ_[oZ'P:Q3%,>\"ER4AB8QG,m.&8.A0DpN@[pV5jqsj!%jBfh9QpOsho>5iHf]:<Aq)OCYBbmWpE,0`BRgON&n^H*J(\mE#jt\Vl$sG'C0"niOoh<;aZ9h`Bo>8*?ELS>ACc5CSQW%,!W@dXb]O@-B_7]8Nk9p%Q\/kL6="e!Qj@.rK@<P5o\)tQP7pQhk=dtmmltHGfQ7CA']<8a)`r&B#YOZS@n!m5[,)@7?Ks\MTKuZI>eTFdNg!4;*GJo(<Z*--1<#!d?elMO*/,$6i42!E0B8Vn$?<1WE^gF_3&0JE-&9s._IR^ReT9'hf[^t3;m'?A$G9q]YG9tr]rPq)IERB+,mab*iOYjh"!>`q40T,?[<h)\Lp7LJ[0BOkn-m>*Lk!]=6hu?8CoW@!iM4jp?]mOm]3G<oiE=?J5Ib?=A]-.Yo`e3[1DI!L$#QFt4K.`\~>
+endstream
+endobj
+87 0 obj
+<<
+/Contents 88 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+88 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1404
+>>
+stream
+Gau0DD/\/e&H88.EPO7Vkn70IOXN62LV,U9=1\oNY@$S3?t;;s+A7;3#>)0BhkMI?SnGDJ^cI#q.HGPtmZ)Ke7)?ha>(9$mJ?(-kDCJBddj7gV"AD<>QlZj+;_C'A&I'iuJTrA\)&/-%.B\mj!$Bfh!JQ9i]-G01:&r/UA;7.P'HT-\CBFtHK-(`@Ku^*uh2)[c4V#pU*03>@r&#CC#LER_S4j.IX3oiH/jJ.,c#D)o3.^<-9]%_^P_%a,#W$YO0FM/)qE'G"CFh8]fJ!bL_k2#_0B5T'EL&p/'ldR=(8<@^icM:=]*?#GPX8J6dNu^qK7;GiHo;198cB(s5SBDsjq/G@\C"SdTuTKNj?d3Ef>gb>`p4`QL1&po'+"HC-ueZI*J]0l"+fqe$#k[6=7=KDs+d((8CBtp+$c-@#7Ecm<;NH&QkjIc$B`K3FeS!O]#rXL_qE/dA+;IgSfhIT1Z,T5\-(SA;e;qd$C3/:O;03$P"VQdU#Fu4f;Nclc6uFF0F-UERo`Vu>nj_]$UL4ToVl-M*Unf,?GpP84*L&]r5/,?LtnS%&he4BW:iNl`"gX?E8\2gc8a`RS/opNm"_,>+rgO*0)lE+_dC1>3i_fR0&SOsiAU]3(#uoZ'Rg4'6LTM$8e$e:4$a\@PcOK&'Q7oID+?9gMR%4)\*Jh[ps:J9$GbTFN`5#O`1,7eI%etY4ZfO==?l':jGRlTf\W&@j9rS!45^Q2N87)@A`#BJ[r0QIJS1<8#J;!$',X`P9PDRb>t!C-+YOP*C&PbaQ-^:k5P'>T2!RGs_1P?Y?(=9ml=2FrXN[]]W5\#3q<R%6%h"r,="'96.U`pUl64O_@bV!9+KY*`[-N8QpciDpDPpTsMKOg,k".]dk7jGm-WT)<neU]Ba?1tSk$)P'h_YFXbm1F+26<,h:C9E-G6E*Fd/i^JUM\26=10]9P^*mC$23E-gmT_*WT9u(eo=We0f,+gNG#qB@!,>I*FmtaIXC_S$F:3.^0CTe[`=a/PD13#,H4j\]QBT&-)`**MX>:C?0sNH]uoqk/#f=MXgSBsjFP.%<dSdX[E90=\AK9lns%+<O>cGipSmoKB>e0H<`r#+P&1T^8JW!Zek80hXY>o]("X5r;",h#LNdrpRlZ0V6$9Oms5RP,?fu_*$>4"KhE`ere_e%il](F0bWTEMU&>6PhF\u+=)2Z(pZ[/Gg^e=Yf9atF`t)R<o&/XXn=mSG5LQ^=l@<_hf&a$`O`iT]#AeCd,35kbO`pEF()Wn5Hu:G1Hu=8#1S5Tq1nQk<$\/M-.nHIAV6^=`R;[7e)YU=jJ=@?(5Q^1r6%EGn-k5,6GOlkER,8YP_8';$0_t6#T'sD;@SJ3f&+:jlK0N4=i@t8kHFISV3l_U7Fh;4$\%BQ*2]Y+q#Q~>
+endstream
+endobj
+89 0 obj
+<<
+/Contents 90 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+90 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2540
+>>
+stream
+Gb!$J>Ar:d&r#6A.geQ`lpO4G0>&`"!6LCJQ'KpTAs*<5HJssf;;8`WG`cNFJ,E?2:%lZ>X94\'JH9II)BSV2@97qIEZ"THNt"=['&[F,qsP@U%]_*fdZ^mrK9Oh9cPK8C!^)mh^.?$IAE%ZD2QnUc15]NHE>p6u;/l3G.o1-^!-lA.R,_40Oo[?\+*PFC2Yr7H>'YL^fo\f3;'97H_X$gfa1n195QJ#!E4B/ES0+;m>eo;_O5]kU3PY(g<ZbcC_`5jgQ@a\.c$jZQ4RlPemd-><B$X^G]jhfg4+<Z:]=q-&FK4^nh<8*DRG-KCbPi>(_t!?3prWJfag`E;^R4)qm]M3B5bZq-<u_'FNT8gMB+j]%U:2D4OWWTOBGe[LJ`J3d!B3$CY7!W]kRB8b*d])dOEn?5(^@lKfq17F![>tQ/"R<4_HHQEcMKq:^c/:@=#ru9>utB_R(pp4+MD=<)lN?_ldf9?IEXnn'.o4d^13;gUTheQ_paU#$U7t%R+djjhKTY>>$J?$HaNJ3nNYs+Y<#r=32pe;;cffq3`rAeDfiCSSc6^go(BTG71MEJ?,!"U/Yj0lUQ`'fBAL[P-l5CbK;E<:<quXkCG#!@WUI'3P]a/&TY4*?Rgo=9i6p+M*,e)h*+n";=C0rRg3!+F:K;gIJZd_0kqb+aiO3XpQJ*!)2e,trBg'_PK;Wp9F.5)`r]8:fR2<)FdOMlKC4"L2Y(a7*iF?54ThCl7lDRGR_jZI8M.fW/\qA*k_l_4rld:_F99nhM;m<G%.`YIc;25r5dMj"iR+.JO*IJkC"gn5O>;mSJYstS/mV+\mh6s?0lP:E!'tQkQWP-="j275s>-G7b^rbD5A]CK[R^tM01L2Hf#OksZm-cnuJ?giLC^)jsM*IiW`l6i5of3CU7Ae$:gSg1s\:sorLNl",f6CW^@As$CXVtr`iAc6&/a5s7cQpY,U:IkPf/XQ0=r!F#DHg@%W;Qn:iX2IB+=B:Iq1Ti((K+?r@C4\IKV+l`a8NG#N2ibNm\nqJ@4?lWif+Tm1A\in[0nT<6SM\'EPaBRV@ciI[D>%!iEs=fP(_O4':($`/ZLeh+fEfS-7s='S"[:L$d/s;(.Oh`o0N>H(;5=2mnB4/"L_/4+F"UKogtoMR0X03N0[/-n;u0uDbSQ"W)[?bE)kDse:(k8+bA%hLD0Z.Te.+h_amlli3_:uK^DC^rkC2r`tO0UZGe*dHsZFA!j]Bgdm^=GBp5!0lE.o'o?5bQjVs97Dnr8D0!q_=KSK^1e^W,]Ee4euMQU6k:*d;N^hJ)3$,<j53>0V[K:gOM38m!KHrKnVg]@PT,nD@cc+1l\W4d.f0nIgELD,-.&PmV_dB[[P==\2t_!BKU7m>69\%'4f3Q)5.%WQ>&HHFVgV0:j>9+7=+7@`j'RE5Oj)D2$Wmp,Jch*P+cF)^cMNuM8Ki3ZVGKSSb\DePrI^I<#ajq\jp/WDaKQ`c$Q7GZu#J+Rl]W$dpf\>9?pM]kjJQGd&Fe0`'&+:;<CQt2gr],F[YJ\TTLh*@9,Ahmd<]N7g%Sl<EU'*qdoE5Ft;s2M<>QDcB+2VlQMV$naLE`.m3c$bTf^/)ie.3Y')!'uMY:3akC@e='rfp5/GC%M.)p!&(Eb5m210V%Y(7IR2kN!CN67E-kY#[4NQ_W13Ok-4hY?hSkZ=+*Am'2Eclrql:MG^FH(DK"aBbam/J)B149Y%dWb]+OZ7U!WQjV7t[''5#jC5mn<#GdLXuL_440;/fMoA_OPr[:KG;WEP[dA<@X;8,WlfK?)1;JY4:u-iA5;XdZuHL3ECjmr'(KX#*leFb/TcZTK@E6,O!>#s'l;%r*&W2*m-=PO.=K9^N[+_37c0qtB7^noOrj;LkR^$R\&<_SHNNpn_m@5glrl'7LqGDO]O`bto6]CorEsS'jF>_U5BL4=];c%u8MpL(iFSm.@+rC,=YS/0JXM_[/QQD7\[[AQGaE@icgZLqhAlJl^cmpK=$^Q3\`fC,k2.e/gTE[c71M%O<WL38qVAAh<I()b=/rE5He?8p+S)QsiDJ)9-.C0)Ulu.%KeeZjrF@:JWQ4V-0\(aAI([Hj5'2fLUt1f*I9$2U1GqMgPm8!A/"Fi<T*/8$auP;nEA7d0hOF9X7I=1kbdDU!.RWGWqRsK0+(9LF!VW#6?E$3+3cWltUY6%Jhe+'$CU_/VH)lHS'*Iqd49J3`l$;,"6pdK^m"?5X<L1:AEc_NO?bU0prn#MF)hPrI9_/^?VqKjLWUa-E">qP3Fu*=pf8dLM(8PCVo@I\QXUTI<&"u_G;]g"LNj@KFa2XbB8C#aPalJM*KsSL3@fH_PiA\P#s=BBRs[E7;B]Vn?][&p<3H#^;"%Lp\/!>SLr8Jds>-#T).bVdlk`9>)a1g"p$;rbdp<U1)CCT@X__KEJt;Y?ZY,5bj_B1gqhbY1,$[Y+$SI#$hGqZnD_M"iY[.mP-GiVrarm?@;[J\#sfDt(BlAipD6E\QbFlca#\ZuqI'^-n8!?6i\/aomu1rS5R*(cr->URpGLmZIf]B.&9.~>
+endstream
+endobj
+91 0 obj
+<<
+/Contents 92 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+92 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1037
+>>
+stream
+Gb!#ZD/[la'`PgREB\D?kP7!D$UX-eNYSr1XT:WK`J's1Xn"6``/j(@Bg_@&'+?=Y:g]_Pp@Fg;4LT;J;#IQc5:HTX6TD\e^c6ud@$4%dQS8qG#Sg$H!CU*YKa"3HV&ZL2-RI'fg-C10R"WVuk4o;q*!ZHUIPAfF>YE'6n;`$OnbACQH[+mgqadLcXTX:\4BpWH^0f/O!Ls27f'E.sHo\rqg"T00>c`^@Ij"XjiU]6,D5:Q)\E?:iDCMp.&M^2TRELABRH]M\U0Z5K/qq<q%Cj#$F_0PdMI]pL=kUCYR.Jp5);$R.PaD\9"5@mCWm_%bBtcLp*V-:$\kg+MM_Q;p>/dU3SMlRu#2&2nLs?OQ&JPrRT!66Q+s8#!-&/W/4AhOaN&4@:Urr[&`W^%]2d8CpXFgOsI6B[R.[X]+/>f[Hj4$ZD2TD+09kg?$e8_3,@<f/Ae8Zh`J9%dO3"hN3,q.qKM9Y(oH(8[sM<uJqkd\J7i/cEsEU^8R`U;8ZnMrUhl6OPD<#747^Sn;@&a/$ore?=6mTc#o17+0/F\57%V&6FVFUl4UE6lCoDi37f6e+o]-4Ok$HJ;K1bG$bGo:,7GVfI0na`<VP6r!5tCtV,fh94s@arZ*5B5a<*:Mh_Nril&F`OIB&i5&YtpQo!?0<kFl$08Uj#N/AL`Gtu^Go,RFMX@Q`VVo1#%BpX&44q0%:hDbBAQCkM;g;[#m;BD8I!2fDU9Z?tY%[F3dm1P>\5._q2[ok.Q\O&WG!/8Un*f<1rn];IfMu)-e.C_%^&TToA`pYtOCK'kO_$!m8RFCZ_5K,=![#P^f.$[*3fPDtf;Zg@3<9(LkPhu;>*W8(euLXfWZ6QPL\S>qK:<YAW7^3L$>]ck!`uml-QjdUhYN00<_pLNY5<[f%eiZT:\K#3g"6T;p3V&>lK\HI@=Ghu>$T:g`Q_WVrm*6YH&V4r-P3&P1'Usa5-\5(II6>pl+[Bg)1RddqY)l;0C+,E=%01/]/A0pDkaiLS(72NEER=P+(YbR__c?q$r26O2$jY,~>
+endstream
+endobj
+93 0 obj
+<<
+/Contents 94 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 23 0 R
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+94 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1801
+>>
+stream
+Gau13bt]6K'LqgZ`Eafs$sim59/&>F"A-O**WRKOM"oF%ZJaur;q.pa,_mZ)=I'@^1T*Eol99XDB,d9$5GnGYl`J7e7eT%a0ig3!@f4Blk!Y4gH`P7+Q^k.)ace6\$GK27[T@g"o/fmn''K!+0A?lFr33YNG(,"Dh!W.)I[<bmR,,sO!`nlP?WOGjkHC>?`-Y(lalZX<3W84+Q]knc,5WPhlh0f4iQ:VX*;k%,8"\E3$fB+h&(u>TM4(Yn7TO]Am_#bUP::LVYaoqf>Q<f=9s+kR4F_U'g0X\(T<=fY&"fGcjo4N7iTY?mdbEZQO]$CB>3.E?'[+Zl#<+U5Ml+L\S*R\E5NQp4Ik-Sp?c`3>qWdqFr'ha9pK-,@>IhJ3dt>""J'[*1hWYkeN?Md1a"Fs4^:>4EeSmO$?\OfqP"@aeE`p(k8KF5+;0OCNMs=!n<_nJ;>gI!;?+Dh,+Hn_KmNUhg::Y:Y,f=dXH3uu1/SkL+.Q)3+F6MAIaeYJs\ZEo^UkMLrW9fR0>2<48O^U<f]strWd[.26ZBT)`B*DB5^66b[>kT#egqo6.;X/&]qgt9hpQ^uoi#9mE@FD*M[?R\PVc[22>i/c6>_DnlqnB;f[]$"2P\N0tq)%bM-,haOkafMEd__18;X/&]qh"[?qeA]D%5*!I\Me8,dTfCUO+?WhQ6k?E\<\)D]P.J7--`8cbF-OLIGD-(\HWj5"Ko+gbED9k.XGg>e0ckAH>@IOk:IM)]OaZQ.@!$tToWHE1tUYhDWYuRc!6S,Q;T<t/a)uKj[a;!0)f8BCn&!Ukq8enDX)7@T=Q"VY/,7N\SV-pnGJIPUFI"l'A2*</k<KgE#gl[fq_J:F"%j;Y\`Y>QQsa4\EkpUD<>l7]9MTjREPFjF#hZRKBkL<=kb8U8"*)MliAegk45=[#+*$9VD`L@dT]?:S@;2V':1)[27Vj)0Y,G5Shud34Z@GMe7UC0H>@I_k:IA%`8sR/.2@=\1qlakSoiTBH>`"'Y"`2n1m_*'B.d]kbiME;%5)uT0Q$+GUq;lV\Z*bGIHh08\H\D4\=AsV2^;_qEqAjZjUOQc3sll,doVO`_#^":C0^.>"AE/[Cr6Iu?T%-4BEV":26>hfCKL[S;'TH]X)[[,7L_GZ)?Ec=NSD8MEnE!^YA+26@_8k%AIlYPY7WINe[QV>TGaiNe]L@s6rq2`Ck,2[UQ3Jd`)KdT`intQ`#;g;)\Mb2@O!^feYo7S&Q,#,E!1%/WuDYYR:>-e_PhB@e7Sk'To#kjeH/6/D5LG/&mNjE,&4FbAe.84E(&2gMN,t^<hkZf7mq2P^_*qV06'D0Ar;;'_'j=Le7W-`a\`.UPp;tT;euM@[]"3le7A^j*sSig,h-F`:#Kir.!-`aAHSGfQh<[86=$HjrfM1tlU[u#"uq1_=YFqDe7OS4TZn7kNeH,&JD%P$06\\kB8TFAFLJ,lACP2n$t!UMm`;?O'FQ"9;=MZ*cNZ@]ZWXJVACP4Kc(N;s'p"=-Ck136cta[?oblZYW*r3D,GQk1i!d2u(HjP=1<%*8@?`o1C9mrdi,%!1*Z9*g@Pd5R7GX`3/fS3tZ*BWZ$L0Fd(2u<=e344SZN2\Oc$JcPTJf_"HWO<K576\^!A<;Pf#o-=[@(LW95IK(.&bAp(d8@3s!Xhl'O/B+Cf(0]W6GOVJ2Z]sOFl1[Z1'L3AIUGh55XLY89Vfb0<:V?ORrCTG[n%LICFFpnrMGa<^P$B:Ms_An,KZ6gO7,/7tB(75HeX*IQ7AnI/\*]rPtb?(@MO&XN]2Op8Zh!H[c,k>,KF~>
+endstream
+endobj
+95 0 obj
+<<
+/Author (Prepared with OpenAI Codex assistance)
+/CreationDate (D\07220261025231227\05507\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220261025231227\05507\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (Complete submission with project files embedded)
+/Title (Module 5\072 MIPS Assembler and Disassembler)
+/Trapped /False
+>>
+endobj
+96 0 obj
+<<
+/Type /EmbeddedFile
+/Length 66
+>>
+stream
+*.class
+__pycache__/
+roundtrip*
+reconstructed-ascii.asm
+.DS_Store
+
+endstream
+endobj
+97 0 obj
+<<
+/Type /Filespec
+/F (\056gitignore)
+/EF <<
+/F 96 0 R
+>>
+>>
+endobj
+98 0 obj
+<<
+/EmbeddedFiles 99 0 R
+>>
+endobj
+99 0 obj
+<<
+/Names [ (\056gitignore) 97 0 R (Assembler\056java) 101 0 R (Disassembler\056java) 103 0 R (Image\056java) 105 0 R (README\056md) 107 0 R (Tests\056java) 109 0 R (fizzbuzz\055output\056txt) 111 0 R (fizzbuzz\056asm) 113 0 R (fizzbuzz\056mhc\055ascii) 115 0 R (fizzbuzz\056mhc\055bin) 117 0 R (reconstructed\056asm) 119 0 R (test\055evidence\056txt) 121 0 R (verify\056py) 123 0 R ]
+>>
+endobj
+100 0 obj
+<<
+/Type /EmbeddedFile
+/Length 19590
+>>
+stream
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+/** Two-pass, file-based MIPS subset assembler. Java 8+. */
+public class Assembler {
+    static final int TEXT_BASE = 0x00400000;
+    static final int DATA_BASE = 0x10010000;
+
+    private static final String[] REGISTER_NAMES = {
+        "zero", "at", "v0", "v1", "a0", "a1", "a2", "a3",
+        "t0", "t1", "t2", "t3", "t4", "t5", "t6", "t7",
+        "s0", "s1", "s2", "s3", "s4", "s5", "s6", "s7",
+        "t8", "t9", "k0", "k1", "gp", "sp", "fp", "ra"
+    };
+
+    static class Instruction {
+        final int line, address;
+        final String text, sourceText;
+        Instruction(int line, int address, String text, String sourceText) {
+            this.line = line;
+            this.address = address;
+            this.text = text;
+            this.sourceText = sourceText;
+        }
+    }
+
+    static class EncodedInstruction {
+        final Instruction source;
+        final int word;
+        final String mips;
+        final Map<String, Integer> labelLines;
+        EncodedInstruction(Instruction source, int word, String mips,
+                           Map<String, Integer> labelLines) {
+            this.source = source;
+            this.word = word;
+            this.mips = mips;
+            this.labelLines = labelLines;
+        }
+    }
+
+    static class Result {
+        final byte[] text, data;
+        final List<EncodedInstruction> instructions;
+        Result(byte[] text, byte[] data, List<EncodedInstruction> instructions) {
+            this.text = text;
+            this.data = data;
+            this.instructions = instructions;
+        }
+    }
+
+    private final Map<String, Integer> labels = new HashMap<>();
+    private final Map<String, Integer> labelLines = new HashMap<>();
+    private final Set<String> textLabels = new HashSet<>();
+    private final List<String> globals = new ArrayList<>();
+    private final List<Instruction> instructions = new ArrayList<>();
+    private final List<Byte> data = new ArrayList<>();
+    private boolean inData = false;
+    private int pc = TEXT_BASE;
+
+    public static void main(String[] args) {
+        try {
+            if (args.length < 1 || args.length > 2) {
+                fail("Usage: java Assembler <source.asm> [output-prefix]");
+            }
+            java.nio.file.Path input = java.nio.file.Paths.get(args[0]);
+            String source = new String(java.nio.file.Files.readAllBytes(input),
+                                       java.nio.charset.StandardCharsets.UTF_8);
+            String prefix = args.length == 2 ? args[1]
+                : args[0].replaceFirst("\\.[^./\\\\]+$", "");
+            Result result = assemble(source);
+            Image.write(prefix, result.text, result.data);
+            System.out.println("Assembled " + result.instructions.size()
+                + " instructions; " + result.data.length + " data bytes.");
+            System.out.println("Wrote " + prefix + ".mhc-ascii and "
+                + prefix + ".mhc-bin");
+        } catch (java.io.IOException | IllegalArgumentException e) {
+            System.err.println("Assembly failed: " + e.getMessage());
+            System.exit(1);
+        }
+    }
+
+    static Result assemble(String source) {
+        Assembler assembler = new Assembler();
+        assembler.firstPass(source);
+        if (assembler.instructions.isEmpty()) fail("No instructions found.");
+        for (String name : assembler.globals) assembler.label(name);
+
+        // Pass 2: all labels now have final addresses.
+        byte[] text = new byte[assembler.instructions.size() * 4];
+        List<EncodedInstruction> encoded = new ArrayList<>();
+        int index = 0;
+        for (Instruction instruction : assembler.instructions) {
+            try {
+                int word = assembler.encode(instruction);
+                encoded.add(new EncodedInstruction(instruction, word,
+                            assembler.resolvedMips(instruction), assembler.labelLines));
+                for (int shift = 24; shift >= 0; shift -= 8) {
+                    text[index++] = (byte) (word >>> shift);
+                }
+            } catch (IllegalArgumentException e) {
+                throw new IllegalArgumentException("Line " + instruction.line + ": " + e.getMessage());
+            }
+        }
+        byte[] bytes = new byte[assembler.data.size()];
+        for (int i = 0; i < bytes.length; i++) bytes[i] = assembler.data.get(i);
+        return new Result(text, bytes, encoded);
+    }
+
+    // Pass 1: expand pseudos BEFORE calculating following label addresses.
+    private void firstPass(String source) {
+        if (source.startsWith("\uFEFF")) source = source.substring(1);
+        String[] lines = source.split("\\r\\n|\\r|\\n");
+        for (int i = 0; i < lines.length; i++) {
+            try {
+                String text = withoutComment(lines[i]).trim();
+                while (true) {
+                    int colon = text.indexOf(':');
+                    if (colon < 0) break;
+                    String name = text.substring(0, colon).trim();
+                    if (!name.matches("[A-Za-z_][A-Za-z0-9_]*")) break;
+                    if (labels.containsKey(name)) fail("Duplicate label: " + name);
+                    labels.put(name, inData ? DATA_BASE + data.size() : pc);
+                    labelLines.put(name, i + 1);
+                    if (!inData) textLabels.add(name);
+                    text = text.substring(colon + 1).trim();
+                }
+                if (text.isEmpty()) continue;
+                if (text.startsWith(".")) {
+                    directive(text);
+                } else {
+                    if (inData) fail("Instructions must be in .text.");
+                    expand(text, i + 1);
+                }
+            } catch (IllegalArgumentException e) {
+                throw new IllegalArgumentException("Line " + (i + 1) + ": " + e.getMessage());
+            }
+        }
+    }
+
+    private void directive(String text) {
+        String[] p = text.split("\\s+", 2);
+        String value = p.length == 2 ? p[1].trim() : "";
+        switch (p[0]) {
+            case ".text":
+            case ".data":
+                boolean nextData = p[0].equals(".data");
+                int base = nextData ? DATA_BASE : TEXT_BASE;
+                if (!value.isEmpty()) {
+                    if (number(value) != base) fail("Only the default segment base is supported.");
+                    if (nextData ? !data.isEmpty() : !instructions.isEmpty()) {
+                        fail("Explicit segment address must precede its contents.");
+                    }
+                }
+                inData = nextData;
+                break;
+            case ".globl":
+            case ".global":
+                if (!value.matches("[A-Za-z_][A-Za-z0-9_]*")) fail("Expected one global label.");
+                globals.add(value);
+                break;
+            case ".byte":
+                if (!inData) fail(".byte must be in .data.");
+                for (String item : value.split(",", -1)) {
+                    data.add((byte) range(number(item), 0, 255));
+                }
+                break;
+            case ".asciiz":
+                if (!inData) fail(".asciiz must be in .data.");
+                String decoded = quoted(value, '"');
+                for (int i = 0; i < decoded.length(); i++) data.add((byte) decoded.charAt(i));
+                data.add((byte) 0);
+                break;
+            default:
+                fail("Unsupported directive: " + p[0]);
+        }
+    }
+
+    private void emit(String text, int line, String sourceText) {
+        instructions.add(new Instruction(line, pc, text, sourceText));
+        pc += 4;
+    }
+
+    private void loadImmediate(String register, int value, int line, String sourceText) {
+        reg(register);
+        if (value >= -32768 && value <= 32767) {
+            emit("addiu " + register + ", $zero, " + value, line, sourceText);
+        } else if (value >= 0 && value <= 65535) {
+            emit("ori " + register + ", $zero, " + value, line, sourceText);
+        } else {
+            emit("lui " + register + ", " + (value >>> 16), line, sourceText);
+            emit("ori " + register + ", " + register + ", " + (value & 65535), line, sourceText);
+        }
+    }
+
+    private void expand(String text, int line) {
+        String[] p = text.split("\\s+", 2);
+        String op = lowerAscii(p[0]);
+        String[] a = operands(p);
+        switch (op) {
+            case "li":
+                count(a, 2);
+                loadImmediate(a[0], number(a[1]), line, text);
+                break;
+            case "la":
+                count(a, 2);
+                reg(a[0]);
+                if (!a[1].matches("[A-Za-z_][A-Za-z0-9_]*")) fail("la expects a label.");
+                emit("lui " + a[0] + ", hi(" + a[1] + ")", line, text);
+                emit("ori " + a[0] + ", " + a[0] + ", lo(" + a[1] + ")", line, text);
+                break;
+            case "move":
+                count(a, 2);
+                emit("addu " + a[0] + ", " + a[1] + ", $zero", line, text);
+                break;
+            case "rem":
+                count(a, 3);
+                if (reg(a[0]) == 1 || reg(a[1]) == 1) fail("rem reserves $at.");
+                int divisor = number(a[2]);
+                if (divisor == 0) fail("rem divisor cannot be zero.");
+                loadImmediate("$at", divisor, line, text);
+                emit("div " + a[1] + ", $at", line, text);
+                emit("mfhi " + a[0], line, text);
+                break;
+            case "nop":
+                count(a, 0);
+                emit("sll $zero, $zero, 0", line, text);
+                break;
+            default:
+                emit(text, line, text);
+        }
+    }
+
+    private int encode(Instruction instruction) {
+        String[] p = instruction.text.split("\\s+", 2);
+        String op = lowerAscii(p[0]);
+        String[] a = operands(p);
+        switch (op) {
+            case "addi":
+            case "addiu":
+            case "ori":
+                count(a, 3);
+                int immediate = value(a[2]);
+                range(immediate, op.equals("ori") ? 0 : -32768,
+                                 op.equals("ori") ? 65535 : 32767);
+                return iType(op.equals("addi") ? 8 : op.equals("addiu") ? 9 : 13,
+                             reg(a[1]), reg(a[0]), immediate);
+            case "lui":
+                count(a, 2);
+                return iType(15, 0, reg(a[0]), range(value(a[1]), 0, 65535));
+            case "add":
+            case "sub":
+            case "addu":
+                count(a, 3);
+                int function = op.equals("add") ? 0x20
+                    : op.equals("sub") ? 0x22 : 0x21;
+                return rType(reg(a[1]), reg(a[2]), reg(a[0]), 0, function);
+            case "div":
+                count(a, 2);
+                return rType(reg(a[0]), reg(a[1]), 0, 0, 0x1A);
+            case "mfhi":
+                count(a, 1);
+                return rType(0, 0, reg(a[0]), 0, 0x10);
+            case "sll":
+                count(a, 3);
+                return rType(0, reg(a[1]), reg(a[0]), range(number(a[2]), 0, 31), 0);
+            case "beq":
+            case "bne":
+                count(a, 3);
+                int offset = (codeLabel(a[2]) - (instruction.address + 4)) / 4;
+                return iType(op.equals("beq") ? 4 : 5, reg(a[0]), reg(a[1]),
+                             range(offset, -32768, 32767));
+            case "j":
+            case "jal":
+                count(a, 1);
+                int target = codeLabel(a[0]);
+                if ((target & 0xF0000000) != ((instruction.address + 4) & 0xF0000000)) {
+                    fail("Jump target is out of range.");
+                }
+                return ((op.equals("j") ? 2 : 3) << 26) | ((target >>> 2) & 0x03FFFFFF);
+            case "jr":
+                count(a, 1);
+                return rType(reg(a[0]), 0, 0, 0, 8);
+            case "lw":
+            case "sw":
+                count(a, 2);
+                String memory = a[1].replaceAll("\\s+", "");
+                if (!memory.matches("[^()]+\\(\\$[A-Za-z0-9]+\\)")) {
+                    fail("Expected offset($register): " + a[1]);
+                }
+                int left = memory.indexOf('(');
+                int base = reg(memory.substring(left + 1, memory.length() - 1));
+                int displacement = range(number(memory.substring(0, left)), -32768, 32767);
+                return iType(op.equals("lw") ? 35 : 43, base, reg(a[0]), displacement);
+            case "syscall":
+                count(a, 0);
+                return 0x0000000C;
+            default:
+                throw new IllegalArgumentException("Unsupported instruction: " + op);
+        }
+    }
+
+    // R: opcode(6), rs(5), rt(5), rd(5), shamt(5), funct(6).
+    private static int rType(int rs, int rt, int rd, int shift, int function) {
+        return (rs << 21) | (rt << 16) | (rd << 11) | (shift << 6) | function;
+    }
+
+    // I: opcode(6), rs(5), rt(5), immediate(16).
+    private static int iType(int opcode, int rs, int rt, int immediate) {
+        return (opcode << 26) | (rs << 21) | (rt << 16) | (immediate & 0xFFFF);
+    }
+
+    private int label(String name) {
+        Integer result = labels.get(name);
+        if (result == null) fail("Undefined label: " + name);
+        return result;
+    }
+
+    private int codeLabel(String name) {
+        int address = label(name);
+        if (!textLabels.contains(name)) fail("Branch/jump target is not in .text: " + name);
+        return address;
+    }
+
+    private int value(String text) {
+        if (text.startsWith("hi(") && text.endsWith(")")) {
+            return label(text.substring(3, text.length() - 1)) >>> 16;
+        }
+        if (text.startsWith("lo(") && text.endsWith(")")) {
+            return label(text.substring(3, text.length() - 1)) & 65535;
+        }
+        return number(text);
+    }
+
+    private static int reg(String name) {
+        name = lowerAscii(name.trim());
+        if (name.equals("$s8")) return 30;
+        for (int i = 0; i < REGISTER_NAMES.length; i++) {
+            if (name.equals("$" + REGISTER_NAMES[i]) || name.equals("$" + i)) return i;
+        }
+        throw new IllegalArgumentException("Unknown register: " + name);
+    }
+
+    private static int number(String text) {
+        text = text.trim();
+        if (text.startsWith("'")) {
+            String character = quoted(text, '\'');
+            if (character.length() != 1) fail("Expected one character: " + text);
+            return character.charAt(0);
+        }
+        try {
+            boolean negative = text.startsWith("-");
+            String digits = text;
+            if (digits.startsWith("-") || digits.startsWith("+")) digits = digits.substring(1);
+            int radix = 10;
+            if (digits.startsWith("0x") || digits.startsWith("0X")) {
+                radix = 16;
+                digits = digits.substring(2);
+            } else if (digits.startsWith("0b") || digits.startsWith("0B")) {
+                radix = 2;
+                digits = digits.substring(2);
+            }
+            if (digits.isEmpty() || digits.startsWith("-") || digits.startsWith("+")) {
+                fail("Invalid integer: " + text);
+            }
+            long result = Long.parseLong(digits, radix);
+            if (negative) result = -result;
+            if (result < Integer.MIN_VALUE || result > 0xFFFFFFFFL) fail("Integer too large: " + text);
+            return (int) result;
+        } catch (NumberFormatException e) {
+            throw new IllegalArgumentException("Invalid integer: " + text);
+        }
+    }
+
+    // Keep # inside quoted strings or character literals.
+    private static String withoutComment(String text) {
+        char quote = 0;
+        for (int i = 0; i < text.length(); i++) {
+            char c = text.charAt(i);
+            if (quote != 0) {
+                if (c == '\\') i++;
+                else if (c == quote) quote = 0;
+            } else if (c == '"' || c == '\'') {
+                quote = c;
+            } else if (c == '#') {
+                return text.substring(0, i);
+            }
+        }
+        if (quote != 0) fail("Unclosed quote.");
+        return text;
+    }
+
+    private static String quoted(String text, char quote) {
+        if (text.length() < 2 || text.charAt(0) != quote
+                || text.charAt(text.length() - 1) != quote) fail("Expected quoted literal: " + text);
+        StringBuilder decoded = new StringBuilder();
+        for (int i = 1; i < text.length() - 1; i++) {
+            char c = text.charAt(i);
+            if (c == quote) fail("Unexpected quote: " + text);
+            if (c == '\\') {
+                if (++i >= text.length() - 1) fail("Incomplete escape.");
+                switch (text.charAt(i)) {
+                    case 'n': c = '\n'; break;
+                    case 'r': c = '\r'; break;
+                    case 't': c = '\t'; break;
+                    case '0': c = 0; break;
+                    case '\\': c = '\\'; break;
+                    case '\'': c = '\''; break;
+                    case '"': c = '"'; break;
+                    default: fail("Unsupported escape: \\" + text.charAt(i));
+                }
+            }
+            if (c > 127) fail("This toy assembler accepts ASCII literals only.");
+            decoded.append(c);
+        }
+        return decoded.toString();
+    }
+
+    private static String[] operands(String[] p) {
+        if (p.length == 1 || p[1].trim().isEmpty()) return new String[0];
+        // Split commas outside quotes so li $a0, ',' also works.
+        List<String> result = new ArrayList<>();
+        char quote = 0;
+        int start = 0;
+        for (int i = 0; i < p[1].length(); i++) {
+            char c = p[1].charAt(i);
+            if (quote != 0) {
+                if (c == '\\') i++;
+                else if (c == quote) quote = 0;
+            } else if (c == '\'' || c == '"') {
+                quote = c;
+            } else if (c == ',') {
+                result.add(p[1].substring(start, i).trim());
+                start = i + 1;
+            }
+        }
+        result.add(p[1].substring(start).trim());
+        return result.toArray(new String[0]);
+    }
+
+    private static void count(String[] a, int expected) {
+        if (a.length != expected) fail("Expected " + expected + " comma-separated operand(s).");
+        for (String operand : a) if (operand.isEmpty()) fail("Empty operand.");
+    }
+
+    private static int range(int value, int min, int max) {
+        if (value < min || value > max) fail("Value out of range: " + value);
+        return value;
+    }
+
+    private static void fail(String message) {
+        throw new IllegalArgumentException(message);
+    }
+
+    // Replace assembler-internal hi/lo expressions with the encoded immediates.
+    private String resolvedMips(Instruction instruction) {
+        String[] p = instruction.text.split("\\s+", 2);
+        String op = lowerAscii(p[0]);
+        String[] a = operands(p);
+        if (op.equals("lui")) return "lui " + a[0] + ", " + value(a[1]);
+        if (op.equals("ori")) return "ori " + a[0] + ", " + a[1] + ", " + value(a[2]);
+        return instruction.text;
+    }
+
+    private static String lowerAscii(String text) {
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < text.length(); i++) {
+            char c = text.charAt(i);
+            result.append(c >= 'A' && c <= 'Z' ? (char) (c + 32) : c);
+        }
+        return result.toString();
+    }
+}
+
+endstream
+endobj
+101 0 obj
+<<
+/Type /Filespec
+/F (Assembler\056java)
+/EF <<
+/F 100 0 R
+>>
+>>
+endobj
+102 0 obj
+<<
+/Type /EmbeddedFile
+/Length 5067
+>>
+stream
+import java.io.IOException;
+import java.nio.ByteBuffer;
+import java.nio.ByteOrder;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.Arrays;
+
+/** Rebuilds canonical assembly from either MHC1 representation. */
+public final class Disassembler {
+    public static void main(String[] args) {
+        try {
+            if (args.length != 2) {
+                throw new IllegalArgumentException(
+                    "Usage: java Disassembler <input.mhc-bin|input.mhc-ascii> <out.asm>");
+            }
+            Image image = Image.read(Paths.get(args[0]));
+            String source = disassemble(image);
+            Files.write(Paths.get(args[1]), source.getBytes(StandardCharsets.UTF_8));
+            System.out.println("Wrote " + args[1] + "; reassembly bytes verified.");
+        } catch (IOException | IllegalArgumentException e) {
+            System.err.println("Disassembly failed: " + e.getMessage());
+            System.exit(1);
+        }
+    }
+
+    static String disassemble(Image image) {
+        StringBuilder s = new StringBuilder();
+        s.append("# Reconstructed MHC1 image; delayed branching OFF.\n.data\n");
+        for (int i = 0; i < image.data.length; i += 16) {
+            s.append("    .byte ");
+            for (int j = i; j < Math.min(i + 16, image.data.length); j++) {
+                if (j != i) s.append(", ");
+                s.append(image.data[j] & 255);
+            }
+            s.append('\n');
+        }
+        s.append(".text\n.globl main\nmain:\n");
+        ByteBuffer b = ByteBuffer.wrap(image.text).order(ByteOrder.BIG_ENDIAN);
+        for (int offset = 0; offset < image.text.length; offset += 4) {
+            int pc = Assembler.TEXT_BASE + offset;
+            int word = b.getInt();
+            try {
+                s.append(label(pc)).append(":\n    ");
+                s.append(decode(word, pc, image.text.length)).append('\n');
+            } catch (IllegalArgumentException e) {
+                throw new IllegalArgumentException(String.format(
+                    "At 0x%08X (word 0x%08X): %s", pc, word, e.getMessage()));
+            }
+        }
+        // A label immediately after the last instruction is a valid source label.
+        s.append(label(Assembler.TEXT_BASE + image.text.length)).append(":\n");
+        Assembler.Result rebuilt = Assembler.assemble(s.toString());
+        if (!Arrays.equals(image.text, rebuilt.text)
+            || !Arrays.equals(image.data, rebuilt.data)) {
+            throw new IllegalArgumentException(
+                "Noncanonical/reserved instruction bits; cannot reproduce bytes.");
+        }
+        return s.toString();
+    }
+
+    private static String reg(int number) { return "$" + number; }
+    private static String label(int address) {
+        return String.format("L_%08X", address);
+    }
+
+    private static String target(int address, int length) {
+        long end = (long) Assembler.TEXT_BASE + length;
+        if (address < Assembler.TEXT_BASE || address > end || (address & 3) != 0) {
+            throw new IllegalArgumentException("Control-flow target outside text segment.");
+        }
+        return label(address);
+    }
+
+    private static String decode(int w, int pc, int length) {
+        int op = w >>> 26, rs = (w >>> 21) & 31, rt = (w >>> 16) & 31;
+        int rd = (w >>> 11) & 31, shift = (w >>> 6) & 31, fn = w & 63;
+        int unsigned = w & 65535, signed = (short) unsigned;
+        if (op == 0) {
+            switch (fn) {
+                case 0: return "sll " + reg(rd) + ", " + reg(rt) + ", " + shift;
+                case 8: return "jr " + reg(rs);
+                case 12: return "syscall";
+                case 16: return "mfhi " + reg(rd);
+                case 26: return "div " + reg(rs) + ", " + reg(rt);
+                case 32: case 33: case 34:
+                    String mnemonic = fn == 32 ? "add" : fn == 33 ? "addu" : "sub";
+                    return mnemonic + " " + reg(rd) + ", " + reg(rs) + ", " + reg(rt);
+                default: throw new IllegalArgumentException("Unsupported R function: " + fn);
+            }
+        }
+        switch (op) {
+            case 2: case 3:
+                int address = ((pc + 4) & 0xF0000000) | ((w & 0x03FFFFFF) << 2);
+                return (op == 2 ? "j " : "jal ") + target(address, length);
+            case 4: case 5:
+                return (op == 4 ? "beq " : "bne ") + reg(rs) + ", " + reg(rt)
+                    + ", " + target(pc + 4 + signed * 4, length);
+            case 8: case 9: case 13:
+                String mnemonic = op == 8 ? "addi" : op == 9 ? "addiu" : "ori";
+                return mnemonic + " " + reg(rt) + ", " + reg(rs) + ", "
+                    + (op == 13 ? unsigned : signed);
+            case 15: return "lui " + reg(rt) + ", " + unsigned;
+            case 35: case 43:
+                return (op == 35 ? "lw " : "sw ") + reg(rt) + ", "
+                    + signed + "(" + reg(rs) + ")";
+            default: throw new IllegalArgumentException("Unsupported opcode: " + op);
+        }
+    }
+}
+
+endstream
+endobj
+103 0 obj
+<<
+/Type /Filespec
+/F (Disassembler\056java)
+/EF <<
+/F 102 0 R
+>>
+>>
+endobj
+104 0 obj
+<<
+/Type /EmbeddedFile
+/Length 3764
+>>
+stream
+import java.io.IOException;
+import java.nio.ByteBuffer;
+import java.nio.ByteOrder;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Arrays;
+
+/** MHC1 container shared by both tools. All integers are big-endian. */
+public final class Image {
+    static final int MAGIC = 0x4D484331; // ASCII MHC1
+    static final int HEADER_SIZE = 20;
+    final byte[] text, data;
+
+    Image(byte[] text, byte[] data) {
+        this.text = text;
+        this.data = data;
+    }
+
+    static byte[] pack(byte[] text, byte[] data) {
+        ByteBuffer b = ByteBuffer.allocate(HEADER_SIZE + text.length + data.length)
+            .order(ByteOrder.BIG_ENDIAN);
+        b.putInt(MAGIC).putInt(Assembler.TEXT_BASE).putInt(text.length);
+        b.putInt(Assembler.DATA_BASE).putInt(data.length);
+        b.put(text).put(data);
+        return b.array();
+    }
+
+    static void write(String prefix, byte[] text, byte[] data) throws IOException {
+        byte[] raw = pack(text, data);
+        StringBuilder ascii = new StringBuilder();
+        for (int i = 0; i < raw.length; i++) {
+            for (int bit = 7; bit >= 0; bit--) {
+                ascii.append(((raw[i] & 255) >>> bit) & 1);
+            }
+            ascii.append(i % 4 == 3 || i == raw.length - 1 ? '\n' : ' ');
+        }
+        Files.write(Paths.get(prefix + ".mhc-bin"), raw);
+        Files.write(Paths.get(prefix + ".mhc-ascii"),
+                    ascii.toString().getBytes(StandardCharsets.US_ASCII));
+    }
+
+    static Image read(Path path) throws IOException {
+        byte[] raw = Files.readAllBytes(path);
+        String name = path.getFileName().toString();
+        if (name.endsWith(".mhc-ascii")) {
+            StringBuilder bits = new StringBuilder();
+            for (byte b : raw) {
+                if (b == '0' || b == '1') bits.append((char) b);
+                else if (b != ' ' && b != '\n' && b != '\r' && b != '\t') {
+                    throw new IllegalArgumentException(
+                        "ASCII image accepts only 0, 1, and whitespace.");
+                }
+            }
+            if (bits.length() % 8 != 0) {
+                throw new IllegalArgumentException("Incomplete byte in ASCII image.");
+            }
+            raw = new byte[bits.length() / 8];
+            for (int i = 0; i < raw.length; i++) {
+                raw[i] = (byte) Integer.parseInt(bits.substring(i * 8, i * 8 + 8), 2);
+            }
+        } else if (!name.endsWith(".mhc-bin")) {
+            throw new IllegalArgumentException("Expected .mhc-ascii or .mhc-bin input.");
+        }
+        if (raw.length < HEADER_SIZE) {
+            throw new IllegalArgumentException("Truncated MHC1 header.");
+        }
+        ByteBuffer b = ByteBuffer.wrap(raw).order(ByteOrder.BIG_ENDIAN);
+        if (b.getInt() != MAGIC) {
+            throw new IllegalArgumentException("Bad MHC1 magic/version.");
+        }
+        int textBase = b.getInt(), textSize = b.getInt();
+        int dataBase = b.getInt(), dataSize = b.getInt();
+        if (textBase != Assembler.TEXT_BASE || dataBase != Assembler.DATA_BASE) {
+            throw new IllegalArgumentException("Unsupported segment starting addresses.");
+        }
+        if (textSize <= 0 || textSize % 4 != 0 || dataSize < 0
+            || HEADER_SIZE + (long) textSize + dataSize != raw.length
+            || (long) textBase + textSize > dataBase
+            || (long) dataBase + dataSize > Integer.MAX_VALUE) {
+            throw new IllegalArgumentException("Invalid segment lengths or file size.");
+        }
+        return new Image(Arrays.copyOfRange(raw, HEADER_SIZE, HEADER_SIZE + textSize),
+            Arrays.copyOfRange(raw, HEADER_SIZE + textSize, raw.length));
+    }
+}
+
+endstream
+endobj
+105 0 obj
+<<
+/Type /Filespec
+/F (Image\056java)
+/EF <<
+/F 104 0 R
+>>
+>>
+endobj
+106 0 obj
+<<
+/Type /EmbeddedFile
+/Length 8196
+>>
+stream
+# Module 5: MIPS Assembler and Disassembler
+
+Repository: https://github.com/tenth-package0/mips-assembler-disassembler
+
+This Java project reads FizzBuzz from an assembly **file**, writes readable
+machine-code digits and raw binary bytes, and reconstructs assembly from either.
+The original program prints FizzBuzz for integers 1 through 100, one per line.
+
+## Run
+
+Requirements: JDK 8 or later (`java` and `javac`). No Java libraries are required.
+From this project directory:
+
+```sh
+javac Assembler.java Image.java Disassembler.java Tests.java
+java Assembler fizzbuzz.asm
+java Disassembler fizzbuzz.mhc-bin reconstructed.asm
+java Assembler reconstructed.asm roundtrip
+java Disassembler fizzbuzz.mhc-ascii reconstructed-ascii.asm
+java Assembler reconstructed-ascii.asm roundtrip-ascii
+java Tests
+```
+
+`Assembler` accepts a source filename and an optional output prefix. Without a
+prefix, it removes the source filename extension. `Disassembler` requires the
+input image and output assembly filename. Existing output files are replaced.
+Missing files, invalid assembly, unsupported instructions, and malformed images
+produce an error on stderr and exit code 1. The output directory must exist.
+
+For automated comparison of both image formats, install Python 3.8+ and run:
+
+```sh
+python3 verify.py
+```
+
+That verifies both binary and ASCII round trips and the submitted fixtures.
+For the additional execution test, download MARS 4.5 from its official release:
+https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1
+
+```sh
+python3 verify.py --mars /path/to/Mars4_5.jar
+java -jar /path/to/Mars4_5.jar nc sm fizzbuzz.asm
+java -jar /path/to/Mars4_5.jar nc sm reconstructed.asm
+```
+
+Use MARS's default memory configuration and **disable delayed branching**.
+The CLI commands above omit `db`, so delayed branching is disabled. In the GUI,
+uncheck Settings > Delayed branching. Start at `main`. The project assumes the
+entry instruction is the first instruction at 0x00400000; it is not a linker.
+The .mhc files are custom containers, not directly runnable MARS or ELF files.
+Run the reconstructed .asm in MARS.
+
+## Supported features
+
+- Real instructions: addi, addiu, add, addu, sub, ori, lui, div (two registers),
+  mfhi, sll, beq, bne, j, jal, jr, lw, sw, syscall (no code operand).
+- Pseudoinstructions: li, la, move, rem (immediate divisor), nop.
+- Directives: .text, .data, .globl, .global, .asciiz, .byte.
+- Labels: case sensitive; letters/underscore first, then letters/digits/underscore.
+  Multiple labels may precede a statement. Forward references are supported.
+- Named and numeric registers, including $s8; decimal, hexadecimal, binary,
+  signed literals, and ASCII character literals; comments beginning with #.
+- Strings support ASCII and escapes \n, \r, \t, \0, \\, \', and \".
+  .asciiz takes one string and appends a zero byte. .byte takes comma-separated
+  unsigned values 0 through 255. Data is packed without implicit alignment.
+- Only fixed/default segment addresses are supported. Unlisted directives and
+  instructions are rejected. Arithmetic expressions and relocations are omitted.
+
+Pass 1 allocates data, expands pseudoinstructions, and records label addresses.
+Pass 2 encodes instructions after all label addresses are known. Signed branch
+immediates use (target - (PC + 4)) / 4. Jumps store target >> 2 in 26 bits and
+require the same upper four address bits as PC + 4.
+
+`li` expands to addiu for signed 16-bit values, ori for other unsigned 16-bit
+values, or lui/ori for larger values. `la` always emits lui/ori, keeping label
+addresses stable. `move` emits addu; `nop` emits sll $zero, $zero, 0. `rem` loads
+the immediate into $at, uses signed div, then mfhi. It reserves $at and rejects
+zero divisors. It does not reproduce MARS's extra runtime division checks.
+This is sufficient for the positive FizzBuzz operands and divisors 3 and 5.
+
+The disassembler emits real instructions and numeric registers. Labels are
+regenerated as L_<eight hexadecimal address digits>. Every instruction address
+gets a label. String data becomes .byte directives, preserving every byte.
+It verifies the generated assembly by reassembling it before writing the file;
+unsupported opcodes and noncanonical reserved bits are rejected.
+
+## MHC1 file layout and byte order
+
+All integer fields and instruction words use **big-endian** order. Both formats
+contain the same container bytes; the ASCII form simply represents each byte
+as eight readable binary digits. There is no separate metadata sidecar.
+
+| File offset | Length | Content |
+| --- | --- | --- |
+| 0 | 4 | Magic/version: ASCII MHC1 = 4D 48 43 31 |
+| 4 | 4 | Text start address: 00 40 00 00 = 0x00400000 |
+| 8 | 4 | Text length in bytes (180 for FizzBuzz) |
+| 12 | 4 | Data start address: 10 01 00 00 = 0x10010000 |
+| 16 | 4 | Data length in bytes (10 for FizzBuzz) |
+| 20 | text length | Machine instructions, four bytes each |
+| 20 + text length | data length | Raw data bytes, no padding |
+
+The header distinguishes executable instructions from string data. It records
+virtual addresses; the large address gap is not stored in the file. The header
+is metadata, not machine instructions. There are 45 encoded instructions
+(180 bytes) and 10 data bytes: `Fizz\0Buzz\0`. The binary file is 210 bytes
+including its 20-byte header.
+
+`mhc-ascii` contains only 0/1 characters, spaces, and LF newlines. Bytes are
+separated by spaces, with four bytes per line (the final line may be shorter).
+An instruction needs 32 digit characters, plus formatting. `mhc-bin` stores
+four actual bytes per instruction. A textual '0' is byte 0x30 and a textual '1'
+is byte 0x31; neither represents a single stored bit in the ASCII file.
+ASCII header/data bytes follow the same representation. A hex dump in the PDF
+is a readable view of the binary file, not the binary file's actual text.
+
+## Files and validation
+
+- Assembler.java, Disassembler.java, Image.java: complete implementation.
+- fizzbuzz.asm: existing FizzBuzz extracted from the supplied Java DEMO.
+- fizzbuzz.mhc-ascii and fizzbuzz.mhc-bin: complete generated images.
+- reconstructed.asm: canonical source reconstructed from the binary image;
+  reconstruction from the ASCII image is identical.
+- Tests.java: 29 encoding, parsing, validation, and round-trip tests.
+- verify.py: reproducible checks, including optional external MARS execution.
+- test-evidence.txt: captured results, including successful MARS execution.
+- fizzbuzz-output.txt: the 100-line output captured from MARS.
+- Module-5-Submission.pdf: Parts 1/2, documentation, source listings, images,
+  reconstructed source, and evidence. Project files are also embedded as PDF
+  attachments so the exact binary bytes are included in the single PDF.
+
+All 29 tests passed using OpenJDK 17. Both formats reconstructed successfully,
+and reassembly reproduced both output files byte for byte. MARS 4.5 independently
+executed the original and both reconstructions; each matched all 100 expected
+lines. Without --mars, verify.py explicitly reports that execution was skipped.
+
+## Sources and collaboration
+
+- Course assignment: Module 5, Assembler and Disassembler; assigned reading:
+  ZyBooks Chapter 4. The chapter text was not supplied or consulted here.
+- User-provided `Assembler (14) (1).java`: starting parser, instruction encoder,
+  and existing FizzBuzz DEMO. FizzBuzz statements were extracted into a file;
+  its saved/restored return address and control flow were retained.
+- OpenAI Codex assisted with file I/O, the MHC1 format, disassembler, additional
+  instruction/directive support, tests, documentation, and PDF preparation.
+- University of Waterloo, MIPS Encoding Reference (field layouts/opcodes):
+  https://student.cs.uwaterloo.ca/~isg/res/mips/opcodes
+- MARS 4.5 documentation, settings and syscall services:
+  https://dpetersanderson.github.io/Help/MarsHelpSettings.html
+  https://dpetersanderson.github.io/Help/SyscallHelp.html
+- MARS command-line options and official release used for execution testing:
+  https://dpetersanderson.github.io/Help/MarsHelpCommand.html
+  https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1
+
+No third-party JARs or compiled class files are distributed in this repository.
+
+endstream
+endobj
+107 0 obj
+<<
+/Type /Filespec
+/F (README\056md)
+/EF <<
+/F 106 0 R
+>>
+>>
+endobj
+108 0 obj
+<<
+/Type /EmbeddedFile
+/Length 8541
+>>
+stream
+import java.nio.ByteBuffer;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.Arrays;
+
+/** Deterministic encoding, parser, image-format, and rejection tests. */
+public final class Tests {
+    private static int passed;
+    interface Check { void run() throws Exception; }
+
+    static void check(String name, Check check) throws Exception {
+        check.run();
+        passed++;
+        System.out.println("PASS " + name);
+    }
+
+    static void require(boolean ok, String message) {
+        if (!ok) throw new AssertionError(message);
+    }
+
+    static void rejects(String source, String fragment) {
+        try {
+            Assembler.assemble(source);
+            throw new AssertionError("Invalid assembly was accepted");
+        } catch (IllegalArgumentException e) {
+            require(e.getMessage().contains(fragment), e.getMessage());
+            System.out.println("  Expected error: " + e.getMessage());
+        }
+    }
+
+    static void badImage(Path file, byte[] bytes, String fragment) throws Exception {
+        Files.write(file, bytes);
+        try {
+            Image.read(file);
+            throw new AssertionError("Invalid image was accepted");
+        } catch (IllegalArgumentException e) {
+            require(e.getMessage().contains(fragment), e.getMessage());
+            System.out.println("  Expected error: " + e.getMessage());
+        }
+    }
+
+    public static void main(String[] args) throws Exception {
+        check("Part 1 known instruction words", () -> {
+            Assembler.Result r = Assembler.assemble(
+                "addi $t0, $zero, 3\naddi $t1, $zero, 5\n"
+                + "add $t2, $t0, $t1\nsub $t3, $t1, $t0");
+            ByteBuffer b = ByteBuffer.wrap(r.text);
+            int[] expected = {0x20080003, 0x20090005, 0x01095020, 0x01285822};
+            for (int word : expected) require(b.getInt() == word, "Word mismatch");
+        });
+        check("Forward/backward branch offsets and jump target", () -> {
+            byte[] bytes = Assembler.assemble("start: beq $0, $0, end\n"
+                + "bne $8, $0, start\nend: j start").text;
+            ByteBuffer b = ByteBuffer.wrap(bytes);
+            require(b.getInt() == 0x10000001, "Forward branch");
+            require(b.getInt() == 0x1500FFFE, "Backward branch");
+            require(b.getInt() == 0x08100000, "Jump address");
+        });
+        check("li widths and immediate boundaries", () -> {
+            ByteBuffer b = ByteBuffer.wrap(Assembler.assemble(
+                "li $t0, -32768\nli $t0, 65535\nli $t0, 0x12345678").text);
+            int[] expected = {0x24088000, 0x3408FFFF, 0x3C081234, 0x35085678};
+            for (int word : expected) require(b.getInt() == word, "li encoding");
+        });
+        check("All supported real instructions and pseudos round trip", () -> {
+            String source = ".data\ns: .asciiz \"A#B\\n\"\n.byte 0, 255\n.text\n"
+                + "main: li $t0, 0x12345678\nla $a0, s\nmove $t1, $t0\n"
+                + "rem $t2, $t1, 3\nnop\naddi $t0, $t0, -1\n"
+                + "add $t0, $t1, $t2\nsub $t0, $t1, $t2\n"
+                + "sw $ra, -4($sp)\nlw $ra, -4($sp)\n"
+                + "beq $t0, $zero, done\nbne $t0, $zero, main\n"
+                + "jal done\nj done\ndone: syscall\njr $ra";
+            Assembler.Result r = Assembler.assemble(source);
+            String rebuilt = Disassembler.disassemble(new Image(r.text, r.data));
+            Assembler.Result round = Assembler.assemble(rebuilt);
+            require(Arrays.equals(r.text, round.text), "Text mismatch");
+            require(Arrays.equals(r.data, round.data), "Data mismatch");
+            require(r.data.length == 7 && r.data[1] == '#', "Quoted comment handling");
+        });
+        check("Parser rejects unsupported instruction with line number", () ->
+            rejects(".text\nmul $t0, $t1, $t2", "Line 2: Unsupported instruction"));
+        check("Undefined label", () -> rejects("j missing", "Undefined label"));
+        check("Duplicate label", () -> rejects("x: nop\nx: nop", "Duplicate label"));
+        check("Invalid register", () -> rejects("li $t99, 1", "Unknown register"));
+        check("Signed immediate overflow", () ->
+            rejects("addi $t0, $0, 32768", "Value out of range"));
+        check("Unsigned immediate overflow", () ->
+            rejects("ori $t0, $0, -1", "Value out of range"));
+        check("Wrong operand count", () -> rejects("add $t0, $t1", "operand(s)"));
+        check("Unsupported directive", () -> rejects(".word 1", "Unsupported directive"));
+        check("Instruction in data", () -> rejects(".data\nnop", "must be in .text"));
+        check("Branch into data", () -> rejects(
+            ".data\nx: .asciiz \"x\"\n.text\nj x", "not in .text"));
+        check("Unclosed quote", () -> rejects(".data\n.asciiz \"x", "Unclosed quote"));
+        check("Zero divisor", () -> rejects("rem $t0, $t1, 0", "cannot be zero"));
+        check("Reserved temporary register", () ->
+            rejects("rem $t0, $at, 3", "reserves $at"));
+        check("Bad byte", () -> rejects(".data\n.byte 256\n.text\nnop", "out of range"));
+        check("BOM, CRLF, comment characters, and character literal", () -> {
+            Assembler.Result r = Assembler.assemble(
+                "\uFEFF.text\r\nli $a0, ',' # comment\r\nnop");
+            require(ByteBuffer.wrap(r.text).getInt() == 0x2404002C, "Character literal");
+        });
+        Path dir = Files.createTempDirectory("mhc-tests-");
+        try {
+            Path binary = dir.resolve("case.mhc-bin");
+            Path ascii = dir.resolve("case.mhc-ascii");
+            Assembler.Result r = Assembler.assemble(".data\n.byte 255\n.text\nnop");
+            byte[] valid = Image.pack(r.text, r.data);
+            check("Both image formats preserve non-word-aligned data", () -> {
+                Image.write(dir.resolve("case").toString(), r.text, r.data);
+                for (Path file : new Path[]{binary, ascii}) {
+                    Image image = Image.read(file);
+                    require(Arrays.equals(image.text, r.text), "Text mismatch");
+                    require(Arrays.equals(image.data, r.data), "Data mismatch");
+                }
+                require(Files.size(binary) == 25, "Unexpected padding");
+            });
+            check("Truncated header", () -> badImage(binary, new byte[4], "Truncated"));
+            check("Bad magic", () -> {
+                byte[] bad = valid.clone(); bad[0] = 0;
+                badImage(binary, bad, "magic");
+            });
+            check("Wrong starting address", () -> {
+                byte[] bad = valid.clone(); bad[4] = 1;
+                badImage(binary, bad, "starting addresses");
+            });
+            check("Wrong segment length", () -> {
+                byte[] bad = valid.clone(); bad[11] = 3;
+                badImage(binary, bad, "lengths");
+            });
+            check("Trailing bytes", () ->
+                badImage(binary, Arrays.copyOf(valid, valid.length + 1), "lengths"));
+            check("Invalid ASCII character", () -> badImage(ascii,
+                "010x".getBytes(StandardCharsets.US_ASCII), "only 0, 1"));
+            check("Incomplete ASCII byte", () -> badImage(ascii,
+                "010".getBytes(StandardCharsets.US_ASCII), "Incomplete"));
+            check("Unknown opcode rejected", () -> {
+                try {
+                    Disassembler.disassemble(new Image(
+                        new byte[]{(byte) 0xFC, 0, 0, 0}, new byte[0]));
+                    throw new AssertionError("Accepted unknown opcode");
+                } catch (IllegalArgumentException e) {
+                    require(e.getMessage().contains("Unsupported opcode"), e.getMessage());
+                }
+            });
+            check("Reserved bits rejected instead of silently discarded", () -> {
+                try {
+                    Disassembler.disassemble(new Image(
+                        new byte[]{0, 0x20, 0, 0}, new byte[0]));
+                    throw new AssertionError("Accepted sll with nonzero rs");
+                } catch (IllegalArgumentException e) {
+                    require(e.getMessage().contains("reserved"), e.getMessage());
+                }
+            });
+        } finally {
+            Files.deleteIfExists(dir.resolve("case.mhc-bin"));
+            Files.deleteIfExists(dir.resolve("case.mhc-ascii"));
+            Files.delete(dir);
+        }
+        System.out.println("ALL " + passed + " TESTS PASSED");
+    }
+}
+
+endstream
+endobj
+109 0 obj
+<<
+/Type /Filespec
+/F (Tests\056java)
+/EF <<
+/F 108 0 R
+>>
+>>
+endobj
+110 0 obj
+<<
+/Type /EmbeddedFile
+/Length 414
+>>
+stream
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+Fizz
+22
+23
+Fizz
+Buzz
+26
+Fizz
+28
+29
+FizzBuzz
+31
+32
+Fizz
+34
+Buzz
+Fizz
+37
+38
+Fizz
+Buzz
+41
+Fizz
+43
+44
+FizzBuzz
+46
+47
+Fizz
+49
+Buzz
+Fizz
+52
+53
+Fizz
+Buzz
+56
+Fizz
+58
+59
+FizzBuzz
+61
+62
+Fizz
+64
+Buzz
+Fizz
+67
+68
+Fizz
+Buzz
+71
+Fizz
+73
+74
+FizzBuzz
+76
+77
+Fizz
+79
+Buzz
+Fizz
+82
+83
+Fizz
+Buzz
+86
+Fizz
+88
+89
+FizzBuzz
+91
+92
+Fizz
+94
+Buzz
+Fizz
+97
+98
+Fizz
+Buzz
+
+
+endstream
+endobj
+111 0 obj
+<<
+/Type /Filespec
+/F (fizzbuzz\055output\056txt)
+/EF <<
+/F 110 0 R
+>>
+>>
+endobj
+112 0 obj
+<<
+/Type /EmbeddedFile
+/Length 975
+>>
+stream
+# Extracted from the supplied Assembler Java DEMO.
+# MARS: delayed branching disabled; prints 1 through 100.
+.data
+fizz: .asciiz "Fizz"
+buzz: .asciiz "Buzz"
+.text
+.globl main
+main:
+    li $t1, 1
+    li $t2, 101
+Loop:
+    jal PrintItem
+    jal PrintNewLine
+    addi $t1, $t1, 1
+    bne $t1, $t2, Loop
+    j Exit
+PrintItem:
+    addiu $sp, $sp, -8
+    sw $ra, 4($sp)
+    rem $t3, $t1, 3
+    rem $t4, $t1, 5
+    bne $t3, $zero, CheckBuzz
+    jal PrintFizz
+CheckBuzz:
+    bne $t4, $zero, CheckNumber
+    jal PrintBuzz
+CheckNumber:
+    beq $t3, $zero, PrintItemDone
+    beq $t4, $zero, PrintItemDone
+    jal PrintInt
+PrintItemDone:
+    lw $ra, 4($sp)
+    addiu $sp, $sp, 8
+    jr $ra
+PrintFizz:
+    li $v0, 4
+    la $a0, fizz
+    syscall
+    jr $ra
+PrintBuzz:
+    li $v0, 4
+    la $a0, buzz
+    syscall
+    jr $ra
+PrintInt:
+    li $v0, 1
+    move $a0, $t1
+    syscall
+    jr $ra
+PrintNewLine:
+    li $v0, 11
+    li $a0, '\n'
+    syscall
+    jr $ra
+Exit:
+    li $v0, 10
+    syscall
+
+endstream
+endobj
+113 0 obj
+<<
+/Type /Filespec
+/F (fizzbuzz\056asm)
+/EF <<
+/F 112 0 R
+>>
+>>
+endobj
+114 0 obj
+<<
+/Type /EmbeddedFile
+/Length 1890
+>>
+stream
+01001101 01001000 01000011 00110001
+00000000 01000000 00000000 00000000
+00000000 00000000 00000000 10110100
+00010000 00000001 00000000 00000000
+00000000 00000000 00000000 00001010
+00100100 00001001 00000000 00000001
+00100100 00001010 00000000 01100101
+00001100 00010000 00000000 00000111
+00001100 00010000 00000000 00100111
+00100001 00101001 00000000 00000001
+00010101 00101010 11111111 11111100
+00001000 00010000 00000000 00101011
+00100111 10111101 11111111 11111000
+10101111 10111111 00000000 00000100
+00100100 00000001 00000000 00000011
+00000001 00100001 00000000 00011010
+00000000 00000000 01011000 00010000
+00100100 00000001 00000000 00000101
+00000001 00100001 00000000 00011010
+00000000 00000000 01100000 00010000
+00010101 01100000 00000000 00000001
+00001100 00010000 00000000 00011001
+00010101 10000000 00000000 00000001
+00001100 00010000 00000000 00011110
+00010001 01100000 00000000 00000010
+00010001 10000000 00000000 00000001
+00001100 00010000 00000000 00100011
+10001111 10111111 00000000 00000100
+00100111 10111101 00000000 00001000
+00000011 11100000 00000000 00001000
+00100100 00000010 00000000 00000100
+00111100 00000100 00010000 00000001
+00110100 10000100 00000000 00000000
+00000000 00000000 00000000 00001100
+00000011 11100000 00000000 00001000
+00100100 00000010 00000000 00000100
+00111100 00000100 00010000 00000001
+00110100 10000100 00000000 00000101
+00000000 00000000 00000000 00001100
+00000011 11100000 00000000 00001000
+00100100 00000010 00000000 00000001
+00000001 00100000 00100000 00100001
+00000000 00000000 00000000 00001100
+00000011 11100000 00000000 00001000
+00100100 00000010 00000000 00001011
+00100100 00000100 00000000 00001010
+00000000 00000000 00000000 00001100
+00000011 11100000 00000000 00001000
+00100100 00000010 00000000 00001010
+00000000 00000000 00000000 00001100
+01000110 01101001 01111010 01111010
+00000000 01000010 01110101 01111010
+01111010 00000000
+
+endstream
+endobj
+115 0 obj
+<<
+/Type /Filespec
+/F (fizzbuzz\056mhc\055ascii)
+/EF <<
+/F 114 0 R
+>>
+>>
+endobj
+116 0 obj
+<<
+/Type /EmbeddedFile
+/Length 210
+>>
+stream
+MHC1 @     ¥     
+$	 $
+ e  '!) *ˇ¸ +'Ωˇ¯Øø $ !   X$ !   ``  Ä  ` Ä  #èø 'Ω ‡ $ <4Ñ     ‡ $ <4Ñ    ‡ $   !   ‡ $ $ 
+   ‡ $ 
+   Fizz Buzz 
+endstream
+endobj
+117 0 obj
+<<
+/Type /Filespec
+/F (fizzbuzz\056mhc\055bin)
+/EF <<
+/F 116 0 R
+>>
+>>
+endobj
+118 0 obj
+<<
+/Type /EmbeddedFile
+/Length 1507
+>>
+stream
+# Reconstructed MHC1 image; delayed branching OFF.
+.data
+    .byte 70, 105, 122, 122, 0, 66, 117, 122, 122, 0
+.text
+.globl main
+main:
+L_00400000:
+    addiu $9, $0, 1
+L_00400004:
+    addiu $10, $0, 101
+L_00400008:
+    jal L_0040001C
+L_0040000C:
+    jal L_0040009C
+L_00400010:
+    addi $9, $9, 1
+L_00400014:
+    bne $9, $10, L_00400008
+L_00400018:
+    j L_004000AC
+L_0040001C:
+    addiu $29, $29, -8
+L_00400020:
+    sw $31, 4($29)
+L_00400024:
+    addiu $1, $0, 3
+L_00400028:
+    div $9, $1
+L_0040002C:
+    mfhi $11
+L_00400030:
+    addiu $1, $0, 5
+L_00400034:
+    div $9, $1
+L_00400038:
+    mfhi $12
+L_0040003C:
+    bne $11, $0, L_00400044
+L_00400040:
+    jal L_00400064
+L_00400044:
+    bne $12, $0, L_0040004C
+L_00400048:
+    jal L_00400078
+L_0040004C:
+    beq $11, $0, L_00400058
+L_00400050:
+    beq $12, $0, L_00400058
+L_00400054:
+    jal L_0040008C
+L_00400058:
+    lw $31, 4($29)
+L_0040005C:
+    addiu $29, $29, 8
+L_00400060:
+    jr $31
+L_00400064:
+    addiu $2, $0, 4
+L_00400068:
+    lui $4, 4097
+L_0040006C:
+    ori $4, $4, 0
+L_00400070:
+    syscall
+L_00400074:
+    jr $31
+L_00400078:
+    addiu $2, $0, 4
+L_0040007C:
+    lui $4, 4097
+L_00400080:
+    ori $4, $4, 5
+L_00400084:
+    syscall
+L_00400088:
+    jr $31
+L_0040008C:
+    addiu $2, $0, 1
+L_00400090:
+    addu $4, $9, $0
+L_00400094:
+    syscall
+L_00400098:
+    jr $31
+L_0040009C:
+    addiu $2, $0, 11
+L_004000A0:
+    addiu $4, $0, 10
+L_004000A4:
+    syscall
+L_004000A8:
+    jr $31
+L_004000AC:
+    addiu $2, $0, 10
+L_004000B0:
+    syscall
+L_004000B4:
+
+endstream
+endobj
+119 0 obj
+<<
+/Type /Filespec
+/F (reconstructed\056asm)
+/EF <<
+/F 118 0 R
+>>
+>>
+endobj
+120 0 obj
+<<
+/Type /EmbeddedFile
+/Length 3107
+>>
+stream
+Module 5 verification
+openjdk version "17.0.20.1" 2026-08-18
+OpenJDK Runtime Environment Temurin-17.0.20.1+1 (build 17.0.20.1+1)
+OpenJDK 64-Bit Server VM Temurin-17.0.20.1+1 (build 17.0.20.1+1, mixed mode, sharing)
+PASS Part 1 known instruction words
+PASS Forward/backward branch offsets and jump target
+PASS li widths and immediate boundaries
+PASS All supported real instructions and pseudos round trip
+  Expected error: Line 2: Unsupported instruction: mul
+PASS Parser rejects unsupported instruction with line number
+  Expected error: Line 1: Undefined label: missing
+PASS Undefined label
+  Expected error: Line 2: Duplicate label: x
+PASS Duplicate label
+  Expected error: Line 1: Unknown register: $t99
+PASS Invalid register
+  Expected error: Line 1: Value out of range: 32768
+PASS Signed immediate overflow
+  Expected error: Line 1: Value out of range: -1
+PASS Unsigned immediate overflow
+  Expected error: Line 1: Expected 3 comma-separated operand(s).
+PASS Wrong operand count
+  Expected error: Line 1: Unsupported directive: .word
+PASS Unsupported directive
+  Expected error: Line 2: Instructions must be in .text.
+PASS Instruction in data
+  Expected error: Line 4: Branch/jump target is not in .text: x
+PASS Branch into data
+  Expected error: Line 2: Unclosed quote.
+PASS Unclosed quote
+  Expected error: Line 1: rem divisor cannot be zero.
+PASS Zero divisor
+  Expected error: Line 1: rem reserves $at.
+PASS Reserved temporary register
+  Expected error: Line 2: Value out of range: 256
+PASS Bad byte
+PASS BOM, CRLF, comment characters, and character literal
+PASS Both image formats preserve non-word-aligned data
+  Expected error: Truncated MHC1 header.
+PASS Truncated header
+  Expected error: Bad MHC1 magic/version.
+PASS Bad magic
+  Expected error: Unsupported segment starting addresses.
+PASS Wrong starting address
+  Expected error: Invalid segment lengths or file size.
+PASS Wrong segment length
+  Expected error: Invalid segment lengths or file size.
+PASS Trailing bytes
+  Expected error: ASCII image accepts only 0, 1, and whitespace.
+PASS Invalid ASCII character
+  Expected error: Incomplete byte in ASCII image.
+PASS Incomplete ASCII byte
+PASS Unknown opcode rejected
+PASS Reserved bits rejected instead of silently discarded
+ALL 29 TESTS PASSED
+Assembled 45 instructions; 10 data bytes.
+Wrote <temp>/fizzbuzz.mhc-ascii and <temp>/fizzbuzz.mhc-bin
+Binary image: 210 bytes (20 header + 180 text + 10 data)
+SHA-256: 521b0b9dbde491f888cdd0c7047bc5a382af40e213d60275bba391153022553f
+Wrote <temp>/mhc-ascii.asm; reassembly bytes verified.
+PASS mhc-ascii: reconstructed source and BOTH reassembled files match
+Wrote <temp>/mhc-bin.asm; reassembly bytes verified.
+PASS mhc-bin: reconstructed source and BOTH reassembled files match
+PASS CLI invalid input: exit 1; Assembly failed: Line 2: Unsupported instruction: mul
+PASS MARS: fizzbuzz.asm prints all 100 expected lines
+PASS MARS: mhc-ascii.asm prints all 100 expected lines
+PASS MARS: mhc-bin.asm prints all 100 expected lines
+Expected output sample: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
+VERIFICATION PASSED
+
+endstream
+endobj
+121 0 obj
+<<
+/Type /Filespec
+/F (test\055evidence\056txt)
+/EF <<
+/F 120 0 R
+>>
+>>
+endobj
+122 0 obj
+<<
+/Type /EmbeddedFile
+/Length 3670
+>>
+stream
+#!/usr/bin/env python3
+"""Run Java tests and round trips; optionally verify execution using MARS 4.5."""
+import argparse
+import hashlib
+from pathlib import Path
+import subprocess
+import tempfile
+
+ROOT = Path(__file__).resolve().parent
+
+
+def run(*args):
+    result = subprocess.run([str(a) for a in args], cwd=ROOT,
+                            text=True, capture_output=True)
+    if result.returncode:
+        raise RuntimeError(result.stdout + result.stderr)
+    return result.stdout
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--mars', type=Path, help='Path to Mars4_5.jar')
+    args = parser.parse_args()
+    mars = args.mars.resolve() if args.mars else None
+    print('Module 5 verification')
+    print(subprocess.run(['java', '-version'], text=True, capture_output=True).stderr.strip())
+    with tempfile.TemporaryDirectory(prefix='mhc-verify-') as folder:
+        temp = Path(folder)
+        classes = temp / 'classes'
+        classes.mkdir()
+        run('javac', '-d', classes, *sorted(ROOT.glob('*.java')))
+        java = ['java', '-cp', classes]
+        print(run(*java, 'Tests'), end='')
+        prefix = temp / 'fizzbuzz'
+        message = run(*java, 'Assembler', ROOT / 'fizzbuzz.asm', prefix)
+        print(message.replace(str(temp), '<temp>'), end='')
+        raw = prefix.with_suffix('.mhc-bin').read_bytes()
+        print('Binary image: %d bytes (20 header + 180 text + 10 data)' % len(raw))
+        print('SHA-256: ' + hashlib.sha256(raw).hexdigest())
+        sources = [ROOT / 'fizzbuzz.asm']
+        for kind in ('mhc-ascii', 'mhc-bin'):
+            image = prefix.with_suffix('.' + kind)
+            checked_in = ROOT / image.name
+            assert image.read_bytes() == checked_in.read_bytes(), 'Stale submitted image'
+            asm = temp / (kind + '.asm')
+            print(run(*java, 'Disassembler', image, asm).replace(str(temp), '<temp>'), end='')
+            assert asm.read_bytes() == (ROOT / 'reconstructed.asm').read_bytes()
+            rebuilt = temp / (kind + '-rebuilt')
+            run(*java, 'Assembler', asm, rebuilt)
+            for suffix in ('.mhc-bin', '.mhc-ascii'):
+                actual = rebuilt.with_suffix(suffix).read_bytes()
+                assert actual == prefix.with_suffix(suffix).read_bytes()
+            print('PASS ' + kind + ': reconstructed source and BOTH reassembled files match')
+            sources.append(asm)
+        # Verify CLI failure status as well as error text, independently of unit tests.
+        invalid = temp / 'invalid.asm'
+        invalid.write_text('.text\nmul $t0, $t1, $t2\n')
+        failure = subprocess.run([str(x) for x in [*java, 'Assembler', invalid]],
+                                 text=True, capture_output=True)
+        assert failure.returncode == 1 and 'Line 2' in failure.stderr
+        print('PASS CLI invalid input: exit 1; ' + failure.stderr.strip())
+        expected = [('Fizz' if n % 3 == 0 else '') + ('Buzz' if n % 5 == 0 else '')
+                    or str(n) for n in range(1, 101)]
+        if mars:
+            for asm in sources:
+                # nc: no banner; sm: start at main; no db: delay slots disabled.
+                output = run('java', '-jar', mars, 'nc', 'sm', 'ae1', 'se1', '100000', asm)
+                assert output.strip().splitlines() == expected, ('FizzBuzz differs: ' + str(asm))
+                print('PASS MARS: ' + asm.name + ' prints all 100 expected lines')
+            print('Expected output sample: ' + ', '.join(expected[:15]))
+        else:
+            print('SKIPPED MARS execution: supply --mars /path/to/Mars4_5.jar')
+        print('VERIFICATION PASSED')
+
+
+if __name__ == '__main__':
+    main()
+
+endstream
+endobj
+123 0 obj
+<<
+/Type /Filespec
+/F (verify\056py)
+/EF <<
+/F 122 0 R
+>>
+>>
+endobj
+xref
+0 124
+0000000000 65535 f 
+0000000015 00000 n 
+0000000114 00000 n 
+0000000187 00000 n 
+0000000297 00000 n 
+0000000416 00000 n 
+0000000542 00000 n 
+0000000660 00000 n 
+0000000790 00000 n 
+0000000913 00000 n 
+0000001029 00000 n 
+0000001138 00000 n 
+0000001251 00000 n 
+0000001364 00000 n 
+0000001480 00000 n 
+0000001600 00000 n 
+0000001721 00000 n 
+0000001831 00000 n 
+0000001944 00000 n 
+0000002060 00000 n 
+0000002165 00000 n 
+0000002377 00000 n 
+0000002612 00000 n 
+0000004494 00000 n 
+0000004773 00000 n 
+0000004966 00000 n 
+0000006340 00000 n 
+0000006395 00000 n 
+0000006503 00000 n 
+0000006616 00000 n 
+0000006722 00000 n 
+0000006915 00000 n 
+0000008770 00000 n 
+0000008963 00000 n 
+0000010852 00000 n 
+0000011045 00000 n 
+0000013115 00000 n 
+0000013355 00000 n 
+0000013581 00000 n 
+0000013805 00000 n 
+0000014024 00000 n 
+0000014247 00000 n 
+0000014483 00000 n 
+0000016423 00000 n 
+0000016616 00000 n 
+0000018449 00000 n 
+0000018642 00000 n 
+0000020769 00000 n 
+0000020962 00000 n 
+0000023799 00000 n 
+0000023992 00000 n 
+0000026586 00000 n 
+0000026779 00000 n 
+0000029038 00000 n 
+0000029231 00000 n 
+0000031518 00000 n 
+0000031711 00000 n 
+0000034239 00000 n 
+0000034432 00000 n 
+0000036850 00000 n 
+0000037043 00000 n 
+0000039578 00000 n 
+0000039771 00000 n 
+0000040752 00000 n 
+0000040945 00000 n 
+0000043478 00000 n 
+0000043671 00000 n 
+0000045413 00000 n 
+0000045606 00000 n 
+0000048311 00000 n 
+0000048504 00000 n 
+0000050839 00000 n 
+0000051032 00000 n 
+0000052765 00000 n 
+0000052958 00000 n 
+0000054237 00000 n 
+0000054430 00000 n 
+0000056113 00000 n 
+0000056306 00000 n 
+0000057790 00000 n 
+0000057983 00000 n 
+0000060507 00000 n 
+0000060700 00000 n 
+0000063850 00000 n 
+0000064043 00000 n 
+0000066225 00000 n 
+0000066418 00000 n 
+0000069322 00000 n 
+0000069515 00000 n 
+0000071012 00000 n 
+0000071205 00000 n 
+0000073838 00000 n 
+0000074031 00000 n 
+0000075161 00000 n 
+0000075354 00000 n 
+0000077248 00000 n 
+0000077638 00000 n 
+0000077775 00000 n 
+0000077852 00000 n 
+0000077896 00000 n 
+0000078300 00000 n 
+0000097965 00000 n 
+0000098048 00000 n 
+0000103189 00000 n 
+0000103275 00000 n 
+0000107113 00000 n 
+0000107192 00000 n 
+0000115462 00000 n 
+0000115540 00000 n 
+0000124155 00000 n 
+0000124234 00000 n 
+0000124721 00000 n 
+0000124812 00000 n 
+0000125860 00000 n 
+0000125941 00000 n 
+0000127905 00000 n 
+0000127995 00000 n 
+0000128278 00000 n 
+0000128366 00000 n 
+0000129947 00000 n 
+0000130033 00000 n 
+0000133214 00000 n 
+0000133303 00000 n 
+0000137047 00000 n 
+trailer
+<<
+/Size 124
+/Root 1 0 R
+/Info 95 0 R
+/ID [ <3a4292dd48a79f2dcca393775906b831> <3a4292dd48a79f2dcca393775906b831> ]
+>>
+startxref
+137125
+%%EOF
