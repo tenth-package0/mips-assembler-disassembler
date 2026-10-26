@@ -1,0 +1,69 @@
+Module 5 verification
+openjdk version "17.0.20.1" 2026-08-18
+OpenJDK Runtime Environment Temurin-17.0.20.1+1 (build 17.0.20.1+1)
+OpenJDK 64-Bit Server VM Temurin-17.0.20.1+1 (build 17.0.20.1+1, mixed mode, sharing)
+PASS Part 1 known instruction words
+PASS Forward/backward branch offsets and jump target
+PASS li widths and immediate boundaries
+PASS All supported real instructions and pseudos round trip
+  Expected error: Line 2: Unsupported instruction: mul
+PASS Parser rejects unsupported instruction with line number
+  Expected error: Line 1: Undefined label: missing
+PASS Undefined label
+  Expected error: Line 2: Duplicate label: x
+PASS Duplicate label
+  Expected error: Line 1: Unknown register: $t99
+PASS Invalid register
+  Expected error: Line 1: Value out of range: 32768
+PASS Signed immediate overflow
+  Expected error: Line 1: Value out of range: -1
+PASS Unsigned immediate overflow
+  Expected error: Line 1: Expected 3 comma-separated operand(s).
+PASS Wrong operand count
+  Expected error: Line 1: Unsupported directive: .word
+PASS Unsupported directive
+  Expected error: Line 2: Instructions must be in .text.
+PASS Instruction in data
+  Expected error: Line 4: Branch/jump target is not in .text: x
+PASS Branch into data
+  Expected error: Line 2: Unclosed quote.
+PASS Unclosed quote
+  Expected error: Line 1: rem divisor cannot be zero.
+PASS Zero divisor
+  Expected error: Line 1: rem reserves $at.
+PASS Reserved temporary register
+  Expected error: Line 2: Value out of range: 256
+PASS Bad byte
+PASS BOM, CRLF, comment characters, and character literal
+PASS Both image formats preserve non-word-aligned data
+  Expected error: Truncated MHC1 header.
+PASS Truncated header
+  Expected error: Bad MHC1 magic/version.
+PASS Bad magic
+  Expected error: Unsupported segment starting addresses.
+PASS Wrong starting address
+  Expected error: Invalid segment lengths or file size.
+PASS Wrong segment length
+  Expected error: Invalid segment lengths or file size.
+PASS Trailing bytes
+  Expected error: ASCII image accepts only 0, 1, and whitespace.
+PASS Invalid ASCII character
+  Expected error: Incomplete byte in ASCII image.
+PASS Incomplete ASCII byte
+PASS Unknown opcode rejected
+PASS Reserved bits rejected instead of silently discarded
+ALL 29 TESTS PASSED
+Assembled 45 instructions; 10 data bytes.
+Wrote <temp>/fizzbuzz.mhc-ascii and <temp>/fizzbuzz.mhc-bin
+Binary image: 210 bytes (20 header + 180 text + 10 data)
+SHA-256: 521b0b9dbde491f888cdd0c7047bc5a382af40e213d60275bba391153022553f
+Wrote <temp>/mhc-ascii.asm; reassembly bytes verified.
+PASS mhc-ascii: reconstructed source and BOTH reassembled files match
+Wrote <temp>/mhc-bin.asm; reassembly bytes verified.
+PASS mhc-bin: reconstructed source and BOTH reassembled files match
+PASS CLI invalid input: exit 1; Assembly failed: Line 2: Unsupported instruction: mul
+PASS MARS: fizzbuzz.asm prints all 100 expected lines
+PASS MARS: mhc-ascii.asm prints all 100 expected lines
+PASS MARS: mhc-bin.asm prints all 100 expected lines
+Expected output sample: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
+VERIFICATION PASSED

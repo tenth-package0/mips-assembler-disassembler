@@ -1,0 +1,5 @@
+*.class
+__pycache__/
+roundtrip*
+reconstructed-ascii.asm
+.DS_Store
